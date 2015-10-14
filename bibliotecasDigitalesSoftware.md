@@ -67,3 +67,5 @@
 
     Muy facilidad de uso. Registro de usuarios, gestión de los mismos, cuentas de administrador o "bibliotecario", organización de recursos bastante potente. Permite acceso online.
     Su mayor problema es que solo permite textos y que tiene una interfaz muy pobre con solo texto
+    
+Hemos optado por OpenBiblio
