@@ -12,4 +12,4 @@ Para que funcione simplemente debemos copiar el directorio **web** a nuestro dir
 
 [Documentación](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/documentacion.md)
 
-[Implementación y documentación completa  pdf](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/pdf.pdf]
+[Implementación y documentación completa  pdf](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/pdf.pdf)
