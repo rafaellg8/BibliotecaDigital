@@ -113,6 +113,6 @@ problemas de un servidor a otro, de un sistema a operativo a otro, y sobre todo 
 saber algo de Apache si se quiere instalar en Linux.
 Aunque no cuenta como biblioteca digital, tenemos asociado un sistema de foros que
 complementa la biblioteca digital. Tenemos más información aquí:
-- [pluco](http://www.pluco.heroku.com)
+- [pluco](http://pluco.heroku.com)
 - [repositorio github PLUCO](http://gihtub.com/rafaellg8/IV-PLUCO-RLG)
 - [Implementación y documentación completa](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/pdf.pdf)
