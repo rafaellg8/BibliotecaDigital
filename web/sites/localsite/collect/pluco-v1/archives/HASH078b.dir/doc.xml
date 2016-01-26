@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Microsoft Word - ej4 GRD.docx</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188194/ej4 GRD.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188194/ej4 GRD.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\GRD\ej4 GRD.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1450188194\ej4 GRD.html</Metadata>
+    <Metadata name="OrigSource">ej4 GRD.html</Metadata>
+    <Metadata name="Source">ej4 GRD.pdf</Metadata>
+    <Metadata name="SourceFile">ej4 GRD.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">89676</Metadata>
+    <Metadata name="FilenameRoot">ej4 GRD</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">6</Metadata>
+    <Metadata name="PLUCO.Creator">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.Description">Ejercicios del Tema 4 de GRD</Metadata>
+    <Metadata name="PLUCO.Title">Ejercicios Tema 4</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.curse">4</Metadata>
+    <Metadata name="PLUCO.date">20-11-15</Metadata>
+    <Metadata name="PLUCO.description">Ejercicios resueltos del tema 4 de GRD</Metadata>
+    <Metadata name="PLUCO.signature">GRD|EJ4</Metadata>
+    <Metadata name="PLUCO.tags">GRD</Metadata>
+    <Metadata name="PLUCO.tags">Ejercicios</Metadata>
+    <Metadata name="PLUCO.tags">Tema 4</Metadata>
+    <Metadata name="PLUCO.theme">GRD</Metadata>
+    <Metadata name="PLUCO.title">Ejercicios Tema 4 - GRD</Metadata>
+    <Metadata name="Identifier">HASH078b445dfae37ec94a9a50</Metadata>
+    <Metadata name="lastmodified">1450179459</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1450188197</Metadata>
+    <Metadata name="oailastmodifieddate">20151215</Metadata>
+    <Metadata name="assocfilepath">HASH078b.dir</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;b&gt;Ley Propiedad Intelectual  &lt;br&gt;&lt;/b&gt; &lt;br&gt;Arículo 71 K  &lt;br&gt; &lt;br&gt;• Las bibliotecas y archivos que no tengan fines lucrativos podrán, sin &lt;br&gt;que se requiera autorización del autor o titular, ni pago de remuneración &lt;br&gt;alguna, efectuar la reproducción electrónica de obras de su colección para &lt;br&gt;ser consultadas gratuita y simultáneamente hasta por un número &lt;br&gt;razonable de usuarios, sólo en terminales de redes de la respectiva &lt;br&gt;institución y en condiciones que garanticen que no se puedan hacer &lt;br&gt;copias electrónicas de esas reproducciones. &lt;br&gt; &lt;br&gt;&lt;b&gt;Requisito 1  &lt;br&gt;&lt;/b&gt; &lt;br&gt;Consulta simultánea por número razonable de usuarios. &lt;br&gt; &lt;br&gt;• Ni la ley o el reglamento establecen que se entiende por un número &lt;br&gt;razonable de usuarios  &lt;br&gt;• Exigencia de restringir el “acceso simultáneo” al documento, es decir, la &lt;br&gt;cantidad de usuarios que podrían consultar el contenido digital al mismo &lt;br&gt;tiempo (accesos concurrentes).  &lt;br&gt;• No bastaría con “digitalizar” una obra y asociarla al catálogo de la &lt;br&gt;biblioteca, ya que sería necesario controlar además la cantidad de &lt;br&gt;usuarios que podrían consultarla concurrentemente  &lt;br&gt;• Bloquear la consulta que exceda dicha cantidad. Consulta simultánea &lt;br&gt;por número razonable de usuarios En los Estándares para Bibliotecas &lt;br&gt;Universitarias Chilenas no se hace referencia a la cantidad mínima &lt;br&gt;recomendable de accesos simultáneos para los recursos electrónicos.  &lt;br&gt; &lt;br&gt;&lt;b&gt;Requisito 2  &lt;br&gt;&lt;/b&gt; &lt;br&gt;Terminales de Redes de la Institución. &lt;br&gt; &lt;br&gt;• “Terminales de la respectiva institución”, ¿se puede entender en su &lt;br&gt;sentido más amplio?  &lt;br&gt;• La OMPI ha interpretado estas disposiciones en forma restrictiva, es &lt;br&gt;decir, como terminales físicos instalados en dependencias de la &lt;br&gt;biblioteca. &lt;br&gt;
+• Que sucedería entonces con…  &lt;br&gt;• ¿Bibliotecas Virtuales?  &lt;br&gt;• ¿Bibliotecas departamentales?  &lt;br&gt;• ¿Redes de Bibliotecas?  &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt; &lt;br&gt;&lt;b&gt;Requisito 3  &lt;br&gt;&lt;/b&gt; &lt;br&gt; Garantizar imposibilidad de hacer copias electrónicas. &lt;br&gt; &lt;br&gt;• La única forma de garantizar esta condición es incorporar alguna técnica &lt;br&gt;del tipo Digital Rights Management al contenido digital al momento de &lt;br&gt;su reproducción.  &lt;br&gt;• Se prohíbe la reproducción, pero que sucede con:  &lt;br&gt;• Reproducción impresa  &lt;br&gt;• Extracción de fragmentos de la obra electrónica  &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;b&gt;Derecho de Autor y Bibliotecas en el Ambiente Digital  &lt;br&gt;&lt;/b&gt; &lt;br&gt;• Section 108 de la ley de copyright de los Estados Unidos  &lt;br&gt;• 2013 (Febrero), necesidad de modificarla para su implementación en el &lt;br&gt;ambiente digital  &lt;br&gt;• El objetivo de las modificaciones es precisamente permitir que las &lt;br&gt;bibliotecas y archivos puedan desempeñar sus responsabilidades &lt;br&gt;relacionadas con la conservación y el acceso a los contenidos  &lt;br&gt;• Advirtiendo que sin dichas reformas, las excepciones consagradas en la &lt;br&gt;“Section 108” se volverán cada vez más inútiles, estrechamente &lt;br&gt;personalizadas o sobrepasadas por la tecnología. &lt;br&gt;
+• Maria Pallante, Register of Copyrights U.S. Copyright Office  &lt;br&gt;
+• 2008 : Informe sobre los derechos de autor en la economía del &lt;br&gt;conocimiento (Libro Verde) &lt;br&gt; • la Directiva de la Unión Europea sobre el Derecho de Autor en la &lt;br&gt;Sociedad de la Información (DUEDA) plantea dos problemas &lt;br&gt;fundamentales:  &lt;br&gt;• la producción de copias digitales de materiales pertenecientes a las &lt;br&gt;colecciones de las bibliotecas &lt;br&gt;• la entrega electrónica de estas copias a los usuarios Autorizar el derecho &lt;br&gt;de comunicación al público y el derecho de puesta a disposición de obras &lt;br&gt;u otras prestaciones, a efectos de investigación o de estudio personal, a &lt;br&gt;través de terminales especializados instalados en los locales de estos &lt;br&gt;establecimientos. &lt;br&gt;• En diversos informes de la OMPI se reconoce la necesidad de que las &lt;br&gt;excepciones a la protección otorgada por el derecho de autor a favor de &lt;br&gt;las bibliotecas y archivos deban ser revisadas a la luz de las nuevas &lt;br&gt;exigencias y desafíos que nos ofrecen las tecnologías digitales, con &lt;br&gt;especial atención a las plataformas disponibles bajo Internet. &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt; • Debemos preguntarnos además sobre la posibilidad que establece la &lt;br&gt;declaración concertada de los Tratados Internet de la OMPI para crear &lt;br&gt;“nuevas” excepciones y limitaciones para el entorno digital, en el sentido &lt;br&gt;de que éstas deben:  &lt;br&gt;
+• ser distintas a las excepciones o limitaciones existentes y  &lt;br&gt;• a las ampliaciones de las mismas.  &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;La biblioteca digital como espacio educativo&lt;/b&gt; &lt;br&gt;
+La educación a distancia, comparada con la tradicional, presenta una serie &lt;br&gt;de ventajas tanto para los educandos como para las instituciones &lt;br&gt;educativas: la flexibilidad de horarios, en el primer caso, y la &lt;br&gt;optimización de recursos, en el segundo. En el ámbito nacional, lo mismo &lt;br&gt;que en el internacional, la tendencia a prescindir del contacto presencial &lt;br&gt;de educandos y educadores sigue en aumento. La tecnología avanza a &lt;br&gt;pasos agigantados y con ello se hace patente la necesidad de contar con &lt;br&gt;diferentes formas de educación que aprovechen sus bondades. En este &lt;br&gt;contexto, el buen uso de la tecnología ofrece la posibilidad no sólo de &lt;br&gt;impartir cursos a distancia, sino de encontrar en un solo lugar la &lt;br&gt;información y recursos didácticos que apoyen la instrucción, a lo cual &lt;br&gt;puede accederse de una manera rápida, lógica y didáctica, que transforme &lt;br&gt;dicha información en aprendizaje significativo para los usuarios de dicho &lt;br&gt;espacio educativo. &lt;br&gt;
+El interés por conocer cuál es la trascendencia de la participación de las &lt;br&gt;Bibliotecas Digitales (BD), que apoyan la formación intelectual de los &lt;br&gt;alumnos de las modalidades a distancia y las relaciones que las unidades &lt;br&gt;documentales tienen con los docentes, investigadores y alumnos, motivan &lt;br&gt;este trabajo de investigación. &lt;br&gt;
+La BD es un espacio educativo por excelencia, un lugar donde se &lt;br&gt;entrelazan la información y los conocimientos; un medio para que el &lt;br&gt;trabajo colaborativo fructifique; un sitio en el que se encuentran recursos &lt;br&gt;informativos, contenidos didácticos y los usuarios, además de los &lt;br&gt;&amp;quot;bibliotecarios digitales&amp;quot;; es decir, el personal profesional que en un &lt;br&gt;ámbito virtual cumple las funciones de un bibliotecario tradicional en la &lt;br&gt;institución análoga (Biblioteca Presencial o BP), conjunto que genera &lt;br&gt;nuevos conocimientos en la interacción entre los medios y la &lt;br&gt;información. &lt;br&gt;
+&lt;b&gt;Dominio público de BD:&lt;/b&gt; ofrece una colección de libros, vídeos, &lt;br&gt;audios,… de dominio público libres de derechos y originales gratuitos. &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Licencias &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Definición Copyleft &lt;/b&gt;&lt;br&gt;
+&amp;quot;Copyleft&amp;quot;  es  el  término  usado  mayoritariamente  para  referirse  a  las &lt;br&gt;licencias libres. &lt;br&gt;
+Entendemos  por  licencias  copyleft  aquellas  que  permitiendo  un  mayor &lt;br&gt;control  de  los  creadores  sobre  sus  obras,  investigaciones  y  proyectos  y &lt;br&gt;una  remuneración  compensatoria  más  razonable  por  su  trabajo,  también &lt;br&gt;permiten a los usuarios finales un mejor acceso y disfrute de los bienes &lt;br&gt;bajo este tipo de licencias no restrictivas. &lt;br&gt;
+La Fundación  Copyleft define &lt;b&gt;copyleft &lt;/b&gt;como  “grupo  de  licencias  cuyo &lt;br&gt;objetivo es garantizar que cada persona que recibe una copia de una obra &lt;br&gt;pueda  a  su  vez  usar,  modificar  y  redistribuir  el  propio  trabajo  y  las &lt;br&gt;versiones  derivadas  del  mismo.  Unas  veces  se  permite  el  uso  comercial &lt;br&gt;de  dichos  trabajos  y  en  otras  ocasiones  no,  dependiendo  qué  derechos &lt;br&gt;quiera ceder el autor.” &lt;br&gt;
+&lt;b&gt;TIPOS DE LICENCIAS COPYLEFT &lt;/b&gt;&lt;br&gt;
+A continuación presentamos algunos tipos de licencias copyleft: &lt;br&gt;
+&lt;b&gt;Creative Commons &lt;/b&gt;&lt;br&gt;
+Creative Commons es una organización internacional sin ánimo de lucro &lt;br&gt;que  ofrece  un  abanico  de  licencias  que  abarcan  desde  el  tradicional &lt;br&gt;sistema de derechos de autor hasta el dominio público. Con las licencias &lt;br&gt;Creative  Commons  el  autor  autoriza  el  uso  de  su  obra,  pero  la  obra &lt;br&gt;continúa estando protegida. &lt;br&gt;
+El  sistema  funciona  de  la  siguiente  forma:  el  autor  que  crea  una  obra  y &lt;br&gt;quiere explotarla a través de Internet escoge una de las licencias Creative &lt;br&gt;Commons  y,  cuando  cuelga  su  obra  en  Internet,  la  identifica  con  el &lt;br&gt;símbolo Creative Commons y le adjunta la licencia de uso. Así, cuando &lt;br&gt;los  usuarios  accedan  al  documento  podrán  identificar  fácilmente  cuales &lt;br&gt;son las condiciones que el autor ha establecido para el uso de la obra. &lt;br&gt;
+Su  objetivo  fundamental  es  complementar  el  régimen  actual  de  los &lt;br&gt;derechos de autor, y con tal propósito han desarrollado seis licencias, en &lt;br&gt;base a cuatro condiciones básicas: el reconocimiento (attribution), la no-&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;comercialización (non commercial), la no creación de obras derivadas (no &lt;br&gt;derivate works) y el compartir igual (share alike). &lt;br&gt;
+&lt;b&gt;GPL &lt;/b&gt;&lt;br&gt;
+La FSF  (Free  Software  Foundation) mantiene  y  defiende  la &lt;b&gt;Licencia &lt;br&gt;Pública General de GNU.&lt;/b&gt; &lt;br&gt;
+Está  orientada  principalmente  a  proteger  la  libre  distribución, &lt;br&gt;modificación  y  uso  de  software  y  es  usada  por  la  mayoría  de  los &lt;br&gt;programas de GNU y más de la mitad de los paquetes de software libre. &lt;br&gt;
+Su  propósito  es  declarar  que  el  software  cubierto  por  esta  licencia  es &lt;br&gt;software libre y protegerlo de intentos de apropiación que restrinjan esas &lt;br&gt;libertades a los usuarios &lt;br&gt;
+Aparte  la  FSF  también  es  responsable  de  la &lt;b&gt;Licencia  Pública General &lt;br&gt;Reducida  GNU  (GNU  LGPL),&lt;/b&gt;   la &lt;b&gt;Licencia de  documentación  libre &lt;br&gt;GNU (GNU FDL)&lt;/b&gt; y &lt;b&gt;Licencia Pública General de Affero de GNU.&lt;/b&gt; &lt;br&gt;
+Podéis encontrar más información en la web oficial de GNU &lt;br&gt;
+&lt;b&gt;Coloriuris &lt;/b&gt;&lt;br&gt;
+ColorIuris es un sistema que nació  en Zaragoza en 2005 desarrollado por &lt;br&gt;el abogado Pedro Canut. &lt;br&gt;
+Se define como “un sistema mixto de autogestión y cesión de derechos de &lt;br&gt;autor  en  línea  a  partir  del  modelo  continental”  con  efectos  legales  para &lt;br&gt;creadores de 25 países, entre los cuales se encuentra España. &lt;br&gt;
+Combina herramientas web y herramientas jurídicas para que los titulares &lt;br&gt;de  derechos  de  autor  puedan  registrar  sus  contenidos  digitales  y &lt;br&gt;autogestionar  sus  derechos  de  autor  (de  forma  gratuita  o  remunerada) &lt;br&gt;dentro y fuera de la red, con seguridad jurídica a nivel internacional. &lt;br&gt;
+ColorIuris  está  destinado  a  los  creadores  de  contenidos  (literarios, &lt;br&gt;musicales, audiovisuales y fotográficos) que utilizan el World Wide Web &lt;br&gt;para su difusión, publicación y/o puesta a disposición que quieran ceder &lt;br&gt;los derechos patrimoniales de sus creaciones dentro y fuera de la red. &lt;br&gt;
+&lt;b&gt;ColorIURIS&lt;/b&gt; otorga  a  los  autores  diferentes  posibilidades  de  usar &lt;br&gt;los &lt;b&gt;acuerdos  de  licencia&lt;/b&gt; (contratos),  a  elección  de  los  titulares  de  los &lt;br&gt;derechos, en función de donde esté alojado el contenido. &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;Los colores juegan un papel esencial en ColorIURIS, ya que a través de &lt;br&gt;un  código  de  colores  que  incluye  el  rojo,  amarillo,  verde  y  azul  se &lt;br&gt;informa  al  visitante  de  un  sitio  web  de  la  política  de  derechos  de  autor &lt;br&gt;que ha establecido el propietario del mismo. &lt;br&gt;
+El significado de los colores no solamente depende del tono, sino también &lt;br&gt;de su situación. &lt;br&gt;
+Si  queréis  ampliar  información  y  seleccionar  la  que  más  os  interese &lt;br&gt;visitad la página oficial de ColorIURIS. &lt;br&gt;
+ &lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,29 @@
+s
+************ Iniciando el proceso de importación de la colección ************
+El fichero metadata.xml está siendo procesado por MetadataXMLPlugin.
+El fichero GRD\metadata.xml está siendo procesado por MetadataXMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183381\GRD_Tema1_RafaelLachicaGarrido.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183386\TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1).html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183390\ej4 GRD.html está siendo procesado por HTMLPlugin.
+El fichero ISE\ISE - Examen febrero 2013.pdf fue reconocido pero no pudo ser procesado por ningún plugin.
+El fichero ISE\ISE - Relaciones de Ejercicios.pdf fue reconocido pero no pudo ser procesado por ningún plugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183401\Practica 02_CrypTool.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183406\SPSI_P2.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183411\Practica 03_Algoritmos Simetricos.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183415\spsi_p3_F.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183420\Pr%C3%A1ctica 4SPSI.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183424\SPSI-P5.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183428\SPSI-P6.html está siendo procesado por HTMLPlugin.
+El fichero C:\Users\rafaellg8\Greenstone3\web\sites\localsite\collect\pluco\tmp\1450183433\SPSI-HILL.html está siendo procesado por HTMLPlugin.
+*********** El proceso de importación de la colección ha terminado ***********
+13 de los documentos fueron considerados a efecto de ser procesados:
+    11 se procesaron e incluidos en la colección.
+    2 rechazados.
+
+************ Iniciando el proceso de construcción de la colección ************
+Comprimiendo el texto...
+Creando un índice basado en PLUCO.Title;PLUCO.autor;PLUCO.description,PLUCO.tags;PLUCO.theme;PLUCO.signature;::es...
+Creando un índice basado en PLUCO.Title;PLUCO.autor;PLUCO.description,PLUCO.tags;PLUCO.theme;PLUCO.signature;::en...
+Creando una base de datos de información...
+Creando los ficheros auxiliares y poniéndolos en orden...
+*********** El proceso de construcción de la colección ha terminado ***********

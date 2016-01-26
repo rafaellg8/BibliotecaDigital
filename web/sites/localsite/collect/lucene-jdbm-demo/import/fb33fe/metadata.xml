@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+    <FileSet>
+        <FileName>.*</FileName>
+        <Description>
+            <Metadata name="dc.Title">Farming snails 1: Learning about snails; Building a pen; Food and shelter plants (fb33fe)</Metadata>
+            <Metadata mode="accumulate" name="dc.Language">English</Metadata>
+            <Metadata mode="accumulate" name="dc.Subject">Agriculture and Food Processing|Better Farming series of FAO and INADES - 46 booklets</Metadata>
+            <Metadata mode="accumulate" name="dc.Subject">Settlements, Housing, Building - Infrastructure Construction (Roads etc)|Settlements and housing: general works incl. low- cost housing, planning techniques, surveying, etc.</Metadata>
+            <Metadata mode="accumulate" name="dls.Organization">FAO Better Farming series</Metadata>
+         </Description>
+    </FileSet>
+</DirectoryMetadata>

@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><page xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" lang="en">
+<pageRequest action="b" baseURL="http://localhost:8383/greenstone3/" fullURL="http://localhost:8383/greenstone3/library/collection/pluco/browse/CL1" lang="en" output="html" remoteAddress="0:0:0:0:0:0:0:1" to="" type="page">
+<userContext lang="en" uid="1" username=""/>
+<paramList>
+<param name="s" value="ClassifierBrowse"/>
+<param name="c" value="pluco"/>
+<param name="rt" value="s"/>
+<param name="cl" value="CL1"/>
+</paramList>
+<extraMetadataList>
+<extraMetadata name="Latitude"/>
+<extraMetadata name="Longitude"/>
+<extraMetadata name="Image"/>
+<extraMetadata name="SourceFile"/>
+<extraMetadata name="assocfilepath"/>
+<extraMetadata name="PhotoType"/>
+<extraMetadata name="cv.rotation"/>
+<extraMetadata name="ex.Angle"/>
+<extraMetadata name="Angle"/>
+<extraMetadata name="Date"/>
+<extraMetadata name="dc.Title"/>
+<extraMetadata name="exp.Title"/>
+<extraMetadata name="ex.dc.Title"/>
+<extraMetadata name="Title"/>
+</extraMetadataList>
+</pageRequest>
+<pageResponse>
+<service name="ClassifierBrowse" type="browse">
+<displayItem name="name">Navegar</displayItem>
+<displayItem name="description">Navegar jerarquías de clasificación predefinidas</displayItem>
+<classifierList>
+<classifier content="T?tulo" name="CL1">
+<displayItem name="name">Título</displayItem>
+<displayItem name="description">Navegar por Título</displayItem>
+</classifier>
+<classifier content="Temas" name="CL2">
+<displayItem name="name">Temas</displayItem>
+<displayItem name="description">Navegar por Temas</displayItem>
+</classifier>
+<classifier content="Autores" name="CL3">
+<displayItem name="name">Autores</displayItem>
+<displayItem name="description">Navegar por Autores</displayItem>
+</classifier>
+</classifierList>
+</service>
+<metadataList>
+<metadata lang="en" name="siteName">My Greenstone Library</metadata>
+<metadata lang="fr" name="siteName">Mon site de dÃ©velopment</metadata>
+<metadata lang="en" name="siteDescription">This is just a random site for testing stuff...</metadata>
+<metadata lang="fr" name="siteDescription">C'est juste un site pour tester des trucs...</metadata>
+<metadata name="siteAdmin">admin@example.com</metadata>
+</metadataList>
+<interfaceOptions>
+<option name="library_name" value="library"/>
+<option name="cssTheme" value="interfaces/default/style/themes/main/jquery-ui-1.8.16.custom.css"/>
+<option name="documentBasket" value="true"/>
+<option name="collName" value=""/>
+<option name="interface_name" value="default"/>
+<option name="site_name" value="localsite"/>
+<option name="lang" value="en"/>
+<option name="highlightQueryTerms" value="true"/>
+<option name="berryBaskets" value="true"/>
+<option name="allow_client_side_xslt" value="false"/>
+</interfaceOptions>
+<format type="browse">
+			<gsf:template match="documentNode">
+				<td valign="top">
+					<gsf:link type="document">
+						<gsf:icon type="document"/>
+					</gsf:link>
+				</td>
+				<td valign="top">
+					<gsf:link type="source">
+						<gsf:choose-metadata>
+							<gsf:metadata name="thumbicon"/>
+							<gsf:metadata name="srcicon"/>
+						</gsf:choose-metadata>
+					</gsf:link>
+				</td>
+				<td valign="top">
+					<gsf:link type="document">
+<!--
+Defined in the global format statement
+-->
+						<xsl:call-template name="choose-title"/>
+						<gsf:switch>
+							<gsf:metadata name="Source"/>
+							<gsf:when test="exists">
+								<br/>
+								<i>(<gsf:metadata name="Source"/>)</i>
+							</gsf:when>
+						</gsf:switch>
+					</gsf:link>
+				</td>
+			</gsf:template>
+			<gsf:template match="classifierNode[@classifierStyle = 'VList']">
+				<td valign="top">
+					<gsf:link type="classifier">
+						<gsf:icon type="classifier"/>
+					</gsf:link>
+				</td>
+				<td valign="top">
+					<gsf:metadata name="Title"/>
+				</td>
+			</gsf:template>
+			<gsf:template match="classifierNode[@classifierStyle = 'HList']">
+				<gsf:link type="classifier">
+					<gsf:metadata name="Title"/>
+				</gsf:link>
+			</gsf:template>
+		<gsf:template name="choose-title">
+				<gsf:choose-metadata>
+					<gsf:metadata name="dc.Title"/>
+					<gsf:metadata name="exp.Title"/>
+					<gsf:metadata name="ex.dc.Title"/>
+					<gsf:metadata name="Title"/>
+					<gsf:default>Untitled</gsf:default>
+				</gsf:choose-metadata>
+			</gsf:template>
+</format>
+<classifier childType="VList" name="CL1" nodeID="CL1">
+<classifierNode childType="VList" classifierStyle="VList" nodeID="CL1.1">
+<metadataList>
+<metadata name="Title">Cifrado de Hill</metadata>
+</metadataList>
+</classifierNode>
+<classifierNode childType="VList" classifierStyle="VList" nodeID="CL1.2">
+<metadataList>
+<metadata name="Title">Ejercicios Tema 1 - GRD</metadata>
+</metadataList>
+</classifierNode>
+<classifierNode childType="VList" classifierStyle="VList" nodeID="CL1.3">
+<metadataList>
+<metadata name="Title">Ejercicios Tema 4 - GRD</metadata>
+</metadataList>
+</classifierNode>
+<classifierNode childType="VList" classifierStyle="VList" nodeID="CL1.4">
+<metadataList>
+<metadata name="Title">Práctica 2 - SPSI - Cryptool</metadata>
+</metadataList>
+</classifierNode>
+<classifierNode childType="VList" classifierStyle="VList" nodeID="CL1.5">
+<metadataList>
+<metadata name="Title">Práctica 3 - SPSI - Algoritmos Simétricos</metadata>
+</metadataList>
+</classifierNode>
+<classifierNode childType="VList" classifierStyle="VList" nodeID="CL1.6">
+<metadataList>
+<metadata name="Title">Sonidos en una bibioteca digital</metadata>
+</metadataList>
+</classifierNode>
+</classifier>
+<languageList>
+		<language name="en">
+			<displayItem name="name">English</displayItem>
+		</language>
+		<language name="fr">
+			<displayItem name="name">Français</displayItem>
+		</language>
+		<language name="es">
+			<displayItem name="name">Español</displayItem>
+		</language>
+		<language name="ar">
+			<displayItem name="name">Arabic</displayItem>
+		</language>
+		<language name="bg">
+			<displayItem name="name">Bulgarian</displayItem>
+		</language>
+		<language name="bn">
+			<displayItem name="name">????? (Bengali)</displayItem>
+		</language>
+		<language name="ca">
+			<displayItem name="name">Català (Catalan)</displayItem>
+		</language>
+		<language name="cs">
+			<displayItem name="name">?esky (Czech)</displayItem>
+		</language>
+		<language name="de">
+			<displayItem name="name">Deutsch (German)</displayItem>
+		</language>
+		<language name="el">
+			<displayItem name="name">???????? (Greek)</displayItem>
+		</language>
+		<language name="fa">
+			<displayItem name="name">Farsi</displayItem>
+		</language>
+		<language name="fi">
+			<displayItem name="name">Finnish</displayItem>
+		</language>
+		<language name="gd">
+			<displayItem name="name">Gaelic (Scottish)</displayItem>
+		</language>
+		<language name="gl">
+			<displayItem name="name">Galician</displayItem>
+		</language>
+		<language name="he">
+			<displayItem name="name">Hebrew</displayItem>
+		</language>
+		<language name="hi">
+			<displayItem name="name">Hindi</displayItem>
+		</language>
+		<language name="hu">
+			<displayItem name="name">Hungarian</displayItem>
+		</language>
+		<language name="hy">
+			<displayItem name="name">Armenian</displayItem>
+		</language>
+		<language name="id">
+			<displayItem name="name">Bahasa Indonesia (Indonesian)</displayItem>
+		</language>
+		<language name="it">
+			<displayItem name="name">Italiano</displayItem>
+		</language>    
+		<language name="jp">
+			<displayItem name="name">???</displayItem>
+		</language>
+		<language name="ka">
+			<displayItem name="name">Georgian</displayItem>
+		</language>
+		<language name="kk">
+			<displayItem name="name">????? (Kazakh)</displayItem>
+		</language>
+		<language name="kn">
+			<displayItem name="name">Kannada</displayItem>
+		</language>
+		<language name="ky">
+			<displayItem name="name">???????? (Kirghiz)</displayItem>
+		</language>    
+		<language name="lv">
+			<displayItem name="name">Latvian</displayItem>
+		</language>
+		<language name="mi">
+			<displayItem name="name">M?ori</displayItem>
+		</language>
+		<language name="ml">
+			<displayItem name="name">Malayalam</displayItem>
+		</language>
+		<language name="mn">
+			<displayItem name="name">?????? (Mongolian)</displayItem>
+		</language>
+		<language name="mr">
+			<displayItem name="name">Marathi</displayItem>
+		</language>
+		<language name="nl">
+			<displayItem name="name">Nederlands (Dutch)</displayItem>
+		</language>
+		<language name="pl">
+			<displayItem name="name">polski (Polish)</displayItem>
+		</language>
+		<language name="pt-br">
+			<displayItem name="name">português-BR (Brasil)</displayItem>
+		</language>
+		<language name="pt-pt">
+			<displayItem name="name">português-PT (Portugal)</displayItem>
+		</language>
+		<language name="ps">
+			<displayItem name="name">Pushto</displayItem>
+		</language>
+		<language name="prs">
+			<displayItem name="name">Dari</displayItem>
+		</language>
+		<language name="ro">
+			<displayItem name="name">Romanian</displayItem>
+		</language>
+		<language name="ru">
+			<displayItem name="name">??????? (Russian)</displayItem>
+		</language>
+		<language name="si">
+			<displayItem name="name">Sinhalese</displayItem>
+		</language>
+		<language name="sk">
+			<displayItem name="name">Sloven?ina (Slovak)</displayItem>
+		</language>
+		<language name="sr">
+			<displayItem name="name">Serbian</displayItem>
+		</language>
+		<language name="ta">
+			<displayItem name="name">Tamil</displayItem>
+		</language>	
+		<language name="te">
+			<displayItem name="name">Telugu</displayItem>
+		</language>
+		<language name="th">
+			<displayItem name="name">Thai</displayItem>
+		</language>
+		<language name="tr">
+			<displayItem name="name">Turkish</displayItem>
+		</language>
+		<language name="uk">
+			<displayItem name="name">Ukrainian</displayItem>
+		</language>
+		<language name="ur">
+			<displayItem name="name">Urdu</displayItem>
+		</language>
+		<language name="vi">
+			<displayItem name="name">Ti?ng Vi?t</displayItem>
+		</language>
+		<language name="zh">
+			<displayItem name="name">???? (Simplified Chinese)</displayItem>
+		</language>
+		<language name="zh-tr">
+			<displayItem name="name">???? (Traditional Chinese)</displayItem>
+		</language>
+	</languageList>
+<collection dbType="gdbm" name="pluco" type="mgpp">
+<displayItem assigned="true" lang="en" name="description">University Platform for Knowledgment
+
+Digital Library, gather the material associated for a Grade of Computer Science
+
+Authors:
+- Rafael Lachica Garido
+- Miguel Fernández Ferández</displayItem>
+<displayItem assigned="true" lang="es" name="smallicon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="icon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="name">PLUCO</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Creator,PLUCO.autor,Author">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.description,PLUCO.tags">Búsqueda por etiquetas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.signature">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl">Búsqueda todos los campos</displayItem>
+<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+<displayItem assigned="true" lang="en" name="document">document</displayItem>
+<displayItem assigned="true" lang="en" name="section">section</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Title,PLUCO.title,Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.autor">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.description,PLUCO.tags">Palabras claves</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="en" name="text">text</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">titles</displayItem>
+<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+<displayItem assigned="true" lang="en" name="shortDescription">pluco</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.signature">PLUCO.signature</displayItem>
+<displayItem assigned="true" lang="es" name=".es">SPANISH</displayItem>
+<displayItem assigned="true" lang="es" name=".en">ENGLISH</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.description,PLUCO.tags">text,PLUCO.description,PLUCO.tags</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Creator,PLUCO.autor,Author">text,PLUCO.Creator,PLUCO.autor,Author</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl">text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.theme">PLUCO.theme</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.Title,PLUCO.title,Title">PLUCO.Title,PLUCO.title,Title</displayItem>
+<serviceList>
+<service name="TextQuery" type="query">
+<displayItem name="name">Búsqueda por texto</displayItem>
+<displayItem name="submit">Buscar</displayItem>
+<displayItem name="description">Servicio de búsqueda por texto completo y/o metadatos</displayItem>
+<paramList>
+<param default="Sec" name="level" type="enum_single">
+<displayItem name="name">Nivel de granularidad con el que buscar</displayItem>
+<option name="Doc">
+<displayItem name="name">document</displayItem>
+</option>
+<option name="Sec">
+<displayItem name="name">section</displayItem>
+</option>
+</param>
+<param default="1" name="case" type="boolean">
+<displayItem name="name">Activar may/min</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="0" name="stem" type="boolean">
+<displayItem name="name">Activar truncamiento</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="1" name="accent" type="boolean">
+<displayItem name="name">Activar acentos</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="some" name="matchMode" type="enum_single">
+<displayItem name="name">Coincidir</displayItem>
+<option name="some">
+<displayItem name="name">algunas</displayItem>
+</option>
+<option name="all">
+<displayItem name="name">todos</displayItem>
+</option>
+</param>
+<param default="1" name="sortBy" type="enum_single">
+<displayItem name="name">Orden de visualización de docuimentos</displayItem>
+<option name="1">
+<displayItem name="name">ranking</displayItem>
+</option>
+<option name="0">
+<displayItem name="name">natural</displayItem>
+</option>
+</param>
+<param default="es" name="indexLanguage" type="enum_single">
+<displayItem name="name">Idioma del índice</displayItem>
+<option name="es">
+<displayItem name="name">es</displayItem>
+</option>
+<option name="en">
+<displayItem name="name">en</displayItem>
+</option>
+</param>
+<param default="TC" name="index" type="enum_single">
+<displayItem name="name">Indice en el cual buscar</displayItem>
+<option name="TI">
+<displayItem name="name">PLUCO.Title,PLUCO.title,Title</displayItem>
+</option>
+<option name="TE">
+<displayItem name="name">Búsqueda por autores</displayItem>
+</option>
+<option name="TT">
+<displayItem name="name">Búsqueda por etiquetas</displayItem>
+</option>
+<option name="TH">
+<displayItem name="name">Búsqueda por temas</displayItem>
+</option>
+<option name="SI">
+<displayItem name="name">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+</option>
+<option name="TC">
+<displayItem name="name">Búsqueda todos los campos</displayItem>
+</option>
+</param>
+<param default="50" name="maxDocs" type="integer">
+<displayItem name="name">Cantidad máxima de hits</displayItem>
+</param>
+<param name="query" type="string">
+<displayItem name="name">Cadena de búsqueda</displayItem>
+</param>
+</paramList>
+<metadataList/>
+</service>
+<service name="FieldQuery" type="query">
+<displayItem name="name">Buscar por formulario</displayItem>
+<displayItem name="submit">Buscar</displayItem>
+<displayItem name="description">Búsqueda simple por campos</displayItem>
+<paramList>
+<param default="Sec" name="level" type="enum_single">
+<displayItem name="name">Nivel de granularidad con el que buscar</displayItem>
+<option name="Doc">
+<displayItem name="name">document</displayItem>
+</option>
+<option name="Sec">
+<displayItem name="name">section</displayItem>
+</option>
+</param>
+<param default="1" name="case" type="boolean">
+<displayItem name="name">Activar may/min</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="0" name="stem" type="boolean">
+<displayItem name="name">Activar truncamiento</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="1" name="accent" type="boolean">
+<displayItem name="name">Activar acentos</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="some" name="matchMode" type="enum_single">
+<displayItem name="name">Coincidir</displayItem>
+<option name="some">
+<displayItem name="name">algunas</displayItem>
+</option>
+<option name="all">
+<displayItem name="name">todos</displayItem>
+</option>
+</param>
+<param default="1" name="sortBy" type="enum_single">
+<displayItem name="name">Orden de visualización de docuimentos</displayItem>
+<option name="1">
+<displayItem name="name">ranking</displayItem>
+</option>
+<option name="0">
+<displayItem name="name">natural</displayItem>
+</option>
+</param>
+<param default="es" name="indexLanguage" type="enum_single">
+<displayItem name="name">Idioma del índice</displayItem>
+<option name="es">
+<displayItem name="name">es</displayItem>
+</option>
+<option name="en">
+<displayItem name="name">en</displayItem>
+</option>
+</param>
+<param default="50" name="maxDocs" type="integer">
+<displayItem name="name">Cantidad máxima de hits</displayItem>
+</param>
+<param name="simpleField" occurs="4" type="multi">
+<displayItem name="name"/>
+<param name="fqv" type="string">
+<displayItem name="name">Palabra o frase</displayItem>
+</param>
+<param default="TI" name="fqf" type="enum_single">
+<displayItem name="name">en el campo</displayItem>
+<option name="TI">
+<displayItem name="name">PLUCO.Title,PLUCO.title,Title</displayItem>
+</option>
+<option name="TE">
+<displayItem name="name">Búsqueda por autores</displayItem>
+</option>
+<option name="TT">
+<displayItem name="name">Búsqueda por etiquetas</displayItem>
+</option>
+<option name="TH">
+<displayItem name="name">Búsqueda por temas</displayItem>
+</option>
+<option name="SI">
+<displayItem name="name">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+</option>
+<option name="TC">
+<displayItem name="name">Búsqueda todos los campos</displayItem>
+</option>
+</param>
+</param>
+</paramList>
+<metadataList/>
+</service>
+<service name="AdvancedFieldQuery" type="query">
+<displayItem name="name">Búsqueda Avanzada</displayItem>
+<displayItem name="submit">Buscar</displayItem>
+<displayItem name="description">Búsqueda avanzada por campos</displayItem>
+<paramList>
+<param default="Sec" name="level" type="enum_single">
+<displayItem name="name">Nivel de granularidad con el que buscar</displayItem>
+<option name="Doc">
+<displayItem name="name">document</displayItem>
+</option>
+<option name="Sec">
+<displayItem name="name">section</displayItem>
+</option>
+</param>
+<param default="es" name="indexLanguage" type="enum_single">
+<displayItem name="name">Idioma del índice</displayItem>
+<option name="es">
+<displayItem name="name">es</displayItem>
+</option>
+<option name="en">
+<displayItem name="name">en</displayItem>
+</option>
+</param>
+<param name="complexField" occurs="4" type="multi">
+<displayItem name="name"/>
+<param default="0" ignore="0" name="fqk" type="enum_single">
+<displayItem name="name"/>
+<option name="0">
+<displayItem name="name">Y</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">O</displayItem>
+</option>
+<option name="2">
+<displayItem name="name">NO</displayItem>
+</option>
+</param>
+<param name="fqv" type="string">
+<displayItem name="name">Palabra o frase</displayItem>
+</param>
+<param name="fqc" type="boolean">
+<displayItem name="name">diferenciar mayúsculas</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param name="fqs" type="boolean">
+<displayItem name="name">truncar</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param name="fqa" type="boolean">
+<displayItem name="name">acentos</displayItem>
+<option name="0">
+<displayItem name="name">desactivado</displayItem>
+</option>
+<option name="1">
+<displayItem name="name">activado</displayItem>
+</option>
+</param>
+<param default="TI" name="fqf" type="enum_single">
+<displayItem name="name">en el campo</displayItem>
+<option name="TI">
+<displayItem name="name">PLUCO.Title,PLUCO.title,Title</displayItem>
+</option>
+<option name="TE">
+<displayItem name="name">Búsqueda por autores</displayItem>
+</option>
+<option name="TT">
+<displayItem name="name">Búsqueda por etiquetas</displayItem>
+</option>
+<option name="TH">
+<displayItem name="name">Búsqueda por temas</displayItem>
+</option>
+<option name="SI">
+<displayItem name="name">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+</option>
+<option name="TC">
+<displayItem name="name">Búsqueda todos los campos</displayItem>
+</option>
+</param>
+</param>
+<param default="50" name="maxDocs" type="integer">
+<displayItem name="name">Cantidad máxima de hits</displayItem>
+</param>
+</paramList>
+<metadataList/>
+</service>
+<service name="DocumentStructureRetrieve" type="retrieve"/>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+<service name="DocumentContentRetrieve" type="retrieve"/>
+<service name="ClassifierBrowse" type="browse">
+<displayItem name="name">Navegar</displayItem>
+<displayItem name="description">Navegar jerarquías de clasificación predefinidas</displayItem>
+<classifierList>
+<classifier content="T?tulo" name="CL1">
+<displayItem name="name">Título</displayItem>
+<displayItem name="description">Navegar por Título</displayItem>
+</classifier>
+<classifier content="Temas" name="CL2">
+<displayItem name="name">Temas</displayItem>
+<displayItem name="description">Navegar por Temas</displayItem>
+</classifier>
+<classifier content="Autores" name="CL3">
+<displayItem name="name">Autores</displayItem>
+<displayItem name="description">Navegar por Autores</displayItem>
+</classifier>
+</classifierList>
+</service>
+<service name="ClassifierBrowseMetadataRetrieve" type="retrieve"/>
+<service name="RSSFeed" type="retrieve"/>
+<service name="ListRecords" type="oai"/>
+<service name="ListIdentifiers" type="oai"/>
+<service name="ListSets" type="oai"/>
+<service name="ListMetadataFormats" type="oai"/>
+<service name="GetRecord" type="oai"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="creator">rafaellg8@correo.ugr.es</metadata>
+<metadata lang="en" name="maintainer">migueib17@correo.ugr.es</metadata>
+<metadata lang="en" name="public">true</metadata>
+<metadata name="numDocs">9</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">pluco</metadata>
+<metadata name="infodbType">gdbm</metadata>
+<metadata name="earliestDatestamp">1452514583</metadata>
+<metadata name="httpPath">/greenstone3/sites/localsite/collect/pluco</metadata>
+<metadata name="tidyoption">untidy</metadata>
+</metadataList>
+<libraryParamList/>
+</collection>
+</pageResponse>
+</page>

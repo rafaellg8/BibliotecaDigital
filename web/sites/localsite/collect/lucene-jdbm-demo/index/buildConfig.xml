@@ -1,0 +1,54 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">11</metadata>
+<metadata name="buildType">lucene</metadata>
+<metadata name="indexStem">lucene-jdbm-demo</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="earliestDatestamp">1441765438</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2LuceneSearch">
+<indexStem name="lucene-jdbm-demo" />
+<databaseType name="jdbm" />
+<indexList>
+<index name="allfields" shortname="ZZ" />
+<index name="text" shortname="TX" />
+<index name="dc.Title,Title" shortname="TI" />
+<index name="dc.Subject" shortname="SU" />
+<index name="dls.Organization" shortname="ORG" />
+</indexList>
+<defaultIndex shortname="ZZ" />
+<levelList>
+<level name="section" shortname="Sec" />
+<level name="document" shortname="Doc" />
+</levelList>
+<defaultLevel shortname="Sec" />
+<defaultDBLevel shortname="Sec" />
+<sortList>
+<sort name="rank" shortname="rank" />
+<sort name="dls.Organization" shortname="byORG" />
+<sort name="none" shortname="none" />
+</sortList>
+<defaultSort shortname="rank" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+</serviceRack>
+<serviceRack name="GS2LuceneRetrieve">
+<indexStem name="lucene-jdbm-demo" />
+<defaultLevel shortname="Sec" />
+<databaseType name="jdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="lucene-jdbm-demo" />
+<databaseType name="jdbm" />
+<classifierList>
+<classifier name="CL1" content="dc.Title" />
+<classifier name="CL2" content="dc.Subject" />
+<classifier name="CL3" content="Organization" />
+<classifier name="CL4" content="Howto" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

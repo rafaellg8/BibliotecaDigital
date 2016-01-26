@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">CIFRADO DE HILL Rubén Martín Hidalgo ­ Rafael Lachica Garrido ...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188221/SPSI-HILL.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188221/SPSI-HILL.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI-HILL.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1450188221\SPSI-HILL.html</Metadata>
+    <Metadata name="OrigSource">SPSI-HILL.html</Metadata>
+    <Metadata name="Source">SPSI-HILL.pdf</Metadata>
+    <Metadata name="SourceFile">SPSI-HILL.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">470924</Metadata>
+    <Metadata name="FilenameRoot">SPSI-HILL</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">9</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.autor">Rubén Martín Hidalgo</Metadata>
+    <Metadata name="PLUCO.curse">4</Metadata>
+    <Metadata name="PLUCO.date">1-12-15</Metadata>
+    <Metadata name="PLUCO.description">Trabajo realizado sobre un ataque por fuerza bruta a un cifrado de Hill</Metadata>
+    <Metadata name="PLUCO.signature">SPSI|CIF|HIL</Metadata>
+    <Metadata name="PLUCO.tags">Hill</Metadata>
+    <Metadata name="PLUCO.tags">Cifrados</Metadata>
+    <Metadata name="PLUCO.tags">SPSI</Metadata>
+    <Metadata name="PLUCO.theme">SPSI|Cifrados|Hill</Metadata>
+    <Metadata name="PLUCO.title">Cifrado de Hill</Metadata>
+    <Metadata name="Identifier">HASH6f810f6b1e811aa566ba66</Metadata>
+    <Metadata name="lastmodified">1450179354</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1450188223</Metadata>
+    <Metadata name="oailastmodifieddate">20151215</Metadata>
+    <Metadata name="assocfilepath">HASH6f81.dir</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-1_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-1_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-4_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-6_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-6_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-6_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-7_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-7_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-7_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-HILL-8_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-1_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-1_2.jpg&quot;&gt;&lt;br&gt;
+CIFRADO DE HILL &lt;br&gt;
+Rubén Martín Hidalgo ­ Rafael Lachica Garrido &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+1. Cifrado de Hil  &lt;br&gt;
+Fue Inventado por Lester S. Hil  en 1929, y fue el p&lt;br&gt;
+  rimer sistema c&lt;br&gt;
+  riptográfico p&lt;br&gt;
+  olialfabético &lt;br&gt;
+que era práctico para trabajar con mas de tres símbolos simultáneamente. Este s&lt;br&gt;
+  istema es &lt;br&gt;
+polialfabético, pues puede darse que un m&lt;br&gt;
+  ismo c&lt;br&gt;
+  arácter e&lt;br&gt;
+  n u&lt;br&gt;
+  n mensaje a&lt;br&gt;
+  e&lt;br&gt;
+  nviar s&lt;br&gt;
+  e encripte &lt;br&gt;
+en dos caracteres distintos en el mensaje encriptado. &lt;br&gt; &lt;br&gt;Tenemos la siguiente correlación de letras y números: &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;Se  elige  un  entero  d  que  determina  bloques  de  d  elementos  que  son  tratados  como  un &lt;br&gt;vector  de  d  dimensiones.  Se  elije  de  forma  aleatoria una  matriz  de  d ×  d  elementos  los &lt;br&gt;cuales serán la clave a utilizar. Los elementos de la matriz de d ×&lt;br&gt;
+   d serán e&lt;br&gt;
+  nteros e&lt;br&gt;
+  ntre 0 y &lt;br&gt;
+25, además la matriz M debe ser invertible en &lt;br&gt;
+. &lt;br&gt;
+ &lt;br&gt;Para la encriptación, el t exto e&lt;br&gt;
+  s dividido e&lt;br&gt;
+  n bloques de d&lt;br&gt;
+  e&lt;br&gt;
+  lementos l os cuales s&lt;br&gt;
+  e multiplican &lt;br&gt;
+por la matriz d × d. Todas las o&lt;br&gt;
+  peraciones a&lt;br&gt;
+  ritméticas s&lt;br&gt;
+  e r&lt;br&gt;
+  ealizan en l a forma m&lt;br&gt;
+  ódulo 2&lt;br&gt;
+  6, e&lt;br&gt;
+  s &lt;br&gt;
+decir que 26=0, 27=1, 28=2 etc. &lt;br&gt; &lt;br&gt;Dado  un  mensaje  a  encriptar  debemos  tomar  bloques  del  mensaje  de  &amp;quot;d&amp;quot;  caracteres  y &lt;br&gt;aplicar: &lt;br&gt;M×P​&lt;br&gt;
+=C, donde C es el código cifrado para el mensaje P&lt;br&gt;
+i​&lt;br&gt;
+​&lt;br&gt;
+i &lt;br&gt;
+ &lt;br&gt;
+2. Código Fuente Cifrado de Hil  &lt;br&gt;
+Este código lo que hace es cifrar un mensaje con el cifrado de Hil . Para el o usa las &lt;br&gt;matrices para encriptar según el algoritmo de Hil . Explicaremos poco a poco las principales &lt;br&gt;funciones del código &lt;br&gt; &lt;br&gt;import string &lt;br&gt;class Hill: &lt;br&gt;   ​&lt;br&gt;
+&lt;b&gt; #Constructor &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;b&gt;    #parámetros: la clave (passkey), desplazamiento a la izquierda y caracter a &lt;br&gt;reemplazar &lt;br&gt;&lt;/b&gt;    def __init__(self, passkey, leftmul = False, replacespacechar = ' '): &lt;br&gt;        self.passkey = [ord(c) - ord('A') for c in passkey[:4].upper()] &lt;br&gt;&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; #pasa a mayúsculas todo el texto &lt;/b&gt;&lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ self.leftmul = leftmul &lt;br&gt;
+        self.replacespacechar = replacespacechar &lt;br&gt;
+ ​&lt;br&gt;
+&lt;b&gt;#actúa de constructor, copia los parámetros dentro de las variables de &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;clase &lt;br&gt;&lt;/b&gt; &lt;br&gt;
+ &lt;br&gt;
+        self.dekey = [self.passkey[3], -self.passkey[1], -self.passkey[2],  &lt;br&gt;                      self.passkey[0]] &lt;br&gt;        det = inv_mod(self.passkey[0] * self.passkey[3]  &lt;br&gt;                      - self.passkey[2] * self.passkey[1], 26) % 26 &lt;br&gt;        self.dekey = [n * det % 26 for n in self.dekey] &lt;br&gt;
+&lt;b&gt; #utiliza la clave para cifrar aplicando la inversa de la matriz de la &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;clave,     el inv_mod de la clave (passkey) &lt;br&gt;        #divide la clave en 3 bloques de 26 letras de hay el módulo %26&lt;/b&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;&lt;b&gt;#Función preprocesamiento comprueba que no haya espacios y que esté todo en &lt;br&gt;Mayúsculas &lt;br&gt;&lt;/b&gt;    def _preprocess(self, s): &lt;br&gt;        return &amp;quot;&amp;quot;.join(c if c in string.ascii_uppercase  &lt;br&gt;                       else self.replacespacechar if str.isspace(c)  &lt;br&gt;                       else &amp;quot;&amp;quot; for c in s.upper()) &lt;br&gt;&lt;b&gt;#Si hay algún espacio lo reemplazo por el carácter vacío sin espacios &lt;br&gt;&lt;/b&gt; &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;#Función para encriptar que toma como parámetros 2 carácteres, ya que tomamos &lt;br&gt;bloques de código de 2x2, y aquí ciframos carácter por carácter uno por matriz. &lt;br&gt;Para ello correlacionamos el carácter 1 y 2 con las letras del alfabeto, ejemplo A &lt;br&gt;= 0 &lt;br&gt;&lt;/b&gt;    def encrypt_chars(self, ch1, ch2): &lt;br&gt;        c1 = ord(ch1) - ord('A') &lt;br&gt;        c2 = ord(ch2) - ord('A') &lt;br&gt;        if self.leftmul: &lt;br&gt;            return (chr(ord('A')  &lt;br&gt;                    + (c1 * self.passkey[0] + c2 * self.passkey[1]) % 26), &lt;br&gt;                    chr(ord('A')  &lt;br&gt;                    + (c1 * self.passkey[2] + c2 * self.passkey[3]) % 26)) &lt;br&gt;&lt;b&gt;#Aplicamos el algoritmo de Hill de cifrado con bloques de matrices definidos antes &lt;br&gt;y le aplicamos el módulo 26 de nuestro alfabeto. En este caso si hay &lt;br&gt;#desplazamiento a la izquierda. &lt;br&gt; &lt;/b&gt;​&lt;br&gt;
+       else: &lt;br&gt;
+            return (chr(ord('A')  &lt;br&gt;                    + (c1 * self.passkey[0] + c2 * self.passkey[2]) % 26), &lt;br&gt;                    chr(ord('A')  &lt;br&gt;                    + (c1 * self.passkey[1] + c2 * self.passkey[3]) % 26)) &lt;br&gt;&lt;b&gt;#Si hay desplazamiento aplicamos su correspondiente algoritmo, teniendo como &lt;br&gt;referencia la primera letra del alfabeto A &lt;br&gt;&lt;/b&gt; &lt;br&gt;&lt;b&gt;#Función que llama al cifrado de carácter por carácter, para una cadena source &lt;br&gt;&lt;/b&gt;    def encrypt(self, source): &lt;br&gt;        s = self._preprocess(source) &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;        l = len(source) &lt;br&gt;        return &amp;quot;&amp;quot;.join(&amp;quot;&amp;quot;.join(self.encrypt_chars(source[i], source[i+1])) &lt;br&gt;                       for i in range(0, l-1, 2)) &lt;br&gt;&lt;b&gt; &lt;br&gt; &lt;br&gt;#Función que desencripta el mensaje, carácter por carácter, opera casi igual que el &lt;br&gt;cifrado, asignando un número a cada carácter y aplicando el algoritmo de cifrado de &lt;br&gt;Hill con la clave aplicada para descifrar, la dekey &lt;/b&gt; &lt;br&gt;
+ &lt;br&gt;
+    def decrypt_chars(self, ch1, ch2): &lt;br&gt;        c1 = ord(ch1) - ord('A') &lt;br&gt;        c2 = ord(ch2) - ord('A') &lt;br&gt;        if self.leftmul: &lt;br&gt;            return (chr(ord('A')  &lt;br&gt;                    + (c1 *  self.dekey[0] + c2 *  self.dekey[1]) % 26), &lt;br&gt;                    chr(ord('A')  &lt;br&gt;                    + (c1 *  self.dekey[2] + c2 *  self.dekey[3]) % 26)) &lt;br&gt;        else: &lt;br&gt;            return (chr(ord('A')  &lt;br&gt;                    + (c1 *  self.dekey[0] + c2 *  self.dekey[2]) % 26), &lt;br&gt;                    chr(ord('A')  &lt;br&gt;                    + (c1 *  self.dekey[1] + c2 *  self.dekey[3]) % 26)) &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;#Llama a la función que descifra con la clave letra por letra, para la cadena &lt;br&gt;source &lt;br&gt;&lt;/b&gt;    def decrypt(self, source): &lt;br&gt;        s = &amp;quot;&amp;quot;.join(c.upper() for c in source if c in string.ascii_letters) &lt;br&gt;        l = len(source) &lt;br&gt;        return &amp;quot;&amp;quot;.join(&amp;quot;&amp;quot;.join(self.decrypt_chars(source[i], source[i+1])) &lt;br&gt;                       for i in range(0, l-1, 2)) &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;#Inverso de un número n, con módulo p, usado para generar la matriz inversa &lt;br&gt;&lt;/b&gt;def inv_mod(n, p): &lt;br&gt;    x = 0 &lt;br&gt;    lastx = 1 &lt;br&gt;    y = 1 &lt;br&gt;
+ &lt;br&gt;
+    lasty = 0 &lt;br&gt;    while p != 0: &lt;br&gt;        quotient = n // p &lt;br&gt;        (n, p) = (p, n % p) &lt;br&gt;        (x, lastx) = (lastx - quotient*x, x) &lt;br&gt;        (y, lasty) = (lasty - quotient*y, y) &lt;br&gt;
+ &lt;br&gt;
+    return lastx &lt;br&gt; &lt;br&gt;if __name__ == '__main__': &lt;br&gt;    en = [('BLAZE OF GLORY', 'jbvi', True),  &lt;br&gt;          ('COMPLETE AND PROPER PACKAGE', 'NTCR', True), &lt;br&gt;          ('ESOTERIC TOPIC OF RESEARCH', 'BYGP', False)] &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+    for pt in en: &lt;br&gt;
+cadena = Hill(pt[1], pt[2], '').encrypt(pt[0]) &lt;br&gt;print cadena &lt;br&gt;print Hill(pt[1], pt[2], '').decrypt(cadena) &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-4_1.jpg&quot;&gt;&lt;br&gt;
+Este código nos genera el siguiente mensaje cifrado: &lt;br&gt;UFZSYOZXJFVD &lt;br&gt;GIZTLMLCNNMBTMLUMDMIAUYC &lt;br&gt;ICYXCNUOZQLMIYDLICESDW &lt;br&gt; &lt;br&gt;Vemos aquí una muestra de su ejecución : &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt; &lt;br&gt;
+3. Ataque fuerza bruta cifrado de Hil  &lt;br&gt;
+ &lt;br&gt;import string, sys &lt;br&gt; &lt;br&gt;&lt;b&gt;#Primero pasamos a mayúsculas todo el texto y eliminamos los espacios &lt;br&gt;#Después dividimos la mitad del mensaje en una matriz &lt;br&gt;&lt;/b&gt;A_0, A_1 = 0, 1 &lt;br&gt;ic = lambda text: sum(((text.count(l) * (text.count(l) - 1)) / float(len(text) * &lt;br&gt;(len(text) - 1))) for l in string.uppercase) &lt;br&gt;normalize = lambda text: filter(lambda l: l in string.uppercase, text.upper()) &lt;br&gt;ismatrice = lambda m: (m[0] * m[3] - m[1] * m[2]) % 2 and (m[0] * m[3] - m[1] * &lt;br&gt;m[2]) % 13 &lt;br&gt; &lt;br&gt;&lt;b&gt;#Función que devuelve la matriz inversa de los 25 primeros números primos &lt;br&gt;&lt;/b&gt;def matriceinv(m): &lt;br&gt; &lt;br&gt;
+a, b, c, d = m &lt;br&gt;
+ &lt;br&gt;
+k = (a * d - b * c) &lt;br&gt;
+ &lt;br&gt;
+for x in (1, 3, 5, 7, 9, 11, 15, 17, 19, 21, 23, 25): &lt;br&gt;
+ &lt;br&gt;
+if k * x % 26 == 1: &lt;br&gt;
+ &lt;br&gt;
+break &lt;br&gt;
+ &lt;br&gt;
+return (d * x % 26, -b * x % 26, -c * x % 26, a * x % 26) &lt;br&gt;
+ &lt;br&gt;&lt;b&gt;#Función desencriptar, que dado un texto obtiene los números primos para descifrar &lt;br&gt;el texto,obtiene los números primos, de una letra ya que le damos un número a cada &lt;br&gt;letra del 0 al 26 &lt;br&gt;&lt;/b&gt;def decrypt(text, m, z): &lt;br&gt; &lt;br&gt;
+a, b, c, d = m &lt;br&gt;
+ &lt;br&gt;
+letters = [ord(l) - 65 + z for l in text] &lt;br&gt;
+ &lt;br&gt;
+decrypted = [] &lt;br&gt;
+ &lt;br&gt;
+i = 0 &lt;br&gt;
+ &lt;br&gt;
+while i &amp;lt; len(letters): &lt;br&gt;
+ &lt;br&gt;
+j, k = letters[i], letters[i + 1] &lt;br&gt;
+ &lt;br&gt;
+p = (a * j + b * k) % 26 &lt;br&gt;
+ &lt;br&gt;
+q = (c * j + d * k) % 26 &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt; &lt;br&gt;
+decrypted += [p, q] &lt;br&gt;
+ &lt;br&gt;
+i += 2 &lt;br&gt;
+ &lt;br&gt;
+return ''.join(chr(65 + l - z) for l in decrypted) &lt;br&gt;
+&lt;b&gt;#Método para descifrar por fuerza bruta cada matriz, vamos barriendo las matrices y &lt;br&gt;vamos aplicando la matriz inversa para cada matriz m con los elementos que vamos &lt;br&gt;obteniendo barriendo la matriz, de ahí m = [a,b,c,] &lt;br&gt;&lt;/b&gt; &lt;br&gt;def bruteforce(text, A = 0): &lt;br&gt; &lt;br&gt;
+count = 0 &lt;br&gt;
+ &lt;br&gt;
+ICMIN = 0.07 &lt;br&gt;
+ &lt;br&gt;
+for a in range(26): &lt;br&gt;
+ &lt;br&gt;
+for b in range(26): &lt;br&gt;
+ &lt;br&gt;
+for c in range(26): &lt;br&gt;
+ &lt;br&gt;
+for d in range(26): &lt;br&gt;
+ &lt;br&gt;
+m = [a, b, c, d] &lt;br&gt;
+ &lt;br&gt;
+if ismatrice(m): &lt;br&gt;
+ &lt;br&gt;
+m = matriceinv(m) &lt;br&gt;
+ &lt;br&gt;
+dec = decrypt(text, m, A) &lt;br&gt;
+ &lt;br&gt;
+if ic(dec) &amp;gt;= ICMIN: &lt;br&gt;
+ &lt;br&gt;
+print &amp;quot;[+] Possible text found -- Matrice &lt;br&gt;
+inverse: %s -- IC = %s\\\\n%s\\\\n&amp;quot; % (repr(m), ic(dec), dec) &lt;br&gt; &lt;br&gt;
+count += 1 &lt;br&gt;
+ &lt;br&gt;
+print &amp;quot;\\\\n[+] End of attack - %s possible plaintexts found&amp;quot; % count &lt;br&gt;
+ &lt;br&gt;def main(): &lt;br&gt; &lt;br&gt;
+if len(sys.argv) != 2: &lt;br&gt;
+ &lt;br&gt;
+print &amp;quot;[-] Usage: breakhill.py crypto.txt [&amp;gt; log.txt]&amp;quot; &lt;br&gt;
+ &lt;br&gt;
+sys.exit() &lt;br&gt;
+ &lt;br&gt;
+  &lt;br&gt;
+ &lt;br&gt;
+try: &lt;br&gt;
+ &lt;br&gt;
+text = normalize(open(sys.argv[1], 'rb').read()) &lt;br&gt;
+ &lt;br&gt;
+  &lt;br&gt;
+ &lt;br&gt;
+except: &lt;br&gt;
+ &lt;br&gt;
+print &amp;quot;[-] Error while trying to open file&amp;quot; &lt;br&gt;
+ &lt;br&gt;
+sys.exit() &lt;br&gt;
+ &lt;br&gt;
+  &lt;br&gt;
+ &lt;br&gt;
+bruteforce(text, A_1) # A_0 if A=0 &lt;br&gt;
+ &lt;br&gt;
+  &lt;br&gt;
+if __name__ == &amp;quot;__main__&amp;quot;: &lt;br&gt; &lt;br&gt;
+main() &lt;br&gt;
+ &lt;br&gt;&lt;b&gt;Este  código  va  probando  sobre  matrices  de  2x2, las  26  letras  del alfabeto  sobre  el &lt;br&gt;código  encriptado.  Esto  lo  podemos  ver  en  el  segmento  donde  está  la  función &lt;br&gt;bruteforce, que prueba una matriz de 2x2 con 26 posibilidades cada una. &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-6_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-6_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-6_3.jpg&quot;&gt;&lt;br&gt;
+4. Ataque fuerza bruta cifrado de Hil  ­ Pruebas &lt;br&gt;
+Generamos el cifrado, guardamos el resultado en crypto.txt y crackeamos: &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;Obtenemos los fragmentos HELL y WORL, justo los que nos ha cifrado ya que el cifrado lo &lt;br&gt;recorta porque no entra en la matriz de forma adecuada. &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-7_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-7_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-7_3.jpg&quot;&gt;&lt;br&gt;
+En otro ataque, no hemos conseguido descifrar el siguiente ejemplo: &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+En  el  fichero  crypto.txt  metemos “UQYVQWFUKQIXQNFUDCZNYMFXCN” que es el texto &lt;br&gt;cifrado de “WE ARE CHECKING THE HILL CIPHER”. &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;Tras  ejecutar  el  programa de  ataque,  nos  crea  1584 textos planos posibles, pero ninguno &lt;br&gt;con el mensaje que buscamos.  &lt;br&gt; &lt;br&gt;Después  hemos  intentado  realizar  el  ataque  desde  Cryptool,  sin  conseguir  descifrarlo &lt;br&gt;tampoco. Para el o he metido como texto claro y cifrado conocidos los siguientes: &lt;br&gt; &lt;br&gt; &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-HILL-8_1.jpg&quot;&gt;&lt;br&gt;
+Texto claro: ESOTERIC TOPIC OF RESEARCH &lt;br&gt;Texto cifrado: ICYXCNUOZQLMIYDLICESDW &lt;br&gt; &lt;br&gt;Mientras que el texto cifrado a descifrar sigue siendo el mismo de antes: &lt;br&gt;UQYVQWFUKQIXQNFUDCZNYMFXCN &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;Tras realizar el análisis, nos muestra la matriz de clave que vemos en la captura anterior. &lt;br&gt;Copio la clave y la pego al descifrar el texto cifrado, obteniendo esto: &lt;br&gt;ISGNKYJOAIOJKJJOXIZFGYJTEV &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=9&gt;&lt;/a&gt;Referencias: &lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fen.wikipedia.org%2fwiki%2fHill%5fcipher&quot;&gt;https://en.wikipedia.org/wiki/Hil _cipher&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fcajuna.jimdo.com%2fcifrado-de-hill&quot;&gt;http://cajuna.jimdo.com/cifrado­de­hil /&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.deic.uab.es%2fmaterial%2f26118-09CifraClasica.pdf&quot;&gt;http://www.deic.uab.es/material/26118­09CifraClasica.pdf &lt;br&gt;&lt;/a&gt; &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcode.google.com%2fp%2fcriptografia%2fsource%2fbrowse%2ftrunk%2fcriptografia%2fCriptoanalisis%2fsrc%2fCiphers%2fHill.java%3fr%3d3&quot;&gt;https://code.google.com/p/criptografia/source/browse/trunk/criptografia/Criptoanalisis/src/Cip&lt;br&gt;hers/Hil .java?r=3&lt;/a&gt; &lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

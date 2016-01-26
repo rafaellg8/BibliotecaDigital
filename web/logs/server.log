@@ -1,0 +1,226 @@
+INFO : [2015-12-15 12:18:27] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2015-12-15 12:20:29] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2015-12-15 12:20:29] BaseServer.recordSuccess()
+ configure success
+INFO : [2015-12-15 12:20:56] BaseServer.recordSuccess()
+ start success
+INFO : [2015-12-15 12:20:56] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2015-12-15 12:20:59] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2015-12-15 12:59:54] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2015-12-15 12:59:54] BaseServer.recordSuccess()
+ configure success
+INFO : [2015-12-15 01:00:38] BaseServer.recordSuccess()
+ start success
+INFO : [2015-12-15 01:00:38] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2015-12-15 01:00:41] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2015-12-15 01:30:35] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2015-12-15 01:30:35] BaseServer.recordSuccess()
+ configure success
+INFO : [2015-12-15 01:31:33] BaseServer.recordSuccess()
+ start success
+INFO : [2015-12-15 01:31:33] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2015-12-15 01:31:36] BaseServer.recordSuccess()
+ Launch browser success
+ERROR: [2015-12-15 03:08:37] BaseServer.recordError()
+ force-stop-tomcat force-stop-derby failed, please check server.log in C:\Users\rafaellg8\Greenstone3\web\logs for details.  failed
+INFO : [2015-12-21 10:43:14] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2015-12-21 10:45:37] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2015-12-21 10:45:37] BaseServer.recordSuccess()
+ configure success
+INFO : [2015-12-21 10:46:33] BaseServer.recordSuccess()
+ start success
+INFO : [2015-12-21 10:46:33] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2015-12-21 10:46:36] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2015-12-21 12:04:55] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-11 01:08:53] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-11 01:09:59] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-11 01:09:59] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-11 01:10:50] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-11 01:10:50] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-11 01:10:53] BaseServer.recordSuccess()
+ Launch browser success
+ERROR: [2016-01-11 02:59:31] BaseServer.recordError()
+ force-stop-tomcat force-stop-derby failed, please check server.log in C:\Users\rafaellg8\Greenstone3\web\logs for details.  failed
+INFO : [2016-01-11 06:22:23] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-11 06:26:42] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-11 06:27:25] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-11 06:34:36] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-11 06:34:36] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-11 06:35:12] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-11 06:35:12] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-11 06:35:15] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-11 07:22:52] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-11 07:22:52] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-11 07:23:43] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-11 07:23:43] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-11 07:23:46] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-12 08:57:43] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-12 08:58:13] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-12 08:58:13] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-12 08:58:23] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-12 08:58:23] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-12 08:58:26] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-12 08:58:41] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-12 08:58:41] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-12 08:59:06] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-12 08:59:06] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-12 08:59:09] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-12 09:08:55] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-12 09:09:06] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-12 09:09:06] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-12 09:09:16] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-12 09:09:16] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-12 09:09:19] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-12 09:12:46] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-12 09:12:46] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-12 09:13:11] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-12 09:13:11] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-12 09:13:14] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-17 07:37:18] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-17 07:38:26] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-17 07:38:26] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-17 07:38:52] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-17 07:38:52] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-17 07:38:55] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 03:59:44] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-24 04:00:28] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:00:28] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 04:00:59] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 04:00:59] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 04:01:02] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 04:05:46] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:05:46] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 04:06:23] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 04:06:23] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 04:06:26] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 04:10:15] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:10:15] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 04:10:53] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 04:10:53] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 04:10:56] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 04:13:47] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:13:47] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 04:14:27] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 04:14:27] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 04:14:30] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 04:15:36] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:15:36] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 04:16:15] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 04:16:15] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 04:16:18] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 04:25:46] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:26:55] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-24 04:27:22] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 04:27:22] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 04:28:18] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 04:28:18] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 04:28:21] BaseServer.recordSuccess()
+ Launch browser success
+INFO : [2016-01-24 04:30:38] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 06:50:22] BaseServer.reloadConfigProperties()
+ loading configuration properties: C:\Users\rafaellg8\Greenstone3\build.properties
+INFO : [2016-01-24 06:58:44] BaseServer.recordSuccess()
+ force-stop-tomcat force-stop-derby success
+INFO : [2016-01-24 06:58:44] BaseServer.recordSuccess()
+ configure success
+INFO : [2016-01-24 06:59:59] BaseServer.recordSuccess()
+ start success
+INFO : [2016-01-24 06:59:59] BaseServer.launchBrowser()
+ Launching browser...
+INFO : [2016-01-24 07:00:02] BaseServer.recordSuccess()
+ Launch browser success
+ERROR: [2016-01-24 07:01:20] BaseServer.recordError()
+ force-stop-tomcat force-stop-derby failed, please check server.log in C:\Users\rafaellg8\Greenstone3\web\logs for details.  failed

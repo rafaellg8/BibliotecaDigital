@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>SPSI_P2\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="PLUCO.title">Práctica 2 - SPSI - Cryptool</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.theme">SPSI|P2</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.curse">4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.description">Práctica 2 sobre Cryptool</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.date">3-10-15</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.signature">SPSI|P2</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Cryptool</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Práctica 2</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">SPSI</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">P2</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">rafaellg8</Metadata>
+    <Metadata name="Title">PRÁCTICA 2 SPSI -RAFAEL LACHICA GARRIDO 7) Descifrar los mensajes por...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514598/SPSI_P2.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514598/SPSI_P2.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P2\SPSI_P2.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1452514598\SPSI_P2.html</Metadata>
+    <Metadata name="OrigSource">SPSI_P2.html</Metadata>
+    <Metadata name="Source">SPSI_P2.pdf</Metadata>
+    <Metadata name="SourceFile">SPSI_P2.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">2676612</Metadata>
+    <Metadata name="FilenameRoot">SPSI_P2</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">19</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.curse">4</Metadata>
+    <Metadata name="PLUCO.date">3-10-15</Metadata>
+    <Metadata name="PLUCO.description">Práctica 2 sobre Cryptool</Metadata>
+    <Metadata name="PLUCO.signature">SPSI|P2</Metadata>
+    <Metadata name="PLUCO.tags">Cryptool</Metadata>
+    <Metadata name="PLUCO.tags">Práctica 2</Metadata>
+    <Metadata name="PLUCO.tags">SPSI</Metadata>
+    <Metadata name="PLUCO.tags">P2</Metadata>
+    <Metadata name="PLUCO.theme">SPSI|P2</Metadata>
+    <Metadata name="PLUCO.title">Práctica 2 - SPSI - Cryptool</Metadata>
+    <Metadata name="Identifier">HASHed73bad37e98667c987bd0</Metadata>
+    <Metadata name="lastmodified">1450179185</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1452514601</Metadata>
+    <Metadata name="oailastmodifieddate">20160111</Metadata>
+    <Metadata name="assocfilepath">HASHed73.dir</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-1_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-2_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-3_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-4_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-4_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-5_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-5_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-5_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-5_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-6_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-6_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-6_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-7_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-7_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-7_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-8_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-8_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-8_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-8_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-9_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-9_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-9_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-9_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-10_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-10_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-10_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-10_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-10_5.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-10_6.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-11_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-11_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-11_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-11_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-11_5.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-11_6.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-12_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-12_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-13_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-13_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-14_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-14_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-15_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-16_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-16_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-17_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-17_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-18_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI_P2-19_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-1_1.jpg&quot;&gt;&lt;br&gt;
+PRÁCTICA 2 SPSI -RAFAEL LACHICA GARRIDO&lt;br&gt;
+7) Descifrar los mensajes por sustitución y por Vignere/Schrodel.&lt;br&gt;
+Sustitución&lt;br&gt;
+Sustituimos las letras y obtenemos el mensaje:&lt;br&gt;
+MARY HAD A LIT LE LAMB ITS FLE CE WAS WHITE AS SNOW AND EVERYWHERE &lt;br&gt;
+THAT MARY WENT THE LAMB WAS SURE TO GO IT FOL OWED HER TO SCHOOL ONE &lt;br&gt;
+DAY WHICH WAS AGAINST THE RULES &lt;br&gt;
+Vignere&lt;br&gt;
+Selec ionamos cryptanalysis y obtenemos la clave ALICE&lt;br&gt;
+1&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-2_1.jpg&quot;&gt;&lt;br&gt;
+Clave: ALICE&lt;br&gt;
+Texto plano:&lt;br&gt;
+THETIMEHASCOMETHEWALRUS AIDTOSPEAKOFMANYTHINGSOFSHOESANDSHIPSANDSEALINGWAXOFCABBAGE&lt;br&gt;
+SANDKINDSHGDWHYTHESEAISBOILINGHOTANDWHETHERPFOEWWDBCAXQMQ&lt;br&gt;
+8) Análisis de cifrados Monoalfabéticos, Polialfábeticos, Enigma y Máquina Purple.&lt;br&gt;
+TEXTO L ANO&lt;br&gt;
+EL HOBBIT  J.R.R Tolkien&lt;br&gt;
+En una agujero en el suelo vivíva un Hobbit. No un agujero húmedo, sucio, repugnante, con &lt;br&gt;
+restos de gusano y olor a fango, ni tampoco un agujero seco, desnudo y arenoso, sin nada &lt;br&gt;
+en que sentarse o que comer: era un agujero hobbit, y eso significa comodidad.&lt;br&gt;
+Tenía una puerta redonda, perfecta como un ojo de buey, pintada de verde, con una manila &lt;br&gt;
+de bronce dorada y brilante, justo en el medio. La puerta se abría a un vestíbulo cilíndrico, &lt;br&gt;
+como un túnel: un túnel muy cómodo, sin humos, con paredes revestidas de madera y &lt;br&gt;
+suelos enlosados y alfombrados, provistos de silas barnizadas, y montones y montones de &lt;br&gt;
+perchas para sombreros y abrigos; el hobbit era afic ionado a las visitas.&lt;br&gt;
+MONOALFABÉTICO&lt;br&gt;
+Clave: TOLKIEN&lt;br&gt;
+IF AJOOBS &lt;br&gt;
+C.Q.Q Sjfdbih&lt;br&gt;
+Ih uht tnuciqj ih if ruifj vbvívt uh Ajoobs. Hj uh tnuciqj aúgikj, rulbj, qimunhthsi, ljh qirsjr ki nurthj y jfjq t ethnj, hb&lt;br&gt;
+stgmjl uh tnuciqj rilj, kirhukj y tqihjrj, rbh htkt ih pui rihstqri jpui ljgiq: iqt uh tnuciqj ajoobs, y irj rbnhbeblt &lt;br&gt;
+ljgjkbktk.&lt;br&gt;
+2&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-3_1.jpg&quot;&gt;&lt;br&gt;
+Sihít uht muiqst qikjhkt, miqeilst ljgj uh jcj ki ouiy, mbhstkt ki viqki, ljh uht gthbf t ki oqjhli kjqtkt y oqbf thsi, cursj&lt;br&gt;
+ih if gikbj. Ft muiqst ri toqít t uh virsíoufj lbfíhkqblj, ljgj uh súhif: uh súhif guy lógjkj, rbh augjr, ljh mtqikir qivirsbktr &lt;br&gt;
+ki gtkiqt y ruifjr ihfjrtkjr y tfejgoqtkjr, mqjvbrsjr ki rbf tr otqhbztktr, y gjhsjhir y gjhsjhir ki miqlatr mtqt rjgoqiqjr y&lt;br&gt;
+toqbnjr; if ajoobs iqt teblbjhtkj t ftr vbrbstr.&lt;br&gt;
+POLIALFABÉTICO -VIGNERE&lt;br&gt;
+Clave : TOLKIEN&lt;br&gt;
+XZ SYJFVM &lt;br&gt;
+X.C.B Bsydwpx&lt;br&gt;
+Mr hgo lqcnrkc px mp fnswy dmiíoo fx Psouwe. Xw ya tuftmvb aúapnw, whvwz, bmthzblxbi, phb coaxbl rp &lt;br&gt;
+qcwngc jytse t tlxos, ab hlwxsph iy koywxfz cmgb, wsdxchb r ocovsfh, gtx veqt sy aci fxbekzwr h efo kszxf: pbi ya &lt;br&gt;
+tuftmvb acmlqx, lxgz cqkabt mi gbfcosleq.&lt;br&gt;
+Msyík crn ipbbe exrzxle, cxfqokxn vcxy cr bc  oo jyr , dtxbeqt rp fmvqx, qzx crn foystpn ws mbwrpx rzbihn r &lt;br&gt;
+pcstpnghp, tcwgh sy ot qrwwz. Vi thxfek ai nufíl k cr ixgeílcpb vwwíxlv vc, nyus hg húyot: ya múbpv uyl vóaznw, &lt;br&gt;
+wvg vfwww, phb akziqxg codifmwoka hr foooze l ipvww rgz cihbl m lvnszuflnww, ckcgsaxbl rp cqpytg &lt;br&gt;
+mkzrvsooka, c zhbeyvif r azxbsaxg oo xiev lc xe t gzwjvrkcd i febuzc; mp uhpmsb iet oqskgvhblnw e ytg gsamgtg.&lt;br&gt;
+Podemos concluir que es mucho más fuerte que el cifrado monoalfabético de ar iba en el &lt;br&gt;
+que se toma una clave y se desplaza el alfabeto a raíz de la misma, ya que con ese &lt;br&gt;
+simplemente tomando los mayores valores usados podemos obtener una cor elación. Sin &lt;br&gt;
+embargo, para Vignere necesitamos tener una clave y conocerla para poder descifrarlo.&lt;br&gt;
+ENIGMA&lt;br&gt;
+Rotores I,I ,I I&lt;br&gt;
+Inicio: TOL&lt;br&gt;
+Reflector: UKW C&lt;br&gt;
+Configuración Ringstelung: I  I, Reflector I&lt;br&gt;
+Plugboard:  A -&amp;gt; T B-&amp;gt; O C -&amp;gt; L  D -&amp;gt; K  E -&amp;gt; I E -&amp;gt; F  G -&amp;gt; N &lt;br&gt;
+Texto cifrado: &lt;br&gt;
+OP WZRSCZ &lt;br&gt;
+D.S.Y LveokjvVx qmv tibsrkc cz lu bcgnx mobíob ij Ygfzwf. Qk ar ovphcdh zúquwq, mmyai, &lt;br&gt;
+tgenctgrhf, sje onajwq wl ovjcqy z ncwl g edlph, wp qqbnqjd nt uoforja fmzw, hclhani p eqteqza, rsu jmht de net &lt;br&gt;
+kfjmiyic d xmt ntdxt: ows tb rippxsw vhcsah, t bwd joyvunqak ifdwphjkj.Nkvíf fke cdsxoq ackwqtf, ypjfobu bcah &lt;br&gt;
+3&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-4_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-4_2.jpg&quot;&gt;&lt;br&gt;
+yc ylr gn qngf, jvdxzqe yd zhlby, jsu jhk jvyhyj ku gxaxiy oxbcmo lneozojvwl, xtesw km dk tqore. Ov dntcgv jz ovkíl &lt;br&gt;
+n cx olegíxmsg qxeíqbbsos, yve  ft vúcax: hj oúepk ydt eóqdcp, qsm ryjfy, vcm aofnhnf iqkifvxrfk bd y t wd x &lt;br&gt;
+rxbzkr mvnhxnecb q zhvkbsytqmo, apipglyut ku xsjigk ujioagkfvn, d dgectkze v fkralqdw sn nqcuujn zrit veghzgqla &lt;br&gt;
+r iflwokj; gf rvsysu sub yzlzjtvbbgk y ufq cuosjmc.&lt;br&gt;
+-Entriopía: 4.66. Recordamos que la máxima es 4.70. La mejor alcanzada hasta ahora, esto &lt;br&gt;
+nos dice que los caracteres están muy bien repartidos.&lt;br&gt;
+Respecto a los cuatrigramas la frecuencia es todavía menor, nunca se repiten, esto hace que &lt;br&gt;
+ante un mensaje más corto, mucho mejor aún menos n-gramas repetidos, siendo un &lt;br&gt;
+sistema muy robusto para la encriptación y el mejor de los que he usado para este ejercicio.&lt;br&gt;
+MÁQUINA PURPLE&lt;br&gt;
+Configuración:&lt;br&gt;
+Texto codificado:&lt;br&gt;
+AK TAKNYT &lt;br&gt;
+G_H_P Gylne dOc iny ejecyci yj ov xyete web_ja id Kughel_ Zo am ecybizu r_kote_ zodya_ &lt;br&gt;
+vovazxysji_ zih nostaf bo rylepo o anet o tuhjy_ ge pinwypa up uqagapu nihu_ xumvipi y uxixywo_ vyb koxu ev &lt;br&gt;
+pyo byqlebsi o fey waful_ iky ux ecybolu lifvus_ o ove gudrofibi depigekoz_Nyv_e aco faevte hupajmu_ syjvycne &lt;br&gt;
+nuxy ar izo ru xuey_ tevquty sa dikxy_ syz ego zysebli ho jgagfi qypyma iqquvqecji_ zenka al iq nycey_ Za cuebda &lt;br&gt;
+ky efk_u e aw mipm_sydo zyk_fbdaci_ wake yh c_waw_ en v_had sye h_kebi_ vuj kiwym_ peg besunyw &lt;br&gt;
+nyhofnakad pa zebudi u piunom ogfasyxar o yvloghfiwug_ fxytacdir le dihsax satqohugoz_ a demwejek o qibhuvyz &lt;br&gt;
+wa kuvbtup cuty taqhdalow iog ikix_ aj pehsof eju yvihze gyxy a lip qakiwyb_&lt;br&gt;
+COMPARACIONES:&lt;br&gt;
+Monoalfábetico&lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+4&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-5_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-5_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-5_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-5_4.jpg&quot;&gt;&lt;br&gt;
+Entriopía&lt;br&gt;
+4.09&lt;br&gt;
+4.59&lt;br&gt;
+4.66&lt;br&gt;
+4.49&lt;br&gt;
+La mejor entropía la obtiene la máquina Enigma, por lo que tiene una mayor variación de &lt;br&gt;
+letras a la hora de cifrar. Es uno de los factores por la que es mejor que las demás.&lt;br&gt;
+Distribucion de frecuencias&lt;br&gt;
+Monoalfabético&lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+Aquí vemos como las letras más usadas en la permutación del alfabeto, las podemos ver &lt;br&gt;
+que son las que tiene una mayor frecuencia en el cifrado monoalfabético.&lt;br&gt;
+Histograma&lt;br&gt;
+Monoalfabético&lt;br&gt;
+5&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-6_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-6_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-6_3.jpg&quot;&gt;&lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+6&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-7_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-7_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-7_3.jpg&quot;&gt;&lt;br&gt;
+Aquí vemos como la solución monoalfabética tiene un histograma más claro, con unas letras &lt;br&gt;
+más usadas claramente (I,J,T,U), las cuales las podemos permutar en el alfabeto español a &lt;br&gt;
+las A,E,R,S [. .], ya que simplemente es un desplazamiento de los alfabetos.&lt;br&gt;
+Respecto a la Máquina Enigma, aquí tiene un reparto del alfabeto algo peor que la máquina &lt;br&gt;
+Purple.&lt;br&gt;
+Autocor elación&lt;br&gt;
+Monoalfabético&lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+7&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-8_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-8_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-8_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-8_4.jpg&quot;&gt;&lt;br&gt;
+Análisis Trigramas&lt;br&gt;
+Monoalfabético&lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+8&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=9&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-9_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-9_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-9_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-9_4.jpg&quot;&gt;&lt;br&gt;
+Vemos como la mejor es la Enigma, ya que solo repite una vez Trigramas, mientras que en el &lt;br&gt;
+caso del cifrado Monoalfabético lego hasta 5 repeticiones.&lt;br&gt;
+Cuatrigramas&lt;br&gt;
+Monoalfabético&lt;br&gt;
+Vignere&lt;br&gt;
+ &lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+9&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=10&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-10_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-10_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-10_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-10_4.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-10_5.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-10_6.jpg&quot;&gt;&lt;br&gt;
+No se repiten cuatrigramas en una máquina Enigma en un mensaje no muy largo, alrededor &lt;br&gt;
+de 1000 palabras.&lt;br&gt;
+VITANY -Análisis de aletoriedad&lt;br&gt;
+Monoalfabético &lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+-Test Frecuencias&lt;br&gt;
+10&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=11&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-11_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-11_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-11_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-11_4.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-11_5.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-11_6.jpg&quot;&gt;&lt;br&gt;
+Monoalfabético &lt;br&gt;
+Vignere&lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+Igual que antes, la que mejor distribuye las frecuencias es la máquina Enigma, mientras que &lt;br&gt;
+el cifrado monoalfabético podemos ver el desplazamiento del alfabaeto, Ipodría ser la &lt;br&gt;
+A . .etc.&lt;br&gt;
+Autocor elación&lt;br&gt;
+Monoalfabético &lt;br&gt;
+Vignere&lt;br&gt;
+   &lt;br&gt;
+Enigma&lt;br&gt;
+Purple&lt;br&gt;
+1&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=12&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-12_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-12_2.jpg&quot;&gt;&lt;br&gt;
+   &lt;br&gt;
+Vemos como la que tiene una mejor autocor elación y un mejor &amp;quot;reparto&amp;quot; en el alfabeto es &lt;br&gt;
+la máquina Enigma, la cual apenas repite n-gramas en un mensaje.&lt;br&gt;
+CONCLUSIÓN:&lt;br&gt;
+El más fuerte sería ENIGMA, seguido de PURPLE, ya que ambos distribuyen muy bien &lt;br&gt;
+la frecuencias y la autocor elación en el abecedario y apenas tienes repeticiones. &lt;br&gt;
+Después iría el cifrado de Vignere, que sería más débil debido a que si se encuentra &lt;br&gt;
+la clave se encuentra el descifrado, y por último el Monoalfabético, que &lt;br&gt;
+simplemente es un desplazamiento de letras en el abecedario, y podemos sustituir &lt;br&gt;
+la A -&amp;gt; clave X . .&lt;br&gt;
+Todo esto, además de que tiene una mejor Entropía, podemos concluir que la máquina &lt;br&gt;
+ENIGMA es la mejor de todas para cifrar, cifrando aún mejor mensajes no demasiado largos &lt;br&gt;
+en los que no se vuelva al estado inicial de los rotores, es decir, no se de la vuelta en los 3 &lt;br&gt;
+rotores al abecedario.&lt;br&gt;
+Admás podemos ver como por ejemplo además de la entropía, la máquina enigma es la que &lt;br&gt;
+tiene una autocor elación más repartida a lo largo del abecedario.&lt;br&gt;
+9. Realizar un análisis al “Texto cifrado que venció a Poe” (Cifrado Poe_ejemplo_&lt;br&gt;
+3), usando esta her amienta. &lt;br&gt;
+ a) Hacer un Análisis de Trigramas repetidos con CrypTool y determinar cuáles son.&lt;br&gt;
+ b) Calcular el periodo mediante el método de Kasiski aplicado al apartado &lt;br&gt;
+anterior.&lt;br&gt;
+ c) Modificar el periodo obtenido por la autocor elación con los datos de b).&lt;br&gt;
+ d) Obtener resultados parciales para intentar ar eglar el problema grave &lt;br&gt;
+anunciado     en el texto cifrado.&lt;br&gt;
+Para el análisis de trigramas usamos un análisis de frecuencias y selec ionamos como 3 el &lt;br&gt;
+número de ngramas. Vemos que los tres más repetidos son: (MLW,NBX,NUM)&lt;br&gt;
+12&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=13&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-13_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-13_2.jpg&quot;&gt;&lt;br&gt;
+Vemos que todos los demás trigramas están bastante bien distribuidos, y estos 3 solo &lt;br&gt;
+aparecen un poco más que los demás, sólo 0.5% en términos de frecuencia.&lt;br&gt;
+b) Análisis Criptográfico -&amp;gt; Test Kasiski&lt;br&gt;
+Vemos que el trigrama que más veces se repite es el primero, que se repite hasta 8 veces.&lt;br&gt;c) Autocor elación:&lt;br&gt;
+AAM:1:0,00543478260869565&lt;br&gt;
+13&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=14&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-14_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-14_2.jpg&quot;&gt;&lt;br&gt;
+AAN:1:0,00543478260869565&lt;br&gt;
+AEG:1:0,00543478260869565&lt;br&gt;
+AGH:1:0,00543478260869565&lt;br&gt;
+AHU:1:0,00543478260869565&lt;br&gt;
+AIV:1:0,00543478260869565&lt;br&gt;
+ALP:1:0,00543478260869565&lt;br&gt;
+AMC:1:0,00543478260869565&lt;br&gt;
+AMX:1:0,00543478260869565&lt;br&gt;
+ANU:1:0,00543478260869565&lt;br&gt;
+ASG:1:0,00543478260869565&lt;br&gt;
+ATG:1:0,00543478260869565&lt;br&gt;
+BAI:1:0,00543478260869565&lt;br&gt;
+BCH:1:0,00543478260869565&lt;br&gt;
+BMX:1:0,00543478260869565&lt;br&gt;
+BRA:1:0,00543478260869565&lt;br&gt;
+BXM:1:0,0054347826. .&lt;br&gt;d) Obtener resultados parciales&lt;br&gt;He usado el cifrado de Vignere, que da resultados parciales debido a que el mensaje &lt;br&gt;
+contiene algunos er ores en el cifrado:&lt;br&gt;
+Texto lano generado:&lt;br&gt;
+TWQ AXANDER HOW Y SIT THAT THE MES ENGER ARRIVES HERE AT THE SACE TIME WITH THE &lt;br&gt;
+SATURGAY COURIER AND OTHER SATUZDA OPATERS WHEN AVCORDIDG TO THE CATEITIS PUBLISHRD &lt;br&gt;
+THRE  DAY SPREVIOUSIS THE FAULT WITG YOU ORTGE POS  MASTYRS&lt;br&gt;El texto es una carta a un director del periódico “The Mes enger”. El problema está en que &lt;br&gt;
+14&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=15&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-15_1.jpg&quot;&gt;&lt;br&gt;
+la segunda letra de Alenxand(e)r no está, y por eso fala el código. El descifrado sería así:&lt;br&gt;TO ALEXANDER HOW IS IT, THAT, THE MES ENGER ARRIVES HERE AT THE SAME TIME WITH&lt;br&gt;
+THE SATURDAY COURIER AND OTHER SATURDAY PAPERS WHEN ACCORDING TO THE DATE &lt;br&gt;
+IT IS PUBLISHED THRE  DAYS PREVIOUS IS THE FAULT WITH YOU OR THE POSTMASTERS?&lt;br&gt;
+10. Descifrar el texto dado en el “Cifrado ejemplo_4”. Para el o: &lt;br&gt;
+a) Determinar el tipo de cifrado aplicado. Determinar información sobre entropía, N-&lt;br&gt;
+gramas, Autocor elación, periodicidad, … y confirmar con toda esta información el tipo de &lt;br&gt;
+cifrado. &lt;br&gt;
+b) Descifrarlo con la her amienta de análisis adecuada de CrypTool. &lt;br&gt;He usado en algunos momentos la her amienta de cryptool Online.&lt;br&gt;Análisis de trigramas: vemos que las letras para 1 1-grama las más usadas son las U,E,G. &lt;br&gt;
+Aún así vemos que hasta la letra L, se repiten mucho las letras. En cambio para bigramas &lt;br&gt;
+tenemos un reparto más igualitario, donde las más usadas son GM,EK,WU. Tigramas están &lt;br&gt;
+aún más repartidos, donde apenas se repiten, tenemos los más usados DGM,E K,WUU.&lt;br&gt;
+Periocidad:&lt;br&gt;
+15&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=16&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-16_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-16_2.jpg&quot;&gt;&lt;br&gt;
+Aquí vemos que la Entropíaes muy alta, 4.56, recordemos que la máxima es 4.7 en &lt;br&gt;
+cryptool, está medianamente bien repartido el uso de letras. Aún así con el gráfico podemos &lt;br&gt;
+hacer una pequeña cor elación del alfabeto, cambiando las letras de las ternas más usadas &lt;br&gt;
+{A,D,E,I,N,R,S,T} →{C,E,F,G,M,N,T,U,W}&lt;br&gt;Autocor elación:&lt;br&gt;
+Vemos que hay un período mayormente claro,onda que sube y baja siempre.&lt;br&gt;
+Tiene características propias de un texto de Vignere.&lt;br&gt;
+Creo que es un texto cifrado con Vignere, por lo que podemos probar:&lt;br&gt;
+Texto obtenido en francés:&lt;br&gt;SOUVENTPOURSAMUSERLESHOMMESDEQUIPAGEPRENNENTDESALBATROSVASTESOISEAU&lt;br&gt;
+XDESMERSQUISUIVENTINDOLENTSCOMPAGNONSDEVOYAGELENAVIREGLIS ANTSURLESGO&lt;br&gt;
+UF RESAMERSAPEINELESONTILSDEPOSES URLESPLANCHESQUECESROISDELAZURMALADRO&lt;br&gt;
+ITSETHONTEUXLAIS ENTPITEUSEMENTLEURSGRANDESAILESBLANCHESCOMMEDESAVIRONS&lt;br&gt;
+TRAINERACOTEDEUXCEVOYAGEURAILECOMMEILESTGAUCHE TVEULELUINAGUERESIBEAU&lt;br&gt;
+QUILESTCOMIQUE TLAIDLUNAGACESONBECAVECUNBRULEGUEULELAUTREMIME NBOITAN&lt;br&gt;
+TLINFIRMEQUIVOLAITLEPOETE STSEMBLABLEAUPRINCEDESNUE SQUIHANTELATEMPETEET&lt;br&gt;
+SERITDELARCHERBAUDELAIRE XILESURLESOLAUMILIEUDESHUE SLEMOTPOURETAGEQUAT&lt;br&gt;
+RE ST RAJANSESAILESDEGEANTLEMPECHENTDEMARCHER&lt;br&gt;
+16&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=17&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-17_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-17_2.jpg&quot;&gt;&lt;br&gt;
+SOUVENT POUR SAMUSERLES HOMMES D EQUIPAGE PRENNENT DES ALBATROS &lt;br&gt;
+VASTESOISE AUX DES MERSQUI SUIVENTIN DOLENTS COMPAGNONS DE VOYAGE LE &lt;br&gt;
+NAVIREGLIS ANT SUR LES GOUF RES AMERSAPEINELES ONTILS DE POSES URLES PLANCHES &lt;br&gt;
+QUE CES ROIS DELAZURMALADROITS ET HONTEUXLAIS ENTPITEUSEMENTLEURS GRANDE &lt;br&gt;
+SAILES BLANCHES COMME DE SAVIRONSTRAINERA COTE DEUX CE VOYAGE URAILE COMME &lt;br&gt;
+IL EST GAUCHE ET VEU LE LUINA GUERE SI BEAU QUILEST COMIQUE ET LAID LUNA &lt;br&gt;
+GACESONBECAVECUNBRULEGUEULE LAUTRE MIME N BOITANT LIN FIRME QUIVOLAITLE &lt;br&gt;
+POETE ST SEMBLA BLEAU PRINCE DES NUE ESQUIHANTELA TEMPETEET SERITDEL ARCHER &lt;br&gt;
+BAU DE LAIRE EXILE SUR LES OLAUMILIEU DES HUE SLEMOT POUR ETAGE QUATRE EST &lt;br&gt;
+TRAJAN SESAILES DE GEANTLEMPECHENT DE MARCHER&lt;br&gt;Probamos con Cryptool 1 para obtener admeás la clave, que en este caso es SCUBA:&lt;br&gt;
+17&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=18&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-18_1.jpg&quot;&gt;&lt;br&gt;
+11. Resolver el triple reto de Mystery Twister C3 contenido en el fichero mtc3-&lt;br&gt;
+wacker-01-clas icalciphers3-en usando la her amienta CrypTool y dando las 3 &lt;br&gt;
+palabras código pedidas.&lt;br&gt;Fase 1: César&lt;br&gt;
+Donx dlqd kdqndod, orsxv d nlwrv vhlvr . &lt;br&gt;Me salé un texto en finés, que habla de los problemas de caries el día de ac ión de gracias.&lt;br&gt;Finés: Alku aina hankala, lopus a kitos&lt;br&gt;
+seisoo.&lt;br&gt;Español: El comienzo de los problemas al final de todo el trabajo duro.&lt;br&gt;Clave C, tercera palabra del código hankala&lt;br&gt;
+Codeword: hankala&lt;br&gt;
+Fase 2: Cifrado por sustitución&lt;br&gt;
+He hecho un cifrado por sustitución del resultado del mensaje 1, descifrado.&lt;br&gt;TIME THAT hTAMTIT IopEs T MHHtos seHsoo &lt;br&gt;Codeword: TIME&lt;br&gt;Fase 3: Cifrado desconocido&lt;br&gt;
+Está cifrado en Navajo, lo he descubierto buscando las palabras separadas.&lt;br&gt;
+He usado este especie de dic ionario: &lt;br&gt;
+ht p:/ www.history.navy.mil/research/library/online-reading-room/title-list-&lt;br&gt;
+alphabeticaly/n/navajo-code-talker-dictionary.html&lt;br&gt;
+18&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=19&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI_P2-19_1.jpg&quot;&gt;&lt;br&gt;
+Está hecho, elos código es navajo.&lt;br&gt;
+UT-ZHA!, CHA-GE  YIL-TAS SEIS TSAH WOL-LA-CHE  A-KEH-DI-GLINI TSE-NIL  &lt;br&gt;
+Esta hecho,   el     &amp;quot;código es aguja    hormiga      victor    hacha&lt;br&gt;
+     N&lt;br&gt;
+A&lt;br&gt;
+V&lt;br&gt;
+A&lt;br&gt;
+AH-YA-TSINNE   NE-AHS-JAH&lt;br&gt;
+mandíbula&lt;br&gt;
+búho&amp;quot;&lt;br&gt;
+j&lt;br&gt;
+o&lt;br&gt;
+La traduc ión normal, es :&lt;br&gt;
+Está heho, el código es NAVAJO, ya que debajo dice el sentido literal de las letras, &lt;br&gt;
+siendo aguja la letra N (ne dle), hormiga A (ANT), hacha A (axe), mandíbula J (jaw) y &lt;br&gt;
+búho O (owl).&lt;br&gt;Codeword: NAVAJO&lt;br&gt;12. Resolver el reto de Mystery Twister C3 contenido en el fichero mtc3-simon-02-&lt;br&gt;
+adfgvx-en cifrado con el algoritmo ADFGVX, usando también esta her amienta.&lt;br&gt;ADGG AADG FDFA AVFD DAAV GDF  DXFG&lt;br&gt;
+AFAA DDDF GFGD F AG VDDF AF G AADG&lt;br&gt;
+AAAG AAGD F DA GFAA GGAG DGAA AAAD&lt;br&gt;
+GGAD DAAA GAFA GGGA ADAD FAAA&lt;br&gt;No he conseguido descifrarlo, he intentado usar la clave ENI, en el orden 1 -2 -3 que es EIN:&lt;br&gt;
+19&lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

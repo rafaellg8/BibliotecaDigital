@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">rafaellg8</Metadata>
+    <Metadata name="Title">PRÁCTICA 6 SHARE SPLIT KEY Imagen con todas las claves Encriptamos un...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514611/SPSI-P6.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514611/SPSI-P6.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P6\SPSI-P6.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1452514611\SPSI-P6.html</Metadata>
+    <Metadata name="OrigSource">SPSI-P6.html</Metadata>
+    <Metadata name="Source">SPSI-P6.pdf</Metadata>
+    <Metadata name="SourceFile">SPSI-P6.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">1477602</Metadata>
+    <Metadata name="FilenameRoot">SPSI-P6</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">8</Metadata>
+    <Metadata name="Identifier">HASHe60ab95d3e32d631306cf6</Metadata>
+    <Metadata name="lastmodified">1450179344</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1452514612</Metadata>
+    <Metadata name="oailastmodifieddate">20160111</Metadata>
+    <Metadata name="assocfilepath">HASHe60a.dir</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-1_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-2_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-2_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-3_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-3_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-4_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-4_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-5_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-5_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-6_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-6_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-7_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-7_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P6-8_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-1_1.jpg&quot;&gt;&lt;br&gt;
+PRÁCTICA 6&lt;br&gt;
+SHARE SPLIT KEY&lt;br&gt;Imagen con todas las claves&lt;br&gt;
+Encriptamos un mensaje con la clave a compartir y bor amos el original:&lt;br&gt;
+1&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-2_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-2_2.jpg&quot;&gt;&lt;br&gt;
+Partimos la clave entre 4 sombras, pero podemos desencriptar con solo 3:&lt;br&gt;
+2&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-3_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-3_2.jpg&quot;&gt;&lt;br&gt;
+Repartimos los shares:&lt;br&gt;
+Enviamos a cada usuario su clave de esta carpeta cor espondiente a través de la &lt;br&gt;
+lista de cor eo:&lt;br&gt;
+Después de mandarlo por cor eo para reunir las claves para desencriptar &lt;br&gt;
+obtenemos las claves del servidor que está escuchando:&lt;br&gt;
+3&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-4_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-4_2.jpg&quot;&gt;&lt;br&gt;
+Ahora envía cada usuario su share a través de “File -&amp;gt; Send Key Shares”, mientras &lt;br&gt;
+el admin está escuchando:&lt;br&gt;
+4&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-5_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-5_2.jpg&quot;&gt;&lt;br&gt;
+Ahora vamos obteniendo a través de la red las claves:&lt;br&gt;
+5&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-6_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-6_2.jpg&quot;&gt;&lt;br&gt;
+Y ya vamos obteniendo todas las claves, aquí vemos que ya hemos obtenido la del &lt;br&gt;
+compañero:&lt;br&gt;
+Cuando he recibido el fingerprint con el trozo de share key de mi compañero:&lt;br&gt;
+6&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-7_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-7_2.jpg&quot;&gt;&lt;br&gt;
+Juntamos todas las claves a través de la red, y le damos a OK, y obtenemos el &lt;br&gt;
+mensaje descifrado. Para el usuario local claveAdmin lo obtenemos a través de &lt;br&gt;
+select Share File:&lt;br&gt;
+Abrimos el mensaje descifrado:&lt;br&gt;
+7&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P6-8_1.jpg&quot;&gt;&lt;br&gt;
+8&lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">rafaellg8</Metadata>
+    <Metadata name="Title">SPSI-Practica3-ENTREGA</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514602/spsi_p3_F.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514602/spsi_p3_F.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P3\spsi_p3_F.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1452514602\spsi_p3_F.html</Metadata>
+    <Metadata name="OrigSource">spsi_p3_F.html</Metadata>
+    <Metadata name="Source">spsi_p3_F.pdf</Metadata>
+    <Metadata name="SourceFile">spsi_p3_F.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">2840634</Metadata>
+    <Metadata name="FilenameRoot">spsi_p3_F</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">17</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.curse">4</Metadata>
+    <Metadata name="PLUCO.date">15-12-2015</Metadata>
+    <Metadata name="PLUCO.description">Práctica 3 Resuelta, sobre Algoritmos Simétricos de la asignatura SPSI</Metadata>
+    <Metadata name="PLUCO.signature">SPSI|P3</Metadata>
+    <Metadata name="PLUCO.tags">SPSI</Metadata>
+    <Metadata name="PLUCO.tags">Práctica 3</Metadata>
+    <Metadata name="PLUCO.tags">Algoritmos Simétricos</Metadata>
+    <Metadata name="PLUCO.theme">SPSI|P3</Metadata>
+    <Metadata name="PLUCO.title">Práctica 3 - SPSI - Algoritmos Simétricos</Metadata>
+    <Metadata name="Identifier">HASHfbbcff994d0b978473b83d</Metadata>
+    <Metadata name="lastmodified">1450179208</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1452514605</Metadata>
+    <Metadata name="oailastmodifieddate">20160111</Metadata>
+    <Metadata name="assocfilepath">HASHfbbc.dir</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-1_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-1_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-2_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-2_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-2_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-3_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-3_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-4_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-5_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-5_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-5_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-6_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-7_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-7_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-7_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-8_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-9_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-9_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-9_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-9_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-10_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-10_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-10_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-11_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-11_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-11_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-12_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-12_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-12_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-13_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-13_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-14_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-15_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-15_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-15_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-15_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-15_5.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-15_6.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">spsi_p3_F-17_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-1_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-1_2.jpg&quot;&gt;&lt;br&gt;
+SPSI - PRÁCTICA 3&lt;br&gt;
+ENCRIPTACIÓN SIMÉTRICA&lt;br&gt;
+Rafael Lachica Gar ido&lt;br&gt;Ejercicio 7) Clasificar los algoritmos de 1 en “algoritmos clásicos”, &lt;br&gt;
+“algoritmos de cifrado en bloque” y “algoritmos en flujo” para poder proceder &lt;br&gt;
+con el resto de la práctica. &lt;br&gt;
+Fichero entrada: IN.TXT = “HOLA MUNDO”&lt;br&gt;Algoritmos clásicos: Caesar, Enigma,Vigenere, Xor, Transposición, ROT13.&lt;br&gt;
+Algoritmos de cifrado en bloque: Blowfish, Crypt, DES, IDEA, KHUFU,&lt;br&gt;
+Lucifer, RSA, Tiny.&lt;br&gt;
+Algoritmos de flujo: CDROM, getopt, HEX, ISPRIME, Nextfile, Hash, OTP, &lt;br&gt;
+RANDOM,&lt;br&gt;
+Template, LZSS.&lt;br&gt;Fuente: ht ps:/ en.wikipedia.org/wiki/Category:Classical_ciphers&lt;br&gt;
+ht ps:/ en.wikipedia.org/wiki/Stream_cipher HYPERLINK &lt;br&gt;
+&amp;quot;ht ps:/ en.wikipedia.org/wiki/Block_cipher&amp;quot;cipher&lt;br&gt;Ejercicio 8) Hacer varios ejemplos de ejecución de los algoritmos, al menos &lt;br&gt;
+con dos algoritmos de cada uno de los grupos anteriores. Describir en qué &lt;br&gt;
+consiste la l ave.&lt;br&gt;Algoritmos Clásicos:&lt;br&gt;Cesar&lt;br&gt;
+Clave K, desplazamiento del alfabeto, empieza desde K. &lt;br&gt;
+1&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-2_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-2_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-2_3.jpg&quot;&gt;&lt;br&gt;
+Para César, vemos que pongamos la clave que pongamos siempre hace un &lt;br&gt;
+desplazamiento de la A → C, B → E y así sucesivamente, independientemente de &lt;br&gt;
+las claves usadas.&lt;br&gt;
+Traspose:&lt;br&gt;
+Clave: 1&lt;br&gt;
+Se hace una transposición de una posición en la matriz que se elabora de letras.&lt;br&gt;
+2&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-3_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-3_2.jpg&quot;&gt;&lt;br&gt;
+Algoritmos de bloque:&lt;br&gt;DES_1&lt;br&gt;
+Aquí vemos el cifrado en caracteres ASCI  de DES. &lt;br&gt;
+DES: 64 bit / key, 64 bit bloque, lave en ASCI . &lt;br&gt;
+Todo esto lo podemos encontrar en DES_1.c&lt;br&gt;Blowfish&lt;br&gt;
+3&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-4_1.jpg&quot;&gt;&lt;br&gt;
+Blowfish usa bloques de 64 bits y claves que van desde los 32 bits hasta 448 bits. &lt;br&gt;
+Es un codificador de 16 rondas Feistel y usa laves que dependen de las Cajas-S.&lt;br&gt;Algoritmos de flujo:&lt;br&gt;
+Random:&lt;br&gt;
+XOR de la entrada de un archivo con número aleatorios generados por un cadena &lt;br&gt;
+que es la clave.&lt;br&gt;
+La clave es una cadena ASCI , de como máximo 256 letras.&lt;br&gt;
+OTP&lt;br&gt;
+XOR con un archivo de un solo uso hace un desplazamiento hasta el inicio del &lt;br&gt;
+archivo.&lt;br&gt;
+Llave es una cadena ASCI , dado a través de un archivo de texto \\\\&amp;quot; &lt;br&gt;
+NOMBREARCHIVO.EXT OFFSET \\\\ &amp;quot; .&lt;br&gt;
+4&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-5_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-5_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-5_3.jpg&quot;&gt;&lt;br&gt;
+Ejercicio 9) ¿En qué consiste la opción de bor ado seguro de los algoritmos? &lt;br&gt;
+Hacer algún ejemplo con las diversas opciones de bor ado seguro.&lt;br&gt;
+Bor a el archivo de entrada, y genera el archivo de salida cor ecto. Opción: -eQ.&lt;br&gt;
+5&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-6_1.jpg&quot;&gt;&lt;br&gt;
+Sobrescribe el archivo de entrada con el resultado. Opción: -eg&lt;br&gt;Ejercicio 10) ¿Hay algoritmos con un tamaño de bloque distinto de 64 bits?. &lt;br&gt;
+En caso afirmativo decir cuáles y dar el tamaño del bloque.&lt;br&gt;
+⦁  Lucifer:  48, 32 o 128 bits&lt;br&gt;
+⦁  RSA:  bloques de datos de 8 o 16 bit.&lt;br&gt;
+Ejercicio 11)¿Qué ocur e si con el algoritmo XOR ciframos una cadena de &lt;br&gt;
+caracteres y utilizamos como l ave la misma cadena? ¿Cuál es la salida? ¿Qué &lt;br&gt;
+ocur e ahora si con el mismo algoritmo XOR ciframos una cadena de &lt;br&gt;
+caracteres con l ave caracteres ESPACIO de la misma longitud que la entrada &lt;br&gt;
+como texto l ano? ¿Cuál es la explicación?&lt;br&gt;
+Al hacer XOR con la lave que es la misma que la del texto de entrada dá 0, ya que &lt;br&gt;
+es como hacer 1 XOR 1. Por eso dá nul.&lt;br&gt;
+6&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-7_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-7_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-7_3.jpg&quot;&gt;&lt;br&gt;
+Al hacer XOR con la clave solo con espacios, pasa el mensaje a minúsculas, esto &lt;br&gt;
+es porque “espacio “ XOR H → h, hace un desplazamiento hacia la izquierda de 32 &lt;br&gt;
+posiciones que es el carácter “espacio” en la tabla ASCI . Así si miramos la tabla &lt;br&gt;
+ASCI , podemos ver la H = 72, y el espacio = 32, 72+32 = 104 → h.&lt;br&gt;
+jercicio 12) Dar otros ejemplos de cifrado y descifrado, si encuentras que sean &lt;br&gt;
+interesantes, de otros algoritmos en particular con otras l aves en particular.&lt;br&gt;
+En Lucifer si desencriptamos con la misma clave con la que encriptamos, el &lt;br&gt;
+7&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-8_1.jpg&quot;&gt;&lt;br&gt;
+mensaje encriptado no se modifica.&lt;br&gt;
+Ejercicio 13) Los algoritmos ejecutables con nombre.exe están implementados &lt;br&gt;
+en modo ECB. Los algoritmos ejecutables con nombre_C.exe están &lt;br&gt;
+implementados en modo CBC. ¿Cómo podemos distinguirlos atendiendo a la &lt;br&gt;
+salida que ofrecen? Poner un ejemplo en uno y otro caso con un algoritmo &lt;br&gt;
+seleccionado de entre el os. Indicación: buscar texto l ano con repetición por &lt;br&gt;
+bloques.&lt;br&gt;
+En un EBC, si se repite el bloque, se repite el texto cifrado, mientras que en el CBC &lt;br&gt;
+no se repite el cifrado.&lt;br&gt;Podemos ver como se repite siempre en EBC, por ejemplo: “ÀN¥Á” en hexadecimal &lt;br&gt;
+4E A5 C1 94. Todos los demás bloques se repiten, mientras CBC no se repiten.&lt;br&gt;
+Ejercicio 14.) Los algoritmos están implementados normalmente en modo de &lt;br&gt;
+&amp;quot;anotaciones al final&amp;quot; o &amp;quot;padding&amp;quot;. ¿Cómo podemos comprobarlo?. Poner un &lt;br&gt;
+ejemplo de elo.&lt;br&gt;
+Los algorimtos que tienen padding, intentan &amp;quot;relenar&amp;quot; todos los bloques enteros de &lt;br&gt;
+N bits, es decir, si al introducir una lave repetitiva por ejemplo, usamos menos de N &lt;br&gt;
+bits, intentará relenar los bits restantes.&lt;br&gt;
+Para elo vamos a usar BLOWFISH_C, con la clave en texto lano &amp;quot;HOLA&amp;quot; que vamos a &lt;br&gt;
+cifrar el texto en el archivo IN.TXT que contiene la palabra &lt;br&gt;
+&amp;quot;HOLAMUNDOHOLAMUNDOHOLAMUNDO&amp;quot;, vamos a eliminar las últimas &amp;quot;OLA&amp;quot;:&lt;br&gt;
+8&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=9&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-9_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-9_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-9_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-9_4.jpg&quot;&gt;&lt;br&gt;
+Vemos en la zona subrayada como se &amp;quot;relena&amp;quot; los bloques vacíos, indicados por 00 &lt;br&gt;
+en hexadecimal en el texto de entrada, se lenan en el texto e salida. En nuestro &lt;br&gt;
+caso, como son bloques de 64 bits, ha relenado hasta un múltiplo del mismo, 256 &lt;br&gt;
+bits.&lt;br&gt;
+Ejercicio 15.) ¿Cómo afecta el padding a un algorimto en modo ECB con repetición &lt;br&gt;
+de bloques de texto lano de 8,16, o 32 bits?. ¿Y cómo afecta en el caso anterior &lt;br&gt;
+con bloques de 64 bits?&lt;br&gt;
+Si metemos menos de 64 bits de bloque, intentará el algoritmo relenar los bloques &lt;br&gt;
+hasta legar a 64 bits.&lt;br&gt;
+Podemos apreciar como en el texto de salida, ocupa 8Bytes = 64 bits, por lo que ha &lt;br&gt;
+relenado el algoritmo el bloque restante.&lt;br&gt;
+Lo mismo para 16 bits.&lt;br&gt;
+9&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=10&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-10_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-10_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-10_3.jpg&quot;&gt;&lt;br&gt;
+Para 32 bits, igual, relena la mitad restante hasta legar a 64 bits.&lt;br&gt;
+Sin embargo si metemos un bloque de 64 bits no hace padding:&lt;br&gt;
+Vemos como coinciden el tamaño de bits tanto para la entrada, abajo, como para la &lt;br&gt;
+salida, ar iba.&lt;br&gt;Práctica para entrega 3:&lt;br&gt;
+Ejercicio 16 ) Realizar el análisis de aletoriedad provisto en Cryptool para el Keyfile &lt;br&gt;
+de enigmawn y fichero de laves de TrueCrypt, obteniendo ficheros de longitud &lt;br&gt;
+adecuada por concatenación, si es necesario. Realizar los tests de &lt;br&gt;
+Frecuencias,Poker,Rachas y Series, así como el integrado FIPS-PUB-140-1. Hace una &lt;br&gt;
+tabla con los resultados y obtener las conclusiones pertinentes sobre la &lt;br&gt;
+aletoriedad en uno y otros algoritmos.&lt;br&gt;
+1) Clave enigmawm efw98.key&lt;br&gt;
+Para elos abrimos el archivo a través de cryptool versión 1, y ejecutamos los tests:&lt;br&gt;
+     &lt;br&gt;
+Test de Frecuencias&lt;br&gt;
+Test de Póker&lt;br&gt;
+10&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=11&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-11_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-11_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-11_3.jpg&quot;&gt;&lt;br&gt;
+       &lt;br&gt;
+Test de Rachas&lt;br&gt;
+Test de Series&lt;br&gt;
+Test FIPS.&lt;br&gt;
+Para este test, nos dice que sólo se usuarán los 2500 primeros Bytes, ya que está &lt;br&gt;
+preparada para eso y el documento tiene más de 100.000. Aún así ha pasado todos &lt;br&gt;
+los test de forma existosa.&lt;br&gt;
+1&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=12&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-12_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-12_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-12_3.jpg&quot;&gt;&lt;br&gt;
+2) Clave Wirphool TrueCrypt&lt;br&gt;
+Para crear una clave, vamos a Tools - &amp;gt; Generate Key:&lt;br&gt;
+Como sólo nos ocupa 64 Bytes, lo abrimos con el bloc de notas y copiamos pegamos &lt;br&gt;
+la clave hasta conseguir 3600 Bytes, algo más de lo que nos pide.&lt;br&gt;
+   &lt;br&gt;
+  Test de Frecuencias&lt;br&gt;
+Test de Póker&lt;br&gt;
+12&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=13&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-13_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-13_2.jpg&quot;&gt;&lt;br&gt;
+   &lt;br&gt;
+ Test de Rachas&lt;br&gt;
+Test de Series&lt;br&gt;
+13&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=14&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-14_1.jpg&quot;&gt;&lt;br&gt;
+Batería FIPS-PUB&lt;br&gt;
+Resultados:&lt;br&gt;
+L AVE &lt;br&gt;
+| Test Frecuencias | Test Póker | Test Rachas | Test de Series | FIPS &lt;br&gt;
+Enigmaw | 0.55&lt;br&gt;
+     | 11.00       |4.41 racha 22|  1.36           | 7.99&lt;br&gt;
+TrueCrypt  | 36.68&lt;br&gt;
+     | 100.81     |96.74 racha 7| 63.27        |&lt;br&gt;
+5.89&lt;br&gt;
+Podemos ver como en el archivo de TrueCrypt, se disparan los valores, debido a que &lt;br&gt;
+es una clave concatenada, los únicos valores en los que se mantiene y saca un valor &lt;br&gt;
+algo mejor es en la entropía de FIPS, aunque falan los demás test para TrueCrypt.&lt;br&gt;
+Ejercicio 17). Examinar las opciones de cifrado simétricas en CrypTool con varios &lt;br&gt;
+algoritmos. Probar un ataque sobre alguno de el os en función de la longitud de la &lt;br&gt;
+lave. Analizar los tiempos de ataque necesarios para determinar 32 bits,40 bits,48 &lt;br&gt;
+bits,56 bits y 64 bits de lave.&lt;br&gt;
+Ciframos un texto lano, con DES CBC, con :&lt;br&gt;
+-Llave de 32 bits&lt;br&gt;
+14&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=15&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-15_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-15_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-15_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-15_4.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-15_5.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-15_6.jpg&quot;&gt;&lt;br&gt;
+Tendríamos un tiempo de 1:21:00h, para una clave de 32 bits.&lt;br&gt;
+He usado un texto lano corto para que tarde menos.&lt;br&gt;
+-Llave 40 bits: 7 días&lt;br&gt;
+-Llave 48 bits: 2,5 años&lt;br&gt;
+   &lt;br&gt;
+-Llave 56 bits: 3.2e+2 años&lt;br&gt;
+-Llave 64 bits: 4.1e+0.04 años&lt;br&gt;
+ &lt;br&gt;
+Vemos que a partir de una clave mayor de 32 bits, es prácticamente inviable e &lt;br&gt;
+imposible romper por fuerza bruta una clave de DES CBC.&lt;br&gt;
+Ejercicio 18). Con los códigos disponibles de algoritmos simétricos, que puedes &lt;br&gt;
+encontrar en los enlaces de 6 construye tu propio ejemplo de ejecución de &lt;br&gt;
+algoritmo simétrico con elec ión de Modo de Cifrado, Padding, Bor ado Seguro, &lt;br&gt;
+Generación de L aves etc.&lt;br&gt;
+15&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=16&gt;&lt;/a&gt;&amp;quot;&amp;quot;&amp;quot;&lt;br&gt;
+Rafael Lachica Garrido&lt;br&gt;
+SPSI ‐ Cryptografia con DES3&lt;br&gt;
+&amp;quot;&amp;quot;&amp;quot;&lt;br&gt;
+from Crypto.Cipher import DES3&lt;br&gt;
+import binascii&lt;br&gt;
+import time&lt;br&gt;
+def cifrado():&lt;br&gt;
+nombre = raw_input(&amp;quot;Nombre archivo a cifrar\\\\n&amp;quot;)&lt;br&gt;
+textoplano = open(nombre,'r').read()&lt;br&gt;
+start_time = time.time()&lt;br&gt;
+clave = 'mysecretpassword'&lt;br&gt;
+cifrado = DES3.new(clave, DES3.MODE_ECB)&lt;br&gt;
+textocifrado = cifrado.encrypt(textoplano)&lt;br&gt;
+end_time = time.time()&lt;br&gt;
+print (&amp;quot;Tiempo encriptado ms: &amp;quot;+ str((end_time‐start_time)/1000))&lt;br&gt;
+textocifrado=textocifrado.encode('hex')&lt;br&gt;
+print &amp;quot;Texto cifrado: &amp;quot;&lt;br&gt;
+print (textocifrado)&lt;br&gt;
+archivoCifrado = open('cifrado','w')&lt;br&gt;
+archivoCifrado.write((textocifrado)) #Escribimos el resultado al archivo&lt;br&gt;
+def descifrado():&lt;br&gt;
+start_time = time.time()&lt;br&gt;
+key = 'mysecretpassword'&lt;br&gt;
+ciphertext = (open('cifrado','r').read())&lt;br&gt;
+ciphertext = binascii.unhexlify(ciphertext)&lt;br&gt;
+decobj = DES3.new(key, DES3.MODE_ECB)&lt;br&gt;
+plaintext = decobj.decrypt(ciphertext)&lt;br&gt;
+end_time = time.time()&lt;br&gt;
+print (&amp;quot;Tiempo desencriptado ms: &amp;quot;+ str((end_time‐start_time)/1000))&lt;br&gt;
+# Imprimimos el resultado en el archivo salida&lt;br&gt;
+print &amp;quot;Texto plano: \\\\n&amp;quot;&lt;br&gt;
+print plaintext&lt;br&gt;
+salida = open('salida','w')&lt;br&gt;
+salida.write(plaintext)&lt;br&gt;
+'''&lt;br&gt;
+Menu Principal&lt;br&gt;
+'''&lt;br&gt;
+menu = input('\\\\nSi desea cifrar pulse 1, si desea descifrar pulse 2')&lt;br&gt;
+if (menu==1):&lt;br&gt;
+cifrado()&lt;br&gt;
+elif (menu==2):&lt;br&gt;
+descifrado()&lt;br&gt;
+else:&lt;br&gt;
+cifrado()&lt;br&gt;
+descifrado()&lt;br&gt;Para el cifrado del texto he usado DES3, de tipo ECB, sin padding. Para que &lt;br&gt;
+funcione de forma cor ecto hay que insertar una clave de 16 Bytes, y un mensaje &lt;br&gt;
+múltiplo de 8 Bytes.&lt;br&gt;
+He usado para python el módulo pycrypto.&lt;br&gt;Fuente: ht ps:/ pypi.python.org/pypi/pycrypto&lt;br&gt;Texto a cifrar:&lt;br&gt;
+SPSISPSIRAFAELLACHICAGARRIDOSPSISPSIRAFAELLACHICAGARRIDOSPSI&lt;br&gt;
+SPSIRA&lt;br&gt;
+FAELLACHICAGARRIDOSPSISPSIRAFAELLACHICAGARRIDOSPSISPSIRAFAEL&lt;br&gt;
+LACHI&lt;br&gt;
+CAGARRIDOSPSISPSIRAFAELLACHICAGARRIDOSPSISPSIRAFAELLACHICAGA&lt;br&gt;
+RRIDO&lt;br&gt;
+SPSISPSIRAFAELLACHICAGARRIDO&lt;br&gt;
+16&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=17&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/spsi_p3_F-17_1.jpg&quot;&gt;&lt;br&gt;
+Clave: “mysecretpassword”&lt;br&gt;Tiempo usado cifrar/descifrar:&lt;br&gt;
+Tiempo&lt;br&gt;
+encriptado ms: 2.36034393311e07&lt;br&gt;
+Tiempo&lt;br&gt;
+desencriptado ms: 2.42948532104e07&lt;br&gt;
+17&lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

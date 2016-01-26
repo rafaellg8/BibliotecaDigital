@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<solr persistent="true">
+  <cores adminPath="/admin/cores">
+    <core name="localsite-solr-jdbm-demo-sidx" 
+	  instanceDir="C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/solr-jdbm-demo/etc/" 
+	  dataDir="C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/solr-jdbm-demo/index/sidx"/>
+    <core name="localsite-solr-jdbm-demo-didx" 
+	  instanceDir="C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/solr-jdbm-demo/etc/" 
+	  dataDir="C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/solr-jdbm-demo/index/didx"/>
+  </cores>
+</solr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>ej4 GRD\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="PLUCO.Title">Ejercicios Tema 4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.Creator">Rafael Lachica Garrido</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.Description">Ejercicios del Tema 4 de GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.title">Ejercicios Tema 4 - GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.theme">GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.curse">4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.description">Ejercicios resueltos del tema 4 de GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.date">20-11-15</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.signature">GRD|EJ4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Ejercicios</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Tema 4</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>GRD_Tema1_RafaelLachicaGarrido\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="PLUCO.title">Ejercicios Tema 1 - GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.theme">GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.curse">4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.description">Ejercicios resueltos del tema 1 de GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.date">14-10-15</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.signature">GRD|EJ1</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Ejercicios</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Tema 1</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>TEMA 2 GRD- AUDIOS \(C%D3DECS Y FORMATOS\) \(1\)\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="PLUCO.title">Sonidos en una bibioteca digital</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Miguel Fernández Ferández</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.theme">GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.curse">4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.description">Trabajo realizado sobre los sonidos como un elemento dentro de las DLs</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.date">4-12-15</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.signature">GRD|SON</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">GRD</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Sonidos</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">DLs</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Biblioteca Digital</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

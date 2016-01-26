@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">TEMA 2 GRD: AUDIOS CÓDECS Y FORMATOS Rafael Lachica Garrido ...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514589/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1).html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514589/TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1).html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\GRD\TEMA 2 GRD- AUDIOS %28C%D3DECS Y FORMATOS%29 %281%29.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1452514589\TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1).html</Metadata>
+    <Metadata name="OrigSource">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1).html</Metadata>
+    <Metadata name="Source">TEMA 2 GRD- AUDIOS (CÓDECS Y FORMATOS) (1).pdf</Metadata>
+    <Metadata name="SourceFile">TEMA 2 GRD- AUDIOS %2528C%25D3DECS Y FORMATOS%2529 %25281%2529.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">859656</Metadata>
+    <Metadata name="FilenameRoot">TEMA 2 GRD- AUDIOS (CÓDECS Y FORMATOS) (1)</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">23</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.autor">Miguel Fernández Ferández</Metadata>
+    <Metadata name="PLUCO.curse">4</Metadata>
+    <Metadata name="PLUCO.date">4-12-15</Metadata>
+    <Metadata name="PLUCO.description">Trabajo realizado sobre los sonidos como un elemento dentro de las DLs</Metadata>
+    <Metadata name="PLUCO.signature">GRD|SON</Metadata>
+    <Metadata name="PLUCO.tags">GRD</Metadata>
+    <Metadata name="PLUCO.tags">Sonidos</Metadata>
+    <Metadata name="PLUCO.tags">DLs</Metadata>
+    <Metadata name="PLUCO.tags">Biblioteca Digital</Metadata>
+    <Metadata name="PLUCO.theme">GRD</Metadata>
+    <Metadata name="PLUCO.title">Sonidos en una bibioteca digital</Metadata>
+    <Metadata name="Identifier">HASHf617206694ae31ad3c65f8</Metadata>
+    <Metadata name="lastmodified">1450179444</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1452514593</Metadata>
+    <Metadata name="oailastmodifieddate">20160111</Metadata>
+    <Metadata name="assocfilepath">HASHf617.dir</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-5_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-14_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-15_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-17_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-19_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-20_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">TEMA 2 GRD- AUDIOS (C%C3%93DECS Y FORMATOS) (1)-21_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt; &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;  TEMA 2 GRD: AUDIOS&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;CÓDECS Y FORMATOS&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Rafael Lachica Garrido&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Miguel Fernández Fernández&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Hablaremos de ...&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+1. El sonido como tal.&lt;br&gt;2. El uso de los distintos formatos y códecs de audio que se usan en los &lt;br&gt;
+distintos tipos de archivos de audio almacenados en una biblioteca &lt;br&gt;digital.&lt;br&gt;
+3. Diferenciamos entre códec y formato de audio.&lt;br&gt;4. Distintos formatos de audio (calidad/tamaño) para nuestra biblioteca.&lt;br&gt;5. Mejores formatos de audio que podemos usar para una biblioteca digital &lt;br&gt;
+basándonos en ponderaciones de calidad y compresión del tamaño, así &lt;br&gt;como su funcionalidad de los mismos en una plataforma en Internet.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Definición de sonido&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+El &lt;b&gt;sonido &lt;/b&gt;se define como la sensación o &lt;br&gt;impresión producida en el oído por un conjunto &lt;br&gt;de vibraciones que se propagan por un medio &lt;br&gt;elástico, como el aire.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Prinicipales Características del Sonido&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+- &lt;b&gt;Altura o tono&lt;/b&gt;: frecuencia de onda. Puede ser agudo,medio y grave.&lt;br&gt;
+- &lt;b&gt;Intensidad&lt;/b&gt;: Amplitud de onda. Se divide en fuerte,débil y suave.&lt;br&gt;
+- &lt;b&gt;Timbre&lt;/b&gt;: Armónicos de onda o forma de la onda. Depende de las características &lt;br&gt;de la fuente emisora del sonido (por analogía: áspero, aterciopelado, metálico, &lt;br&gt;etc)&lt;br&gt;
+- &lt;b&gt;Duración&lt;/b&gt;: Tiempo de vibración. Es largo o corto.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-5_1.jpg&quot;&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;Un poco de historia&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+La primera invención conocida de un dispositivo capaz de grabar sonido fue el &lt;br&gt;&lt;b&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fFonoaut%25C3%25B3grafo&quot;&gt;fonoautógrafo&lt;/b&gt;&lt;/a&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fLeon%5fScott&quot;&gt;, invención del francés &lt;b&gt;Leon Scott&lt;/b&gt;&lt;/a&gt;, patentado el &lt;b&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2f25%5fde%5fmarzo&quot;&gt;25 de marzo de 1857&lt;/b&gt;&lt;/a&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fFonoaut%25C3%25B3grafo&quot;&gt;. Este &lt;br&gt;&lt;/a&gt;podía transcribir sonido a un medio visible, pero no tenía un modo de ser reproducido &lt;br&gt;después.&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fBarril&quot;&gt;El aparato consistía de un cuerno o un barril, el cual recogía las ondas sonoras hacia&lt;/a&gt; &lt;br&gt;una membrana, a la que estaba atada una cuerda. Cuando llegaba el sonido, ésta &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fReproducci%25C3%25B3n%5fy%5fgrabaci%25C3%25B3n%5fde%5fsonido&quot;&gt;vibraba y se movía y el sonido podía grabarse en un medio visible.&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;i&gt; &lt;b&gt;FORMATOS VS CÓDECS&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+●&lt;br&gt;
+&lt;i&gt;&lt;b&gt;Formato: &lt;/b&gt;&lt;/i&gt;se define como formato de audio a un &lt;b&gt;contenedor multimedia &lt;br&gt;&lt;/b&gt;que guarda una grabación de audio.&lt;br&gt;
+●&lt;br&gt;
+&lt;i&gt;&lt;b&gt;Códec&lt;/b&gt;:&lt;/i&gt; es un códec que incluye un &lt;b&gt;conjunto de algoritmos&lt;/b&gt; que permiten &lt;br&gt;&lt;b&gt;codificar y decodificar&lt;/b&gt; los datos auditivos, lo cual significa &lt;b&gt;reducir la &lt;br&gt;cantidad de bits&lt;/b&gt; que ocupa el fichero de audio. Esto permite &lt;b&gt;comprimir &lt;br&gt;señales&lt;/b&gt; o &lt;b&gt;ficheros&lt;/b&gt; de audio con un flujo (stream) con el objetivo de que &lt;br&gt;ocupan el menor espacio posible,consiguiendo una buena calidad final, y &lt;br&gt;descomprimiendo para reproducirlos o manipularlos en un formato más &lt;br&gt;apropiado. &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Primera Grabación&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fFonoaut%25C3%25B3grafo&quot;&gt;Un equipo logró tener acceso a las grabaciones del fonoautógrafo de Leon Scott, que estaban guardadas en la&lt;/a&gt; &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fAcad%25C3%25A9mie%5fdes%5fSciences&quot;&gt;oficina de patentes de la&lt;i&gt;Académie des Sciences&lt;/i&gt; francesa.&lt;/a&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fPapel&quot;&gt;Escanearon el papel en relieve, con un sofisticado programa de ordenador desarrollado años antes por laBiblioteca&lt;/a&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fBiblioteca%5fdel%5fCongreso%5fde%5flos%5fEstados%5fUnidos&quot;&gt; &lt;br&gt;del Congreso de los Estados Unidos.&lt;/a&gt;&lt;br&gt;
+ Las ondas del papel fueron traducidas por un ordenador a sonidos audibles y reconocibles. Uno de ellos, creado el &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2f9%5fde%5fabril&quot;&gt;9 de abril de 1860 resultó ser una grabación de 10 segundos (de muy baja fidelidad pero reconocible), de alguien &lt;br&gt;&lt;/a&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fSonata%5fpara%5fpiano%5fn.%25C2%25BA%5f14%5f(Beethoven)&quot;&gt;cantando la canción popular francesa &amp;quot;Au Clair de la Lune&amp;quot;.&lt;/a&gt; &lt;br&gt;
+Este &amp;quot;fonoautograma&amp;quot; es la primera grabación de sonido conocida, así como la primera grabación que es, &lt;br&gt;empíricamente, reproducible.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt; FORMATOS VS CÓDECS. EN RESUMEN...&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+● &lt;b&gt;&lt;i&gt;Un códec&lt;/b&gt;&lt;/i&gt; es simple y llanamente un &lt;b&gt;algoritmo&lt;/b&gt; con el se &lt;br&gt;
+&lt;b&gt;codifica&lt;/b&gt;/&lt;b&gt;decodifica&lt;/b&gt; el &lt;b&gt;sonido&lt;/b&gt; contenido en el fichero, comprimiendo &lt;br&gt;el mismo en ese fichero.&lt;br&gt;
+● En cambio &lt;b&gt;&lt;i&gt;los formatos&lt;/b&gt;&lt;/i&gt; se definen de forma simple como “Es un &lt;br&gt;
+“contenedor” de datos (cabecera, audio, etc.). Se suele identificar por &lt;br&gt;su extensión”.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=9&gt;&lt;/a&gt;&lt;i&gt; &lt;b&gt;FORMATOS VS CÓDECS. PARÁMETROS. &lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+Es muy común que un formato de fichero esté asociado a un códec (p.e. &lt;br&gt;mp3), aunque no siempre ha de ser así.&lt;br&gt;
+A la hora de comparar formatos y códecs, se consideran parámetros como:&lt;br&gt;
+• La &lt;b&gt;&lt;i&gt;calidad del sonido&lt;/b&gt;&lt;/i&gt;.&lt;br&gt;
+• El &lt;b&gt;&lt;i&gt;tamaño del fichero&lt;/b&gt;.&lt;/i&gt;&lt;br&gt;
+• El &lt;b&gt;&lt;i&gt;bitrate&lt;/b&gt;&lt;/i&gt; : bits por segundo de audio.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=10&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;CÓDECS. COMPRESIÓN CON PÉRDIDA. &lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+Los utilizamos para comprimir y descomprimir los ficheros de audio. Dos tipos:&lt;br&gt;
+● &lt;b&gt;&lt;i&gt;Compresión con pérdida:&lt;/b&gt;&lt;/i&gt; se aprovechan de las limitaciones de frecuencias &lt;br&gt;
+auditivas del sistema auditivo humano.&lt;br&gt;
+❏ &lt;i&gt;AAC (Advanced Audio Coding)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;DTS (Digital Theater Systems)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;HE-AAC(High Efficiency Advance  &lt;/i&gt;❏ &lt;i&gt;MP1, MP2, MP3  (Audio layer-3),&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;Audio Coding)&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;MP3 PRO&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;AC3 (Dolby Digital A/52)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;Ogg Vorbis (codec libre)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;ADPM&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;RTA (Real Time Audio Codec)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;ADX&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;WMA (Windows  Media Audio)&lt;/i&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=11&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;CÓDECS. COMPRESIÓN SIN PÉRDIDA. &lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+Los utilizamos para comprimir y descomprimir los ficheros de audio. Dos tipos:&lt;br&gt;
+● &lt;b&gt;&lt;i&gt;Compresión sin pérdida:&lt;/b&gt;&lt;/i&gt; &lt;i&gt;algoritmos basados en la eliminación de la &lt;/i&gt;&lt;br&gt;
+&lt;i&gt;redundancia del señal de audio, y por lo tanto en el grado de predicción de &lt;br&gt;la información.&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;ALAC (Apple Lossless)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;MPEG-4 ALS&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;DST&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;SHORTEN (SHN)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;FLAC&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;TTA (True Audio)&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;LPAC&lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;WMA Lossless (Windows Media &lt;/i&gt;&lt;br&gt;
+❏ &lt;i&gt;MONKEY´S AUDIO&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;Audio Lossless)&lt;/i&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=12&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;PRINCIPALES FORMATOS. SIN COMPRESIÓN.&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+Es un “contenedor” de datos (cabecera, audio, etc.). Se suele identificar por su &lt;br&gt;
+extensión.&lt;br&gt;
+&lt;b&gt;WAVE&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;AIFF&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;AU&lt;/b&gt;&lt;br&gt;
+Microsoft e IBM&lt;br&gt;
+Apple&lt;br&gt;
+Sun Microsystems&lt;br&gt;
+Almacenaje PCM&lt;br&gt;
+Almacenaje PCM&lt;br&gt;
+Almacenaje PCM&lt;br&gt;
+Admite compresión&lt;br&gt;
+Admite compresión (μ-&lt;br&gt;
+Admite compresión (μ-&lt;br&gt;
+law, A-law) en su versión &lt;br&gt;
+law, A-law, ADPCM)&lt;br&gt;
+PCM Máx Calidad&lt;br&gt;
+AIFFC&lt;br&gt;
+.au &lt;br&gt;
+.wav&lt;br&gt;
+.aiff&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=13&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;PRINCIPALES FORMATOS. CON COMPRESIÓN.&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+&lt;b&gt;MPEG-1 Audio Layer&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;AAC&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;VORBIS&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;AC3&lt;/b&gt;&lt;br&gt;
+Instituto Fraunhofer&lt;br&gt;
+Varias compañías&lt;br&gt;
+Xiph.Org &lt;br&gt;
+DOLBY&lt;br&gt;
+Foundation&lt;br&gt;
+Gran grado de &lt;br&gt;
+Mejor calidad que el resto &lt;br&gt;
+Asociado a películas &lt;br&gt;
+compresión y alta &lt;br&gt;
+por debajo de 128 kbps&lt;br&gt;
+Libre distribución, &lt;br&gt;
+y videojuegos&lt;br&gt;
+calidad&lt;br&gt;
+similar a mp3&lt;br&gt;
+Youtube, playstation, &lt;br&gt;
+Frecuencia de &lt;br&gt;
+Gran compatibilidad&lt;br&gt;
+iphone, vídeo MPEG-4&lt;br&gt;
+Varias versiones: &lt;br&gt;
+muestreo hasta 48 &lt;br&gt;
+aoTuV, Garf, &lt;br&gt;
+khz&lt;br&gt;
+Mínima pérdida de &lt;br&gt;
+Diversos perfiles: LC, HE, &lt;br&gt;
+MegaMix…&lt;br&gt;
+calidad&lt;br&gt;
+SRS, LTP LD, SLS&lt;br&gt;
+Diferentes alias: &lt;br&gt;
+.ogg&lt;br&gt;
+dolby surround, DD &lt;br&gt;
+.mp3&lt;br&gt;
+.aac&lt;br&gt;
+5.1, Dolby Digital,...&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=14&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-14_1.jpg&quot;&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;CALIDAD VS COMPRESIÓN&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=15&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-15_1.jpg&quot;&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;En Resumen&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=16&gt;&lt;/a&gt;&lt;b&gt;Formatos más usados - MP3&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;MPEG-1 Audio Layer&lt;/b&gt;, conocido comúnmente como MP3, fué creado por el &lt;b&gt;Instituto Fraunhofer&lt;/b&gt; y por su &lt;br&gt;extraordinario grado de compresión y alta calidad estáprácticamente monopolizando el mundo del audio digital. &lt;br&gt;Fecha de creación fue 1993:&lt;br&gt;
+Es ideal para publicar audios en la web. Se puede escuchar desde la mayoría de reproductores.&lt;br&gt;
+La transformación de WAV a MP3 o la publicación directa de una grabación en formato MP3 es un proceso fácil y al &lt;br&gt;alcance de los principales editores de audio.&lt;br&gt;
+Tiene un enorme nivel de compresión respecto al WAV. En igualdad del restode condiciones reduciría el tamaño &lt;br&gt;del archivo de un fragmento musical con un factor entre 1/10 y 1/12.&lt;br&gt;
+Presentan una mínima pérdida de calidad. Aunque es el más usado es el peor formato aplicar compresión.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=17&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-17_1.jpg&quot;&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;Formatos más usados - WAV&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+Formato estándar desarrollado por Microsoft e IBM para el PC  en 1991.&lt;br&gt;
+Se usa principalmente para almacenar sonido sin comprimir en formato PCM (pulse-codemodulation)y admite &lt;br&gt;diferentes frecuencias de muestreo y resoluciones .&lt;br&gt;
+También admite compresión, pero su uso es menos frecuente. Usando PCM, ofrece máxima calidad pero a costa de &lt;br&gt;un tamaño muy grande (máx. 4Gb).&lt;br&gt;
+Extensión: wav &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=18&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Formatos más usados - Vorbis OGG&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+Códec de libre distribución similar a MP3 desarrollado por Xiph.Org Foundation .&lt;br&gt;
+Se comenzó a desarrollar en 1993.&lt;br&gt;
+Compite con WMA en calidad con MP3, AAC y existen varias versiones: aoTuV, &lt;br&gt;Garf,MegaMix...&lt;br&gt;
+Popular en software de libre distribución (pero poco en productos comerciales).&lt;br&gt;
+Alta calidad y ocupa poco tamaño, mejor que MP3.&lt;br&gt;
+Extensión: .ogg&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=19&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-19_1.jpg&quot;&gt;&lt;br&gt;
+Formatos más usados - AAC&lt;br&gt;
+Advanced Audio Coding (AAC) es el sucesor del MP3, ofreciendo a día de hoy mejor calidad desonido que el resto &lt;br&gt;de códecs (especialmente por debajo de 128Kbps) .&lt;br&gt;
+Desarrollado con la colaboración de varias compañías: Sony, Dolby, AT&amp;amp;T, Nokia…&lt;br&gt;
+Es el códec estándar de:&lt;br&gt;
+- Vídeo MPEG-4&lt;br&gt;
+- iPod e iPhone de Apple&lt;br&gt;
+- PlayStation&lt;br&gt;
+- YouTube&lt;br&gt;
+Extensión: .aac y &lt;b&gt;m4a&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=20&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-20_1.jpg&quot;&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;CALIDAD VS COMPRESIÓN&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+Respecto a la calidad, y a un determinado &lt;b&gt;bitrate&lt;/b&gt; (tasa de bits por segundo), tenemos &lt;br&gt;esta tabla donde la máxima calidad es 5.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=21&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/TEMA 2 GRD- AUDIOS (C%25C3%2593DECS Y FORMATOS) (1)-21_1.jpg&quot;&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;En Resumen - Calidades&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=22&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Formatos Audio Biblioteca Digital. Conclusiones.&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+●&lt;br&gt;
+Los &lt;b&gt;más usados para bibliotecas digitales&lt;/b&gt; son &lt;b&gt;AAC y MP3&lt;/b&gt;, ambos por su &lt;b&gt;facilidad de uso en webs &lt;/b&gt;y &lt;br&gt;estandarización internacional, con una calidad más que aceptable y alto ratio de compresión.&lt;br&gt;
+●&lt;br&gt;
+Sin embargo, según algunas webs de los formatos a usar en bibliotecas digitales como &lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.digitalpreservation.gov%2fformats%2ffdd%2fsound%5ffdd.shtml&quot;&gt;http://www.&lt;br&gt;digitalpreservation.gov/formats/fdd/sound_fdd.shtml, nos damos cuenta de que &lt;b&gt;&lt;/a&gt;podemos usar &lt;br&gt;prácticamente cualquier formato&lt;/b&gt; para las bibliotecas digitales.&lt;br&gt;
+●&lt;br&gt;
+Lista de formatos: &lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.digitalpreservation.gov%2fformats%2ffdd%2fsound%5ffdd.shtml&quot;&gt;http://www.digitalpreservation.gov/formats/fdd/sound_fdd.shtml&lt;/a&gt;&lt;br&gt;
+●&lt;br&gt;
+Conclusión, para partituras y demás obras que sean altamente ricas en matices de sonido, podemos &lt;br&gt;usar MP3 con un bitrate más alto, donde comprimos el sonido pero no perdemos apenas calidad que &lt;br&gt;un ser humano pueda apreciar, en torno a 320 kbps. También podemos optar por OGG Vorbis, ya que &lt;br&gt;la calidad del audio siempre supera al MP3 en bitrates bajos, siempre y cuando sean archivos poco &lt;br&gt;pesados.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=23&gt;&lt;/a&gt;&lt;i&gt;&lt;b&gt;Referencias...&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fFormato%5fde%5farchivo%5fde%5faudio&quot;&gt;1. https://es.wikipedia.org/wiki/Formato_de_archivo_de_audio&lt;br&gt;&lt;/a&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fC%25C3%25B3dec%5fde%5faudio&quot;&gt;2.https://es.wikipedia.org/wiki/C%C3%B3dec_de_audio&lt;br&gt;&lt;/a&gt;3.Tema 2 – Sistemas Multimedia – &lt;b&gt;Jesús Chamorro Martínez&lt;/b&gt;&lt;br&gt;
+(&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fdecsai.ugr.es%2findex.php%3fp%3dasignaturas%26action%3dinfo%26id%3d296113V&quot;&gt;http://decsai.ugr.es/index.php?p=asignaturas&amp;amp;action=info&amp;amp;id=296113V)&lt;/a&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.digitalpreservation.gov%2fformats%2ffdd%2fsound%5ffdd.shtml&quot;&gt;4.http://www.digitalpreservation.gov/formats/fdd/sound_fdd.shtml&lt;/a&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.xatakahome.com%2freproductores%2fconoce-mejor-los-formatos-de-audio-digital-con-y-sin-perdida-de-calidad-con-esta-infografia&quot;&gt;5.http://www.xatakahome.com/reproductores/conoce-mejor-los-formatos-de-audio-digital-con-y-sin-&lt;br&gt;perdida-de-calidad-con-esta-infografia&lt;/a&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fHistoria%5fdel%5fregistro%5fdel%5fsonido#El_primer_invento_grabador_de_sonido&quot;&gt;6.https://es.wikipedia.&lt;br&gt;org/wiki/Historia_del_registro_del_sonido#El_primer_invento_grabador_de_sonido&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

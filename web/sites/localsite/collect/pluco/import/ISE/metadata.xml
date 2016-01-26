@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>ISE - Examen febrero 2013\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="PLUCO.title">ISE - Examen Febrero 213</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Héctor Pomares Cintas</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.theme">ISE|Examen</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.curse">3</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.description">Examen sobre la asignatura ISE, de Febrero del 2013</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.date">4-2-13</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.signature">ISE|EX</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Examen</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">ISE</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Febrero</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

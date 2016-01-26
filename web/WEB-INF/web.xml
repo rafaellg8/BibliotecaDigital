@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE web-xml [
+	<!ENTITY servlets-config SYSTEM "servlets.xml">
+]>
+<!-- this is based on a sample web.xml file provided by 
+http://jakarta.apache.org/tomcat/tomcat-4.0-doc/appdev/web.xml.txt
+-->
+<web-app>
+	<display-name>GSDL3</display-name>
+	<description>
+		Greenstone digital library version 3.
+	</description>
+  
+	<filter>
+		<filter-name>Greenstone URL Filter</filter-name>
+		<filter-class>org.greenstone.gsdl3.core.URLFilter</filter-class>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>Greenstone URL Filter</filter-name>
+		<url-pattern>*</url-pattern>
+	</filter-mapping>
+  
+	<!-- Context initialization parameters that define shared
+	String constants used within your application, which
+	can be customized by the system administrator who is
+	installing your application.  The values actually
+	assigned to these parameters can be retrieved in a
+	servlet or JSP page by calling:
+
+	String value =
+	getServletContext().getInitParameter("name");
+
+	where "name" matches the <param-name> element of
+	one of these initialization parameters.
+
+	You can define any number of context initialization
+	parameters, including zero.
+	-->
+  
+	<context-param>
+		<param-name>webmaster</param-name>
+		<param-value>greenstone3@list.scms.waikato.ac.nz</param-value>
+		<description>
+			The EMAIL address of the administrator to whom questions
+			and comments about this application should be addressed.
+		</description>
+	</context-param>
+  
+
+	<!-- Servlet definitions for the servlets that make up
+	your web application, including initialization
+	parameters.  With Tomcat, you can also send requests
+	to servlets not listed here with a request like this:
+
+	http://localhost:8080/{context-path}/servlet/{classname}
+
+	but this usage is not guaranteed to be portable.  It also
+	makes relative references to images and other resources
+	required by your servlet more complicated, so defining
+	all of your servlets (and defining a mapping to them with
+	a servlet-mapping element) is recommended.
+
+	Servlet initialization parameters can be retrieved in a
+	servlet or JSP page by calling:
+
+	String value =
+	getServletConfig().getInitParameter("name");
+
+	where "name" matches the <param-name> element of
+	one of these initialization parameters.
+
+	You can define any number of servlets, including zero.
+	-->
+
+	<servlet>
+		<servlet-name>tester</servlet-name>
+		<description>a test servlet</description>
+		<servlet-class>TestServlet</servlet-class>
+	</servlet>
+  
+	<!-- For client side text fetching -->
+	<servlet>
+		<servlet-name>grabtext</servlet-name>
+		<description>Grabs text for client-side display with minimal overhead.</description>
+		<servlet-class>org.greenstone.gsdl3.ClientSideServlet</servlet-class>
+	</servlet>
+  
+	<!-- See servlets.xml -->
+	&servlets-config;
+
+	<!-- axis servlets -->
+	<servlet>
+		<servlet-name>AxisServlet</servlet-name>
+		<display-name>Apache-Axis Servlet</display-name>
+		<servlet-class>
+			org.apache.axis.transport.http.AxisServlet
+		</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>AdminServlet</servlet-name>
+		<display-name>Axis Admin Servlet</display-name>
+		<servlet-class>
+			org.apache.axis.transport.http.AdminServlet
+		</servlet-class>
+		<load-on-startup>100</load-on-startup>
+	</servlet>
+
+	<servlet>
+		<servlet-name>SOAPMonitorService</servlet-name>
+		<display-name>SOAPMonitorService</display-name>
+		<servlet-class>
+			org.apache.axis.monitor.SOAPMonitorService
+		</servlet-class>
+		<init-param>
+			<param-name>SOAPMonitorPort</param-name>
+			<param-value>5001</param-value>
+		</init-param>
+		<load-on-startup>100</load-on-startup>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>oaiserver</servlet-name>
+		<description>an oai servlet</description>
+		<servlet-class>org.greenstone.gsdl3.OAIServer</servlet-class>
+		<init-param>
+			<param-name>default_lang</param-name>
+			<param-value>en</param-value>
+		</init-param>
+		<init-param>
+			<param-name>site_name</param-name>
+			<!-- More than one site name can be specified using the comma separation style: localsite1,localsite2 -->
+			<param-value>localsite</param-value>
+		</init-param>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>mat</servlet-name>
+		<description>Metadata Analysis Tool</description>
+		<servlet-class>org.greenstone.mat.servlet.MatServlet</servlet-class>
+	</servlet>
+
+
+
+
+ 
+    <!-- Define mappings that are used by the servlet container to
+         translate a particular request URI (context-relative) to a
+         particular servlet.  The examples below correspond to the
+         servlet descriptions above.  Thus, a request URI like:
+
+           http://localhost:8080/{contextpath}/graph
+
+         will be mapped to the "graph" servlet, while a request like:
+
+           http://localhost:8080/{contextpath}/saveCustomer.do
+
+         will be mapped to the "controller" servlet.
+
+         You may define any number of servlet mappings, including zero.
+         It is also legal to define more than one mapping for the same
+         servlet, if you wish to.
+    -->
+    <!--
+    
+    <servlet-mapping>
+      <servlet-name>controller</servlet-name>
+      <url-pattern>*.do</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+      <servlet-name>graph</servlet-name>
+      <url-pattern>/graph</url-pattern>
+    </servlet-mapping>
+    -->
+    
+
+<!--There is no need for this mapping, I think -->
+	<servlet-mapping>
+		<servlet-name>oaiserver</servlet-name>
+		<url-pattern>/oaiserver</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>tester</servlet-name>
+		<url-pattern>/testing</url-pattern>
+	</servlet-mapping>
+  
+	<servlet-mapping>
+		<servlet-name>grabtext</servlet-name>
+		<url-pattern>/grabtext</url-pattern>
+	</servlet-mapping>
+  
+	<!-- axis mappings -->
+	<servlet-mapping>
+		<servlet-name>AxisServlet</servlet-name>
+		<url-pattern>/servlet/AxisServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>AxisServlet</servlet-name>
+		<url-pattern>*.jws</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>AxisServlet</servlet-name>
+		<url-pattern>/services/*</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>mat</servlet-name>
+		<url-pattern>/mat</url-pattern>
+	</servlet-mapping>
+
+
+  <!-- uncomment this if you want to use the SOAPMonitorService. You will also 
+  need to copy the SOAPMonitorApplet*.class files from 
+  gsdl3/comms/soap/axis/web/WEB-INF/classes to the gsdl3/web directory. See the 
+  comms/soap/axis/docs/install.html Appendix for details about how to use this -->
+  <!--
+  <servlet-mapping>
+    <servlet-name>SOAPMonitorService</servlet-name>
+    <url-pattern>/SOAPMonitor</url-pattern>
+  </servlet-mapping>
+  -->
+  <!-- uncomment this if you want the admin servlet -->
+  <!--
+  <servlet-mapping>
+    <servlet-name>AdminServlet</servlet-name>
+    <url-pattern>/servlet/AdminServlet</url-pattern>
+  </servlet-mapping>
+  -->
+
+  <!-- Define the default session timeout for your application,
+  in minutes.  From a servlet or JSP page, you can modify
+  the timeout for a particular session dynamically by using
+  HttpSession.getMaxInactiveInterval(). -->
+
+  <session-config>
+    <session-timeout>240</session-timeout>    <!-- 4 hours -->
+  </session-config>
+
+  <!-- axis mime-mappings -->
+  <mime-mapping>
+    <extension>wsdl</extension>
+    <mime-type>text/xml</mime-type>
+  </mime-mapping>
+  
+  <mime-mapping>
+    <extension>xsd</extension>
+    <mime-type>text/xml</mime-type>
+  </mime-mapping>
+
+<!-- Deny access to contents of URL pattern /logs/*, although greenstone.log is the important one. It appears the url pattern has to be relative to the web directory. 
+http://stackoverflow.com/questions/5333266/tomcat-deny-access-to-specific-files
+and http://www.coderanch.com/t/84442/Tomcat/write-correct-url-pattern-security -->
+  <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>log files</web-resource-name>
+        <description>No direct access to greenstone's logs.</description>
+        <url-pattern>/logs/*</url-pattern>
+        <http-method>POST</http-method>
+        <http-method>GET</http-method>
+    </web-resource-collection>
+    <auth-constraint>
+        <description>No direct browser access to log files.</description>
+        <role-name>NobodyHasThisRole</role-name>
+    </auth-constraint>
+  </security-constraint>
+
+</web-app>

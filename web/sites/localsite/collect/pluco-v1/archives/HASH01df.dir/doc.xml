@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">Alvaro</Metadata>
+    <Metadata name="Title">Practica 2. La herramienta Cryptool . Uso de herramientas con ...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188201/Practica 02_CrypTool.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188201/Practica 02_CrypTool.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P2\Practica 02_CrypTool.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1450188201\Practica 02_CrypTool.html</Metadata>
+    <Metadata name="OrigSource">Practica 02_CrypTool.html</Metadata>
+    <Metadata name="Source">Practica 02_CrypTool.pdf</Metadata>
+    <Metadata name="SourceFile">Practica 02_CrypTool.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">394679</Metadata>
+    <Metadata name="FilenameRoot">Practica 02_CrypTool</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">2</Metadata>
+    <Metadata name="Identifier">HASH01dfd07642a2daeb89a43c94</Metadata>
+    <Metadata name="lastmodified">1450179182</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1450188203</Metadata>
+    <Metadata name="oailastmodifieddate">20151215</Metadata>
+    <Metadata name="assocfilepath">HASH01df.dir</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;b&gt;Practica  2.  La herramienta &lt;i&gt;Cryptool&lt;/i&gt;.    Uso de  herramientas  con &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;cifrados clásicos. &lt;/b&gt;&lt;br&gt;
+1.  Instalar la herramienta &lt;b&gt;Cryptool 1.4.3&lt;/b&gt;. para máquinas con Windows de 32 bits. &lt;br&gt;
+Instalar la versión &lt;b&gt;Cryptool 2&lt;/b&gt; para máquinas de 64 bits. &lt;br&gt; &lt;br&gt;
+2.  Generar  un  texto  suficientemente  grande  (con  al  menos  1000  caracteres)  de &lt;br&gt;
+prueba. Escoger el texto preferentemente de entre obras literarias de elección &lt;br&gt;personal, de manera que la probabilidad de coincidencia con el texto escogido &lt;br&gt;por algún otro compañero sea casi nula. &lt;br&gt;
+ &lt;br&gt;
+3.  Familiarizarse  con  los  menús  de  &lt;b&gt;&lt;i&gt;Cifrar/Descifrar  &lt;/b&gt;&lt;/i&gt;&lt;b&gt;  &lt;i&gt;Simétrico(clásico)&lt;/b&gt;&lt;/i&gt;  y &lt;br&gt;
+&lt;i&gt;&lt;b&gt;Simétrico(moderno)&lt;/b&gt;&lt;/i&gt;  y los de &lt;b&gt;&lt;i&gt;Procedimientos Individuales &lt;/b&gt;&lt;/i&gt;&lt;b&gt; &lt;i&gt;Visualización de &lt;br&gt;Algoritmos&lt;/b&gt;&lt;/i&gt;,  &lt;b&gt;&lt;i&gt;Análisis  &lt;/b&gt;&lt;/i&gt;&lt;b&gt;  &lt;i&gt;Herramientas  para  el  Análisis&lt;/b&gt;,  &lt;b&gt;Análisis&lt;/i&gt;  &lt;/b&gt;&lt;b&gt;  &lt;i&gt;Cifrado &lt;br&gt;Simétrico(clásico)&lt;/b&gt;  y  &lt;b&gt;Ayuda &lt;/b&gt;&lt;/i&gt;&lt;b&gt; &lt;i&gt;Escenarios&lt;/b&gt;&lt;/i&gt;.  &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;Tareas a realizar: &lt;/b&gt;&lt;br&gt;
+4.  Escoger  3  métodos  distintos  de  cifrado  simétrico  clásico  y  comprender  como &lt;br&gt;
+cifran. Explicarlo y añadir ejemplos con textos llanos en castellano. &lt;br&gt;
+5.  Realizar un análisis del cifrado con &lt;b&gt;&lt;i&gt;Entropía, Histogramas,  Frecuencias&lt;/b&gt; &lt;/i&gt;y&lt;i&gt; &lt;b&gt;N-&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;&lt;b&gt;gramas&lt;/b&gt;.&lt;/i&gt; Calcular la &lt;b&gt;&lt;i&gt;Autocorrelación&lt;/b&gt;&lt;/i&gt; y la &lt;b&gt;&lt;i&gt;Periodicidad&lt;/i&gt;.&lt;/b&gt; &lt;br&gt;
+6.  Describir la llave que usa cada sistema, la Distancia de Unicidad (número total &lt;br&gt;
+de llaves posibles) y las ventajas e inconvenientes del mismo. &lt;br&gt;
+7.  Realizar un análisis a los textos de los ejemplos dados en Teoría sobre cifrados &lt;br&gt;
+monoalfabéticos  (&lt;b&gt;Cifrado  Mono_ejemplo_1&lt;/b&gt;)    y  polialfabéticos  (&lt;b&gt;Cifrado &lt;br&gt;Poli_ejemplo_2&lt;/b&gt;),  hasta    conseguir  descifrarlos.  Para  ello  utilizar  las &lt;br&gt;herramientas  de    &lt;b&gt;&lt;i&gt;Análisis  &lt;/b&gt;&lt;/i&gt;&lt;b&gt;&lt;i&gt;  Cifrado  Simétrico(Clásico)  &lt;/b&gt;&lt;/i&gt;&lt;b&gt;&lt;i&gt;  Sólo  Texto  Cifrado &lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;b&gt;&lt;i&gt; Sustitución / Vigenere (según Schroedel)&lt;/i&gt; &lt;/b&gt;&lt;br&gt;
+8.  Tomar  el  texto  llano  generado  en  2.  y  cifrarlo  con  4  algoritmos  clásicos:  Uno &lt;br&gt;
+monoalfabético,  otro  polialfabético,  otro  Enigma  y  el  último  a  elegir  de  entre &lt;br&gt;los  no  dados  en  clase  y  distinto  de  los  anteriores.  Para  estos  textos  cifrados &lt;br&gt;hacer una comparación de las medidas del mismo para determinar una medida &lt;br&gt;comparativa  de  la  fortaleza  de  los  cifrados:  &lt;i&gt;Entropía,  Distribución  de &lt;br&gt;Frecuencias,  Número  de  3-gramas,  4-gramas,  Frecuencias  por  64  bytes, &lt;br&gt;Autocorrelación, Medida de Vitanyi, Distancia de Unicidad,&lt;/i&gt; &lt;i&gt;Número de Llaves&lt;/i&gt;,&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;Dar  una  interpretación  de  todos  los  resultados  obtenidos  y  elaborar  una  lista &lt;br&gt;ordenada  de  la  fortaleza  de  los  mismos  en  función  de  los  anteriores &lt;br&gt;parámetros. &lt;br&gt;
+9.  Realizar  un  análisis  al  &lt;i&gt;“Texto  cifrado  que  venció  a  Poe”&lt;/i&gt;  (&lt;b&gt;Cifrado &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Poe_ejemplo_3&lt;/b&gt;), usando esta herramienta.  &lt;br&gt;
+a)  Hacer un Análisis de Trigramas repetidos con CrypTool y determinar &lt;br&gt;
+cuáles son. &lt;br&gt;
+b)  Calcular  el  periodo  mediante  el  &lt;b&gt;método  de  Kasiski&lt;/b&gt;  aplicado  al &lt;br&gt;
+apartado anterior.  &lt;br&gt;
+c)  Modificar el  periodo obtenido por  la  &lt;b&gt;autocorrelación&lt;/b&gt; con los  datos &lt;br&gt;
+de b). &lt;br&gt;
+d)  Obtener  resultados  parciales  para  intentar  arreglar  el  problema &lt;br&gt;
+grave anunciado en el texto cifrado. &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;Práctica para entrega 2:&lt;/b&gt; &lt;br&gt;
+10. Descifrar el texto dado en el &lt;b&gt;Cifrado ejemplo_4 &lt;/b&gt;Para ello  &lt;br&gt;
+a)  Determinar  el  tipo  de  cifrado  aplicado.  Determinar  información &lt;br&gt;
+sobre  entropía,  N-gramas,&lt;br&gt;
+utocorrelación, periodicidad,&lt;br&gt;
+y&lt;br&gt;
+confirmar con toda esta información el tipo de cifrado. &lt;br&gt;
+b)  Descifrarlo con la herramienta de análisis adecuada de CrypTool.&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+11. Resolver  el  triple  reto  de  &lt;b&gt;Mystery  Twister  C3&lt;/b&gt;    contenido  en  el  fichero    &lt;b&gt;mtc3-&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;wacker-01-classicalciphers3-en&lt;/b&gt; usando  la herramienta CrypTool y dando  las 3 &lt;br&gt;palabras código pedidas.&lt;b&gt;  &lt;/b&gt;&lt;br&gt;
+12. Resolver el reto de  &lt;b&gt;Mystery Twister C3&lt;/b&gt;  contenido en el fichero  &lt;b&gt;mtc3-simon-&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;02-adfgvx-en&lt;/b&gt;  cifrado  con  el  algoritmo  ADFGVX,  usando  también  esta &lt;br&gt;herramienta. &lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CollectionConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	<metadataList>
+		<metadata lang="en" name="creator">rafaellg8@correo.ugr.es</metadata>
+		<metadata lang="en" name="maintainer">migueib17@correo.ugr.es</metadata>
+		<metadata lang="en" name="public">true</metadata>
+	</metadataList>
+	<displayItemList>
+		<displayItem assigned="true" lang="es" name="description">&lt;h1&gt;&lt;a id="user-content-plataforma-universitaria-de-comparticiÓn-de-conocimientos-pluco" class="anchor" href="#plataforma-universitaria-de-comparticiÓn-de-conocimientos-pluco" aria-hidden="true"&gt;&lt;span class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;PLATAFORMA UNIVERSITARIA DE COMPARTICIÓN DE CONOCIMIENTOS: PLUCO&lt;/h1&gt;
+
+&lt;h3&gt;&lt;a id="user-content-introducción" class="anchor" href="#introducción" aria-hidden="true"&gt;&lt;span class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Introducción&lt;/h3&gt;
+
+&lt;p&gt;Plataforma académica de compartición de archivos de la Universidad de Granada, y que permita la colaboración en grupo entre los usuarios del sistema. Añade servicios de mensajería y foros,potenciando la interacción de los usuarios, y agrupando a los mismos por varios grupos de o bien asignaturas o cursos.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id="user-content-seguridad" class="anchor" href="#seguridad" aria-hidden="true"&gt;&lt;span class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Seguridad&lt;/h3&gt;
+
+&lt;p&gt;En cuanto a la seguridad de nuestra plataforma los objetivos son: Permitir tener un sistema seguro en el que se separen datos sensibles y credenciales de los usuarios, y por otra parte archivos de los mismos. Por otra parte tendremos una web con foros que si es atacada no compremete la privacidad de los usuarios ni sus archivos.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id="user-content-infraestuctura" class="anchor" href="#infraestuctura" aria-hidden="true"&gt;&lt;span class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Infraestuctura&lt;/h3&gt;
+
+&lt;h4&gt;&lt;a id="user-content-red-social-pluco" class="anchor" href="#red-social-pluco" aria-hidden="true"&gt;&lt;span class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Red Social PLUCO&lt;/h4&gt;
+
+
+&lt;div&gt;
+	&lt;h1&gt;Autores&lt;/h1&gt;
+		&lt;p&gt;Rafael Lachica Garrido&lt;/p&gt;
+		&lt;p&gt;Miguel Ferández Fernández&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2&gt;&lt;a href="https://github.com/rafaellg8/IV-PLUCO-RLG"&gt;Acerca de&lt;/a&gt;&lt;/h2&gt;</displayItem>
+		<displayItem assigned="true" lang="en" name="description">University Platform for Knowledgment
+
+Digital Library, gather the material associated for a Grade of Computer Science
+
+Authors:
+- Rafael Lachica Garido
+- Miguel Fernández Ferández</displayItem>
+		<displayItem assigned="true" lang="es" name="smallicon">logo.jpg</displayItem>
+		<displayItem assigned="true" lang="es" name="icon">logo.jpg</displayItem>
+		<displayItem assigned="true" lang="es" name="name">PLUCO</displayItem>
+		<displayItem assigned="true" lang="es" name="PLUCO.autor">Búsqueda por autores</displayItem>
+		<displayItem assigned="true" lang="es" name="PLUCO.description,PLUCO.tags">Palabras claves</displayItem>
+		<displayItem assigned="true" lang="es" name="PLUCO.theme">Búsqueda por temas</displayItem>
+		<displayItem assigned="true" lang="es" name="PLUCO.signature">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+		<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+		<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+		<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+		<displayItem assigned="true" lang="en" name="document">document</displayItem>
+		<displayItem assigned="true" lang="en" name="section">section</displayItem>
+		<displayItem assigned="true" lang="es" name="PLUCO.Title">Búsqueda por títulos</displayItem>
+		<displayItem assigned="true" lang="en" name="text">text</displayItem>
+		<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">titles</displayItem>
+		<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+		<displayItem assigned="true" lang="en" name="shortDescription">pluco</displayItem>
+		<displayItem assigned="true" lang="es" name=".PLUCO.description,PLUCO.tags">PLUCO.description,PLUCO.tags</displayItem>
+		<displayItem assigned="true" lang="es" name=".PLUCO.theme">PLUCO.theme</displayItem>
+		<displayItem assigned="true" lang="es" name=".PLUCO.signature">PLUCO.signature</displayItem>
+		<displayItem assigned="true" lang="es" name=".PLUCO.autor">PLUCO.autor</displayItem>
+		<displayItem assigned="true" lang="es" name=".es">SPANISH</displayItem>
+		<displayItem assigned="true" lang="es" name=".en">ENGLISH</displayItem>
+		<displayItem assigned="true" lang="es" name=".text,PLUCO.Title">text,PLUCO.Title</displayItem>
+	</displayItemList>
+	<format>
+			<gsf:template name="choose-title">
+				<gsf:choose-metadata>
+					<gsf:metadata name="dc.Title"/>
+					<gsf:metadata name="exp.Title"/>
+					<gsf:metadata name="ex.dc.Title"/>
+					<gsf:metadata name="Title"/>
+					<gsf:default>Untitled</gsf:default>
+				</gsf:choose-metadata>
+			</gsf:template>
+		</format>
+	<search type="mgpp">
+		<level name="document">
+			<displayItem lang="en" name="name">document</displayItem>
+		</level>
+		<level name="section">
+			<displayItem lang="en" name="name">section</displayItem>
+		</level>
+		<defaultLevel name="document"/>
+		<index name="text,PLUCO.Title"/>
+		<index name="PLUCO.autor">
+			<displayItem lang="es" name="name">Búsqueda por autores</displayItem>
+		</index>
+		<index name="PLUCO.description,PLUCO.tags">
+			<displayItem lang="es" name="name">Palabras claves</displayItem>
+		</index>
+		<index name="PLUCO.theme">
+			<displayItem lang="es" name="name">Búsqueda por temas</displayItem>
+		</index>
+		<index name="PLUCO.signature">
+			<displayItem lang="es" name="name">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+		</index>
+		<defaultIndex name="text,PLUCO.Title"/>
+		<indexOption name="casefold"/>
+		<indexOption name="stem"/>
+		<indexLanguage name="es"/>
+		<indexLanguage name="en"/>
+		<languageMetadata name=""/>
+		<searchType name="plain"/>
+		<searchType name="simpleform"/>
+		<searchType name="advancedform"/>
+		<format>
+			<gsf:template match="documentNode">
+				<td valign="top">
+					<gsf:link type="document">
+						<gsf:icon type="document"/>
+					</gsf:link>
+				</td>
+				<td>
+					<gsf:link type="document">
+						<xsl:call-template name="choose-title"/>
+					</gsf:link>
+				</td>
+			</gsf:template>
+		</format>
+	</search>
+	<infodb type="gdbm"/>
+	<import>
+		<pluginList>
+			<plugin name="ZIPPlugin"/>
+			<plugin name="GreenstoneXMLPlugin"/>
+			<plugin name="TextPlugin"/>
+			<plugin name="HTMLPlugin"/>
+			<plugin name="EmailPlugin"/>
+			<plugin name="PDFPlugin">
+				<option name="-convert_to" value="html"/>
+			</plugin>
+			<plugin name="RTFPlugin"/>
+			<plugin name="WordPlugin"/>
+			<plugin name="PostScriptPlugin"/>
+			<plugin name="PowerPointPlugin"/>
+			<plugin name="ExcelPlugin"/>
+			<plugin name="ImagePlugin"/>
+			<plugin name="ISISPlugin"/>
+			<plugin name="NulPlugin"/>
+			<plugin name="OAIPlugin"/>
+			<plugin name="MetadataXMLPlugin"/>
+			<plugin name="ArchivesInfPlugin"/>
+			<plugin name="DirectoryPlugin"/>
+		</pluginList>
+	</import>
+	<browse>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="PLUCO.title"/>
+			<option name="-sort" value="PLUCO.title"/>
+			<option name="-buttonname" value="Título"/>
+		</classifier>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="PLUCO.theme"/>
+			<option name="-sort" value="PLUCO.title"/>
+			<option name="-buttonname" value="Temas"/>
+		</classifier>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="PLUCO.autor"/>
+			<option name="-sort" value="PLUCO.title"/>
+			<option name="-buttonname" value="Autores"/>
+		</classifier>
+		<format>
+			<gsf:template match="documentNode">
+				<td valign="top">
+					<gsf:link type="document">
+						<gsf:icon type="document"/>
+					</gsf:link>
+				</td>
+				<td valign="top">
+					<gsf:link type="source">
+						<gsf:choose-metadata>
+							<gsf:metadata name="thumbicon"/>
+							<gsf:metadata name="srcicon"/>
+						</gsf:choose-metadata>
+					</gsf:link>
+				</td>
+				<td valign="top">
+					<gsf:link type="document">
+<!--
+Defined in the global format statement
+-->
+						<xsl:call-template name="choose-title"/>
+						<gsf:switch>
+							<gsf:metadata name="Source"/>
+							<gsf:when test="exists">
+								<br/>
+								<i>(<gsf:metadata name="Source"/>)</i>
+							</gsf:when>
+						</gsf:switch>
+					</gsf:link>
+				</td>
+			</gsf:template>
+			<gsf:template match="classifierNode[@classifierStyle = 'VList']">
+				<td valign="top">
+					<gsf:link type="classifier">
+						<gsf:icon type="classifier"/>
+					</gsf:link>
+				</td>
+				<td valign="top">
+					<gsf:metadata name="Title"/>
+				</td>
+			</gsf:template>
+			<gsf:template match="classifierNode[@classifierStyle = 'HList']">
+				<gsf:link type="classifier">
+					<gsf:metadata name="Title"/>
+				</gsf:link>
+			</gsf:template>
+		</format>
+	</browse>
+	<display>
+		<format>
+			<gsf:option name="TOC" value="true"/>
+<!--
+Overwriting this template allows you to change the heading of the document.
+-->
+<!--
+<gsf:template name="documentHeading">
+<span style="font-weight:bold; font-size: 120%;">
+<xsl:call-template name="choose-title"/>
+</span>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to redefine the content of the whole document. This is useful for simple documents, but not recommended for more complex documents (e.g. hierachical and paged documents) as it can prevent any sub-sections from showing.
+-->
+<!--
+<gsf:template name="documentContent">
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to change the content of section headings.
+-->
+<!--
+<gsf:template name="sectionHeading">
+<xsl:call-template name="choose-title"/>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to change the content of the top-level section.
+-->
+<!--
+<gsf:template name="topLevelSectionContent">
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to change the content of sections.
+-->
+<!--
+<gsf:template name="sectionContent">
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
+-->
+		</format>
+	</display>
+	<replaceListRef id="gs2-standard"/>
+	<replaceListRef id="gs2-image"/>
+	<serviceRackList><!-- comment out the following serviceRack if you want to disable RSS for this collection -->
+		<serviceRack name="RSSRetrieve"/><!-- comment out the following serviceRack if you want to disable OAI for this collection -->
+		<serviceRack name="OAIPMH">
+			<setName>pluco</setName>
+			<setDescription/><!-- uncomment the following and set the name attribute if 
+		       you want this collection to be part of a super set. --><!--<oaiSuperSet name="xxx"/>-->
+			<ListMetadataFormats><!--What metadata sets to support for this collection. You can select any set that is specified in OAIConfig.xml. To use a new set, you need to add a set definition in OAIConfig.xml, then reference it here, like:
+				   <metadataFormat metadataPrefix="prefix"/> -->
+				<metadataFormat metadataPrefix="oai_dc"><!-- you can customize the mappings by adding elements in here. See resources/oai/OAIConfig.xml for the format--></metadataFormat>
+			</ListMetadataFormats>
+		</serviceRack>
+	</serviceRackList>
+</CollectionConfig>

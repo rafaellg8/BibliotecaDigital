@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">Alvaro</Metadata>
+    <Metadata name="Title">Práctica 3. Algoritmos Simétricos. 1. Descargarse el conjunto de ...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188207/Practica 03_Algoritmos Simetricos.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188207/Practica 03_Algoritmos Simetricos.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P3\Practica 03_Algoritmos Simetricos.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1450188207\Practica 03_Algoritmos Simetricos.html</Metadata>
+    <Metadata name="OrigSource">Practica 03_Algoritmos Simetricos.html</Metadata>
+    <Metadata name="Source">Practica 03_Algoritmos Simetricos.pdf</Metadata>
+    <Metadata name="SourceFile">Practica 03_Algoritmos Simetricos.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">266413</Metadata>
+    <Metadata name="FilenameRoot">Practica 03_Algoritmos Simetricos</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">2</Metadata>
+    <Metadata name="Identifier">HASH010f53291e6864de1d83277e</Metadata>
+    <Metadata name="lastmodified">1450179211</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1450188209</Metadata>
+    <Metadata name="oailastmodifieddate">20151215</Metadata>
+    <Metadata name="assocfilepath">HASH010f.dir</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;b&gt;Práctica 3.  Algoritmos Simétricos. &lt;/b&gt;&lt;br&gt;
+1.  Descargarse  el  conjunto  de  algoritmos  &lt;b&gt;appliedc&lt;/b&gt;  (en  código  fuente  y  ejecutables) &lt;br&gt;
+comprimidos. Descomprimirlos y obtener la lista de ficheros. &lt;br&gt;
+2.  Descargar  y  leer  el  archivo  &lt;b&gt;00_INFO&lt;/b&gt;  para  comprender  la  descripción,  funciones  y &lt;br&gt;
+ejecución común en línea de comandos del paquete de algoritmos en C suministrado. &lt;br&gt;
+3.  Descargarse un  &lt;b&gt;editor Hexadecimal&lt;/b&gt;  (&lt;b&gt;HexEdit, WinHex, Hexplore,  HxD&lt;/b&gt;,  ) y utilizarlo &lt;br&gt;
+cuando  sea  conveniente  para  examinar  el  contenido  de  los  ficheros  cifrados  a &lt;br&gt;continuación. &lt;br&gt;
+4.  Descargar  y  ejecutar  el  algoritmo  &lt;b&gt;enigmawn&lt;/b&gt;  de  cifrado  simétrico.  Comprender  la &lt;br&gt;
+solución dada en el mismo  (KEYFILE)  para funcionar con llaves  de  sesión distintas en &lt;br&gt;cada  ocasión  a  partir  de  unos  parámetros  de  configuración  de  Llaves  y  una  Llave &lt;br&gt;maestra. &lt;br&gt;
+5.  Descargar  y  ejecutar  el  algoritmo  &lt;b&gt;TrueCrypt&lt;/b&gt;    (en  su  proceso  de  diseño  e &lt;br&gt;
+implementación participó &lt;i&gt;Julian Assange&lt;/i&gt;).   &lt;br&gt;
+6.  Para  implementación  de  algoritmos  simétricos,  puedes  acudir  a  código  fuente  de &lt;br&gt;
+algunos de ellos en Python en :    &lt;br&gt;
+ &lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcode.google.com%2fp%2fska&quot;&gt;https://code.google.com/p/ska/ &lt;br&gt;&lt;/a&gt;en C en:   &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.superstarcoders.com%2fblogs%2fposts%2fsymmetric-encryption-in-c-sharp.aspx&quot;&gt;http://www.superstarcoders.com/blogs/posts/symmetric-encryption-in-c-sharp.aspx &lt;br&gt;&lt;/a&gt;y en Java en: &lt;br&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.flexiprovider.de%2fexamples%2fExampleCrypt.html&quot;&gt;https://www.flexiprovider.de/examples/ExampleCrypt.html &lt;br&gt;&lt;/a&gt; &lt;br&gt;
+&lt;b&gt;Tareas a realizar: &lt;/b&gt; &lt;br&gt;
+7.  Clasificar  los  algoritmos  de  1  en  “algoritmos  clásicos”,  “algoritmos  de  cifrado  en &lt;br&gt;
+bloque” y “algoritmos en flujo” para poder proceder con el resto de la práctica   &lt;br&gt; &lt;br&gt;
+8.  Hacer varios ejemplos de ejecución de los algoritmos, al menos con dos algoritmos de &lt;br&gt;
+cada uno de los grupos anteriores. Describir en qué consiste la llave. &lt;br&gt; &lt;br&gt;Nota: Se puede hacer desde una extensión de Chrome:  &lt;b&gt;DosBox&lt;/b&gt; &lt;br&gt; &lt;br&gt;
+9.  ¿En qué consiste la opción de borrado seguro de los algoritmos? Hacer algún ejemplo &lt;br&gt;
+con las diversas opciones de borrado seguro. &lt;br&gt; &lt;br&gt;
+10. ¿Hay  algoritmos  con  un  tamaño  de  bloque  distinto  de  64  bits?.  En  caso  afirmativo &lt;br&gt;
+decir cuáles y dar el tamaño del bloque. &lt;br&gt; &lt;br&gt;
+11. ¿Qué ocurre si con el algoritmo XOR ciframos una cadena de  caracteres y utilizamos &lt;br&gt;
+como llave  la misma  cadena? ¿Cuál es  la salida? ¿Qué ocurre ahora si  con el mismo &lt;br&gt;algoritmo XOR ciframos una cadena de caracteres con llave caracteres ESPACIO de la &lt;br&gt;misma longitud que la entrada como texto llano? ¿Cuál es la explicación? &lt;br&gt; &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;12. Dar  otros  ejemplos  de  cifrado  y  descifrado,  si  encuentras  que  sean  interesantes,  de &lt;br&gt;
+otros algoritmos en particular con otras llaves en particular. &lt;br&gt; &lt;br&gt;
+13. Los algoritmos ejecutables con  &lt;b&gt;nombre.exe&lt;/b&gt;  están implementados en modo ECB. Los &lt;br&gt;
+algoritmos  ejecutables  con  &lt;b&gt;nombre_C.exe&lt;/b&gt;    están  implementados  en  modo  CBC. &lt;br&gt;¿Cómo podemos distinguirlos atendiendo a la salida que  ofrecen? Poner un ejemplo &lt;br&gt;en uno  y otro caso con un algoritmo seleccionado de entre ellos.  &lt;br&gt;&lt;b&gt;Indicación:&lt;/b&gt;  buscar texto llano con repetición por bloques. &lt;br&gt;
+ &lt;br&gt;
+14. Los algoritmos están implementados normalmente en modo de “&lt;b&gt;anotaciones al final&lt;/b&gt;” &lt;br&gt;
+o “&lt;b&gt;padding&lt;/b&gt;”  ¿Cómo podemos comprobarlo?. Poner un ejemplo de ello &lt;br&gt; &lt;br&gt;
+15. ¿Cómo afecta el padding a un algoritmo en modo ECB con repetición por bloques  de &lt;br&gt;
+texto llano de 8, 16 o 32 bits? ¿Y cómo afecta en el caso anterior con bloques de 64 &lt;br&gt;bits?  &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt;Práctica para entrega 3:&lt;/b&gt; &lt;br&gt;
+16. Realizar el análisis de aleatoriedad  provisto en &lt;b&gt;CrypTool&lt;/b&gt; para el Keyfile de &lt;b&gt;enigmawn&lt;/b&gt; &lt;br&gt;
+y  el  fichero  de  llaves  de  &lt;b&gt;TrueCrypt,&lt;/b&gt;  obteniendo  ficheros  de  longitud  adecuada  por &lt;br&gt;concatenación, si es necesario&lt;b&gt;.&lt;/b&gt; Realizar&lt;b&gt; &lt;/b&gt;los test de Frecuencias, Poker, Rachas y Series, &lt;br&gt;así como el integrado FIPS-PUB-140-1. Hacer una tabla con los resultados y obtener las &lt;br&gt;conclusiones pertinentes sobre la aleatoriedad en uno y otro algoritmos. &lt;br&gt; &lt;br&gt;
+17. Examinar las opciones de cifrado simétricas en &lt;b&gt;CrypTool&lt;/b&gt; con varios algoritmos. Probar &lt;br&gt;
+un  ataque  sobre  alguno  de  ellos  en  función  de  la  longitud  de  la  llave.  Analizar  los &lt;br&gt;tiempos de ataque necesarios para determinar 32 bits, 40 bits, 48 bits, 56 bits y 64 bits &lt;br&gt;de llave. &lt;br&gt; &lt;br&gt;
+18. Con  los  códigos  disponibles  de  algoritmos  simétricos,  que  puedes  encontrar  en  los &lt;br&gt;
+enlaces  de  6 (u otros que  igualmente  están disponibles  en diversas páginas y blogs), &lt;br&gt;construye  tu  propio  ejemplo  de  ejecución  de  algoritmo  simétrico  con  elección  de &lt;br&gt;Modo  de  Cifrado,  Padding,  Borrado  Seguro,  Generación  de  Llaves,  etc.  Muestra  el &lt;br&gt;código fuente, compila el mismo o da el código ejecutable y muestra algún  ejemplo de &lt;br&gt;utilización con un fichero de prueba. &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

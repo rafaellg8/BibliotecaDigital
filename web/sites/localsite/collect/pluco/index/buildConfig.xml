@@ -1,0 +1,58 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">9</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">pluco</metadata>
+<metadata name="infodbType">gdbm</metadata>
+<metadata name="earliestDatestamp">1452514583</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2MGPPSearch">
+<indexStem name="pluco" />
+<databaseType name="gdbm" />
+<indexList>
+<index name="PLUCO.Title,PLUCO.title,Title" shortname="TI" />
+<index name="text,PLUCO.Creator,PLUCO.autor,Author" shortname="TE" />
+<index name="text,PLUCO.description,PLUCO.tags" shortname="TT" />
+<index name="PLUCO.theme" shortname="TH" />
+<index name="PLUCO.signature" shortname="SI" />
+<index name="text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl" shortname="TC" />
+</indexList>
+<defaultIndex shortname="TC" />
+<indexOptionList>
+<indexOption name="stemIndexes" value="7" />
+<indexOption name="maxnumeric" value="4" />
+</indexOptionList>
+<levelList>
+<level name="document" shortname="Doc" />
+<level name="section" shortname="Sec" />
+</levelList>
+<defaultLevel shortname="Sec" />
+<defaultDBLevel shortname="Sec" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+<indexLanguageList>
+<indexLanguage name="es" shortname="es" />
+<indexLanguage name="en" shortname="en" />
+</indexLanguageList>
+<defaultIndexLanguage name="es" shortname="es" />
+</serviceRack>
+<serviceRack name="GS2MGPPRetrieve">
+<defaultIndexLanguage shortname="es" />
+<indexStem name="pluco" />
+<defaultLevel shortname="Sec" />
+<databaseType name="gdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="pluco" />
+<databaseType name="gdbm" />
+<classifierList>
+<classifier name="CL1" content="Título" />
+<classifier name="CL2" content="Temas" />
+<classifier name="CL3" content="Autores" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">rafaellg8</Metadata>
+    <Metadata name="Title">SPSI - Prácticas 5 y 6 Rafael Lachica Gar ido - Rubén Martín...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188215/SPSI-P5.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188215/SPSI-P5.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P5\SPSI-P5.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1450188215\SPSI-P5.html</Metadata>
+    <Metadata name="OrigSource">SPSI-P5.html</Metadata>
+    <Metadata name="Source">SPSI-P5.pdf</Metadata>
+    <Metadata name="SourceFile">SPSI-P5.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">1443417</Metadata>
+    <Metadata name="FilenameRoot">SPSI-P5</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">8</Metadata>
+    <Metadata name="Identifier">HASH01e528f924ce26ba2e2a6b34</Metadata>
+    <Metadata name="lastmodified">1450179318</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1450188217</Metadata>
+    <Metadata name="oailastmodifieddate">20151215</Metadata>
+    <Metadata name="assocfilepath">HASH01e5.dir</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-1_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-1_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-2_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-2_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-2_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-2_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-3_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-3_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-4_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-4_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-5_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-5_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-5_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-6_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-6_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-7_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">SPSI-P5-7_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-1_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-1_2.jpg&quot;&gt;&lt;br&gt;
+SPSI - Prácticas 5 y 6&lt;br&gt;
+Rafael Lachica Gar ido - Rubén Martín Hidalgo&lt;br&gt;
+Abrimos PGP keys y creamos las laves:&lt;br&gt;
+Exportamos la lave e importamos la del compañero. Una vez importada la firmamos&lt;br&gt;
+Usamos el servidor de red Iris para subir las laves &lt;br&gt;
+ht ps:/ www.rediris.es/keyserver/index.html.es&lt;br&gt;
+1&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-2_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-2_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-2_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-2_4.jpg&quot;&gt;&lt;br&gt;
+Usamos GPG Mail y ciframos con la lave de nuestro compañero :&lt;br&gt;
+Firmamos el documento:&lt;br&gt;
+2&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-3_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-3_2.jpg&quot;&gt;&lt;br&gt;
+Estos dos pasos anteriores, se pueden hacer en uno solo, con sign and encrypt:&lt;br&gt;
+3&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-4_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-4_2.jpg&quot;&gt;&lt;br&gt;
+Enviamos por cor eo los archivos encriptados, y cada uno intentará desencriptar el &lt;br&gt;
+mensaje del compañero:&lt;br&gt;
+4&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-5_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-5_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-5_3.jpg&quot;&gt;&lt;br&gt;
+Y verificamos que todo es cor ecto, si todo va bien, nos creará el texto plano con el &lt;br&gt;
+mensaje:&lt;br&gt;
+5&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-6_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-6_2.jpg&quot;&gt;&lt;br&gt;
+Creamos grupo de cifrado con el resto de usuarios:&lt;br&gt;
+Creamos un mensaje y lo ciframos con PGPmail, y ponemos en recipientes la lista &lt;br&gt;
+de cor eo. Encriptamos , enviamos a través de google groups, y desciframos los que &lt;br&gt;
+poseemos las claves en la lista de cor eo.&lt;br&gt;
+Desencriptamos con PGPmail, y nos da el resultado:&lt;br&gt;
+6&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-7_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/SPSI-P5-7_2.jpg&quot;&gt;&lt;br&gt;
+7&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;8&lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

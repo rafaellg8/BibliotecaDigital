@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?><page xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" lang="en">
+<pageRequest action="p" baseURL="http://localhost:8383/greenstone3/" fullURL="http://localhost:8383/greenstone3/library" lang="en" output="html" remoteAddress="0:0:0:0:0:0:0:1" subaction="home" to="" type="page">
+<userContext lang="en" uid="1" username=""/>
+<extraMetadataList>
+<extraMetadata name="dc.Title"/>
+<extraMetadata name="exp.Title"/>
+<extraMetadata name="ex.dc.Title"/>
+<extraMetadata name="Title"/>
+</extraMetadataList>
+</pageRequest>
+<pageResponse from="" type="describe">
+<collectionList>
+<collection name="lucene-jdbm-demo">
+<displayItem assigned="true" lang="en" name="description">This is a demonstration collection for the Greenstone3 digital library software. It contains a small subset (11 books) of the Humanitarian and Development Libraries. It is the Greenstone 3 equivalent of the Greenstone 2 demo collection, built with Lucene for indexing and JDBM as the database for metadata.
+    </displayItem>
+<displayItem assigned="true" lang="en" name="name">Demo Collection</displayItem>
+<displayItem assigned="true" lang="en" name="allfields">all fields</displayItem>
+<displayItem assigned="true" lang="en" name="text">text</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Title,Title">titles</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Subject">subjects</displayItem>
+<displayItem assigned="true" lang="en" name="dls.Organization">organisations</displayItem>
+<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+<displayItem assigned="true" lang="en" name="section">chapter</displayItem>
+<displayItem assigned="true" lang="en" name="document">book</displayItem>
+<displayItem assigned="true" lang="en" name="shortDescription">Demonstration collection containing a few books from the Humanitarian and Development Libraries. Uses Lucene and JDBM.
+    </displayItem>
+<serviceList>
+<service name="TextQuery" type="query"/>
+<service name="FieldQuery" type="query"/>
+<service name="AdvancedFieldQuery" type="query"/>
+<service name="DocumentStructureRetrieve" type="retrieve"/>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+<service name="DocumentContentRetrieve" type="retrieve"/>
+<service name="ClassifierBrowse" type="browse"/>
+<service name="ClassifierBrowseMetadataRetrieve" type="retrieve"/>
+<service name="RSSFeed" type="retrieve"/>
+<service name="ListRecords" type="oai"/>
+<service name="ListIdentifiers" type="oai"/>
+<service name="ListSets" type="oai"/>
+<service name="ListMetadataFormats" type="oai"/>
+<service name="GetRecord" type="oai"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="creator"/>
+<metadata lang="en" name="maintainer"/>
+<metadata lang="en" name="public">true</metadata>
+<metadata name="numDocs">11</metadata>
+<metadata name="buildType">lucene</metadata>
+<metadata name="indexStem">lucene-jdbm-demo</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="earliestDatestamp">1441765438</metadata>
+<metadata name="httpPath">/greenstone3/sites/localsite/collect/lucene-jdbm-demo</metadata>
+<metadata name="tidyoption">untidy</metadata>
+</metadataList>
+<libraryParamList/>
+</collection>
+<collection name="pluco">
+<displayItem assigned="true" lang="en" name="description">University Platform for Knowledgment
+
+Digital Library, gather the material associated for a Grade of Computer Science
+
+Authors:
+- Rafael Lachica Garido
+- Miguel Fernández Ferández</displayItem>
+<displayItem assigned="true" lang="es" name="smallicon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="icon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="name">PLUCO</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Creator,PLUCO.autor,Author">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.description,PLUCO.tags">Búsqueda por etiquetas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.signature">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl">Búsqueda todos los campos</displayItem>
+<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+<displayItem assigned="true" lang="en" name="document">document</displayItem>
+<displayItem assigned="true" lang="en" name="section">section</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Title,PLUCO.title,Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.autor">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.description,PLUCO.tags">Palabras claves</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="en" name="text">text</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">titles</displayItem>
+<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+<displayItem assigned="true" lang="en" name="shortDescription">pluco</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.signature">PLUCO.signature</displayItem>
+<displayItem assigned="true" lang="es" name=".es">SPANISH</displayItem>
+<displayItem assigned="true" lang="es" name=".en">ENGLISH</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.description,PLUCO.tags">text,PLUCO.description,PLUCO.tags</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Creator,PLUCO.autor,Author">text,PLUCO.Creator,PLUCO.autor,Author</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl">text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.theme">PLUCO.theme</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.Title,PLUCO.title,Title">PLUCO.Title,PLUCO.title,Title</displayItem>
+<serviceList>
+<service name="TextQuery" type="query"/>
+<service name="FieldQuery" type="query"/>
+<service name="AdvancedFieldQuery" type="query"/>
+<service name="DocumentStructureRetrieve" type="retrieve"/>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+<service name="DocumentContentRetrieve" type="retrieve"/>
+<service name="ClassifierBrowse" type="browse"/>
+<service name="ClassifierBrowseMetadataRetrieve" type="retrieve"/>
+<service name="RSSFeed" type="retrieve"/>
+<service name="ListRecords" type="oai"/>
+<service name="ListIdentifiers" type="oai"/>
+<service name="ListSets" type="oai"/>
+<service name="ListMetadataFormats" type="oai"/>
+<service name="GetRecord" type="oai"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="creator">rafaellg8@correo.ugr.es</metadata>
+<metadata lang="en" name="maintainer">migueib17@correo.ugr.es</metadata>
+<metadata lang="en" name="public">true</metadata>
+<metadata name="numDocs">9</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">pluco</metadata>
+<metadata name="infodbType">gdbm</metadata>
+<metadata name="earliestDatestamp">1452514583</metadata>
+<metadata name="httpPath">/greenstone3/sites/localsite/collect/pluco</metadata>
+<metadata name="tidyoption">untidy</metadata>
+</metadataList>
+<libraryParamList/>
+</collection>
+<collection name="pluco-v1">
+<displayItem assigned="true" lang="en" name="description">University Platform for Knowledgment
+
+Digital Library, gather the material associated for a Grade of Computer Science
+
+Authors:
+- Rafael Lachica Garido
+- Miguel Fernández Ferández</displayItem>
+<displayItem assigned="true" lang="es" name="smallicon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="icon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="name">PLUCO</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.autor">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.description,PLUCO.tags">Palabras claves</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.signature">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+<displayItem assigned="true" lang="en" name="document">document</displayItem>
+<displayItem assigned="true" lang="en" name="section">section</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="en" name="text">text</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">titles</displayItem>
+<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+<displayItem assigned="true" lang="en" name="shortDescription">pluco</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.description,PLUCO.tags">PLUCO.description,PLUCO.tags</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.theme">PLUCO.theme</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.signature">PLUCO.signature</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.autor">PLUCO.autor</displayItem>
+<displayItem assigned="true" lang="es" name=".es">SPANISH</displayItem>
+<displayItem assigned="true" lang="es" name=".en">ENGLISH</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Title">text,PLUCO.Title</displayItem>
+<serviceList>
+<service name="TextQuery" type="query"/>
+<service name="FieldQuery" type="query"/>
+<service name="AdvancedFieldQuery" type="query"/>
+<service name="DocumentStructureRetrieve" type="retrieve"/>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+<service name="DocumentContentRetrieve" type="retrieve"/>
+<service name="ClassifierBrowse" type="browse"/>
+<service name="ClassifierBrowseMetadataRetrieve" type="retrieve"/>
+<service name="RSSFeed" type="retrieve"/>
+<service name="ListRecords" type="oai"/>
+<service name="ListIdentifiers" type="oai"/>
+<service name="ListSets" type="oai"/>
+<service name="ListMetadataFormats" type="oai"/>
+<service name="GetRecord" type="oai"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="creator">rafaellg8@correo.ugr.es</metadata>
+<metadata lang="en" name="maintainer">migueib17@correo.ugr.es</metadata>
+<metadata lang="en" name="public">true</metadata>
+<metadata name="numDocs">11</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">pluco</metadata>
+<metadata name="infodbType">gdbm</metadata>
+<metadata name="earliestDatestamp">1450188189</metadata>
+<metadata name="httpPath">/greenstone3/sites/localsite/collect/pluco-v1</metadata>
+<metadata name="tidyoption">untidy</metadata>
+</metadataList>
+<libraryParamList/>
+</collection>
+<collection name="pluco-v2">
+<displayItem assigned="true" lang="en" name="description">University Platform for Knowledgment
+
+Digital Library, gather the material associated for a Grade of Computer Science
+
+Authors:
+- Rafael Lachica Garido
+- Miguel Fernández Ferández</displayItem>
+<displayItem assigned="true" lang="es" name="smallicon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="icon">logo.jpg</displayItem>
+<displayItem assigned="true" lang="es" name="name">PLUCO</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Creator,PLUCO.autor,Author">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.description,PLUCO.tags">Búsqueda por etiquetas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.signature">Búsqueda por orden bibliográfico. Ej: GRD|P1</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl">Búsqueda todos los campos</displayItem>
+<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+<displayItem assigned="true" lang="en" name="document">document</displayItem>
+<displayItem assigned="true" lang="en" name="section">section</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.Title,PLUCO.title,Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="es" name="text,PLUCO.theme">Búsqueda por temas</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.autor">Búsqueda por autores</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.description,PLUCO.tags">Palabras claves</displayItem>
+<displayItem assigned="true" lang="es" name="PLUCO.Title">Búsqueda por títulos</displayItem>
+<displayItem assigned="true" lang="en" name="text">text</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">titles</displayItem>
+<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+<displayItem assigned="true" lang="en" name="shortDescription">pluco</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.signature">PLUCO.signature</displayItem>
+<displayItem assigned="true" lang="es" name=".es">SPANISH</displayItem>
+<displayItem assigned="true" lang="es" name=".en">ENGLISH</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.description,PLUCO.tags">text,PLUCO.description,PLUCO.tags</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Creator,PLUCO.autor,Author">text,PLUCO.Creator,PLUCO.autor,Author</displayItem>
+<displayItem assigned="true" lang="es" name=".text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl">text,PLUCO.Creator,PLUCO.Description,PLUCO.Title,PLUCO.autor,PLUCO.curse,PLUCO.date,PLUCO.description,PLUCO.signature,PLUCO.tags,PLUCO.theme,PLUCO.title,Acronym,Author,BookConfOnly,Creator,Date,EmailAddress,Encoding,EntryType,FileFormat,FileSize,FilenameRoot,FromAddr,FromName,GENERATOR,HTMLDisplay,Headers,ISISRawRecord,Identifier,Image,ImageHeight,ImageSize,ImageType,ImageWidth,InReplyTo,JournalsOnly,Keyphrase,Keyphrases,Keyword,Language,MimeType,NoText,NumPages,OrigSource,PageNum,Pages,Placename,Plugin,RecordNumber,Screen,ScreenHeight,ScreenType,ScreenWidth,Source,SourceFile,SourceSegment,Thumb,ThumbHeight,ThumbType,ThumbWidth,Title,URL,UTF8URL,Workform,assocfilepath,equivlink,giquery,hascover,lastmodified,lastmodifieddate,mp3applet,oailastmodified,oailastmodifieddate,srcicon,srclinkFile,srclink_file,srcurl</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.theme">PLUCO.theme</displayItem>
+<displayItem assigned="true" lang="es" name=".PLUCO.Title,PLUCO.title,Title">PLUCO.Title,PLUCO.title,Title</displayItem>
+<serviceList>
+<service name="TextQuery" type="query"/>
+<service name="FieldQuery" type="query"/>
+<service name="AdvancedFieldQuery" type="query"/>
+<service name="DocumentStructureRetrieve" type="retrieve"/>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+<service name="DocumentContentRetrieve" type="retrieve"/>
+<service name="ClassifierBrowse" type="browse"/>
+<service name="ClassifierBrowseMetadataRetrieve" type="retrieve"/>
+<service name="RSSFeed" type="retrieve"/>
+<service name="ListRecords" type="oai"/>
+<service name="ListIdentifiers" type="oai"/>
+<service name="ListSets" type="oai"/>
+<service name="ListMetadataFormats" type="oai"/>
+<service name="GetRecord" type="oai"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="creator">rafaellg8@correo.ugr.es</metadata>
+<metadata lang="en" name="maintainer">migueib17@correo.ugr.es</metadata>
+<metadata lang="en" name="public">true</metadata>
+<metadata name="numDocs">9</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">pluco</metadata>
+<metadata name="infodbType">gdbm</metadata>
+<metadata name="earliestDatestamp">1452514583</metadata>
+<metadata name="httpPath">/greenstone3/sites/localsite/collect/pluco-v2</metadata>
+<metadata name="tidyoption">untidy</metadata>
+</metadataList>
+<libraryParamList/>
+</collection>
+<collection name="solr-jdbm-demo">
+<displayItem assigned="true" lang="en" name="description">This is a demonstration collection for the Greenstone3 digital library software. It contains a small subset (11 books) of the Humanitarian and Development Libraries. It is similar to the Lucene demo collection, using JDBM for the database but uses SOLR instead for indexing. SOLR offers faceted browsing of search results.</displayItem>
+<displayItem assigned="true" lang="en" name="name">SOLR Demo</displayItem>
+<displayItem assigned="true" lang="en" name="allfields">all fields</displayItem>
+<displayItem assigned="true" lang="en" name="text">text</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Title,Title">titles</displayItem>
+<displayItem assigned="true" lang="en" name="dc.Subject">subjects</displayItem>
+<displayItem assigned="true" lang="en" name="dls.Organization">organisations</displayItem>
+<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+<displayItem assigned="true" lang="en" name="section">chapter</displayItem>
+<displayItem assigned="true" lang="en" name="document">book</displayItem>
+<displayItem assigned="true" lang="en" name="shortDescription">Demonstration collection containing a few books from the Humanitarian and Development Libraries. Uses Solr and JDBM.</displayItem>
+<serviceList>
+<service name="TextQuery" type="query"/>
+<service name="FieldQuery" type="query"/>
+<service name="AdvancedFieldQuery" type="query"/>
+<service name="DocumentStructureRetrieve" type="retrieve"/>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+<service name="DocumentContentRetrieve" type="retrieve"/>
+<service name="ClassifierBrowse" type="browse"/>
+<service name="ClassifierBrowseMetadataRetrieve" type="retrieve"/>
+<service name="RSSFeed" type="retrieve"/>
+<service name="ListRecords" type="oai"/>
+<service name="ListIdentifiers" type="oai"/>
+<service name="ListSets" type="oai"/>
+<service name="ListMetadataFormats" type="oai"/>
+<service name="GetRecord" type="oai"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="creator"/>
+<metadata lang="en" name="maintainer"/>
+<metadata lang="en" name="public">true</metadata>
+<metadata name="numDocs">11</metadata>
+<metadata name="buildType">solr</metadata>
+<metadata name="indexStem">solr-jdbm-demo</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="earliestDatestamp">1438329363</metadata>
+<metadata name="httpPath">/greenstone3/sites/localsite/collect/solr-jdbm-demo</metadata>
+<metadata name="tidyoption">untidy</metadata>
+</metadataList>
+<libraryParamList/>
+</collection>
+</collectionList>
+<serviceClusterList/>
+<siteList/>
+<serviceList>
+<service name="Authentication" type="authen">
+<displayItem name="name">Página de administración</displayItem>
+<displayItem name="description">Permite administrar usuarios</displayItem>
+</service>
+<service name="GetUserInformation" type="process"/>
+<service name="ChangeUserEditMode" type="process"/>
+<service name="RemoteAuthentication" type="process"/>
+<service name="ArchiveGetDocumentFilePath" type="retrieve"/>
+<service name="ArchiveGetAssociatedImportFiles" type="retrieve"/>
+<service name="ArchiveGetSourceFileOID" type="retrieve"/>
+<service name="ArchiveCheckDocumentOrSectionExists" type="retrieve"/>
+<service name="ArchiveWriteEntryToDatabase" type="retrieve"/>
+<service name="ArchiveRemoveEntryFromDatabase" type="retrieve"/>
+<service name="DocumentCreate" type="retrieve"/>
+<service name="DocumentDelete" type="retrieve"/>
+<service name="DocumentDuplicate" type="retrieve"/>
+<service name="DocumentGetInformation" type="retrieve"/>
+<service name="DocumentMove" type="retrieve"/>
+<service name="DocumentMerge" type="retrieve"/>
+<service name="DocumentSplit" type="retrieve"/>
+<service name="DocumentExecuteTransaction" type="retrieve"/>
+<service name="DocXMLCreateEmptyFile" type="retrieve"/>
+<service name="DocXMLGetMetadata" type="retrieve"/>
+<service name="DocXMLSetMetadata" type="retrieve"/>
+<service name="DocXMLGetSection" type="retrieve"/>
+<service name="DocXMLSetSection" type="retrieve"/>
+<service name="DocXMLDeleteSection" type="retrieve"/>
+<service name="DocXMLGetText" type="retrieve"/>
+<service name="DocXMLSetText" type="retrieve"/>
+<service name="AddDocument" type="gather"/>
+<service name="DisplayDocumentList" type="gather"/>
+<service name="GetDocuments" type="gather"/>
+<service name="DeleteDocuments" type="gather"/>
+<service name="DeleteDocument" type="gather"/>
+<service name="ClearDocuments" type="gather"/>
+<service name="MergeDocument" type="gather"/>
+<service name="AddItem" type="gather"/>
+<service name="DisplayList" type="gather"/>
+<service name="ItemNum" type="gather"/>
+<service name="DeleteItems" type="gather"/>
+<service name="DeleteItem" type="gather"/>
+<service name="SendMail" type="gather"/>
+<service name="NewCollection" type="process">
+<displayItem name="name">Crear</displayItem>
+<displayItem name="description">Crear una nueva colección</displayItem>
+<displayItem name="submit">Crear</displayItem>
+<paramList>
+<param name="collTitle" type="string">
+<displayItem name="name">Título de la colección</displayItem>
+</param>
+<param name="creator" type="string">
+<displayItem name="name">Email del creador</displayItem>
+</param>
+<param name="collAbout" type="text">
+<displayItem name="name">Descripción de la colección</displayItem>
+</param>
+<param default="mgpp" name="buildType" type="enum_single">
+<displayItem name="name">Tipo de construcción</displayItem>
+<option name="mgpp">
+<displayItem name="name">MGPP</displayItem>
+</option>
+<option name="mg">
+<displayItem name="name">MG</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="ImportCollection" type="process">
+<displayItem name="name">Importar</displayItem>
+<displayItem name="description">Importar una colección: tomar los documentos originales y convertirlos al formato interno de Greenstone</displayItem>
+<displayItem name="submit">Importar</displayItem>
+<paramList>
+<param name="collection" type="enum_single">
+<displayItem name="name">Colección</displayItem>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">lucene-jdbm-demo</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">pluco</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">pluco-v1</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">pluco-v2</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">solr-jdbm-demo</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="BuildCollection" type="process">
+<displayItem name="name">Construir</displayItem>
+<displayItem name="description">Construir una colección: crear los índices y las jerarquías navegables.</displayItem>
+<displayItem name="submit">Construir</displayItem>
+<paramList>
+<param name="collection" type="enum_single">
+<displayItem name="name">Colección</displayItem>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">lucene-jdbm-demo</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">pluco</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">pluco-v1</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">pluco-v2</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">solr-jdbm-demo</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="ActivateCollection" type="process">
+<displayItem name="name">Activar</displayItem>
+<displayItem name="description">Activar una colección: Reemplazar el índice antiguo con la nueva versión</displayItem>
+<displayItem name="submit">Activar</displayItem>
+<paramList>
+<param name="collection" type="enum_single">
+<displayItem name="name">Colección</displayItem>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">lucene-jdbm-demo</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">pluco</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">pluco-v1</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">pluco-v2</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">solr-jdbm-demo</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="BuildAndActivateCollection" type="process"/>
+<service name="DeleteCollection" type="process">
+<displayItem name="name">Borrar</displayItem>
+<displayItem name="description">Borrar una colección</displayItem>
+<displayItem name="submit">Borrar</displayItem>
+<paramList>
+<param name="collection" type="enum_single">
+<displayItem name="name">Colección</displayItem>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">lucene-jdbm-demo</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">pluco</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">pluco-v1</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">pluco-v2</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">solr-jdbm-demo</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="ReloadCollection" type="process">
+<displayItem name="name">Recargar</displayItem>
+<displayItem name="description">Recargar la colección en la biblioteca</displayItem>
+<displayItem name="submit">Reload</displayItem>
+<paramList>
+<param name="collection" type="enum_single">
+<displayItem name="name">Colección</displayItem>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">lucene-jdbm-demo</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">pluco</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">pluco-v1</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">pluco-v2</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">solr-jdbm-demo</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="SetMetadata" type="process">
+<displayItem name="name">_SetMetadata.name_</displayItem>
+<displayItem name="description">_SetMetadata.description_</displayItem>
+<displayItem name="submit">_SetMetadata.submit_</displayItem>
+<paramList>
+<param name="collection" type="enum_single">
+<displayItem name="name">Colección</displayItem>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">lucene-jdbm-demo</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">pluco</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">pluco-v1</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">pluco-v2</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">solr-jdbm-demo</displayItem>
+</option>
+</param>
+</paramList>
+</service>
+<service name="GetXMLTemplateFromFile" type="retrieve"/>
+<service name="SaveXMLTemplateToFile" type="retrieve"/>
+<service name="GetTemplateListFromFile" type="retrieve"/>
+<service name="GetXSLTFilesForCollection" type="retrieve"/>
+<service name="ResolveCallTemplate" type="retrieve"/>
+<service name="RecordUserAction" type="retrieve"/>
+<service name="GetActivityOnPage" type="retrieve"/>
+<service name="TextQuery" type="query">
+<displayItem name="name">Búsqueda cruzada en colecciones</displayItem>
+<displayItem name="submit">Buscar</displayItem>
+<displayItem name="description">Buscar en múltiples colecciones</displayItem>
+<paramList>
+<param default="all" name="collection" type="enum_multi">
+<displayItem name="name">Colecciones en las cuales buscar</displayItem>
+<option name="all">
+<displayItem name="name">Todas las colecciones</displayItem>
+</option>
+<option name="lucene-jdbm-demo">
+<displayItem name="name">Demo Collection</displayItem>
+</option>
+<option name="pluco">
+<displayItem name="name">PLUCO</displayItem>
+</option>
+<option name="pluco-v1">
+<displayItem name="name">PLUCO</displayItem>
+</option>
+<option name="pluco-v2">
+<displayItem name="name">PLUCO</displayItem>
+</option>
+<option name="solr-jdbm-demo">
+<displayItem name="name">SOLR Demo</displayItem>
+</option>
+</param>
+<param default="20" name="maxDocs" type="integer">
+<displayItem name="name">Maximum number of documents per collection</displayItem>
+</param>
+<param name="query" type="string">
+<displayItem name="name">Cadena de búsqueda</displayItem>
+</param>
+</paramList>
+</service>
+<service name="DocumentMetadataRetrieve" type="retrieve"/>
+</serviceList>
+<metadataList>
+<metadata lang="en" name="siteName">My Greenstone Library</metadata>
+<metadata lang="fr" name="siteName">Mon site de dÃ©velopment</metadata>
+<metadata lang="en" name="siteDescription">This is just a random site for testing stuff...</metadata>
+<metadata lang="fr" name="siteDescription">C'est juste un site pour tester des trucs...</metadata>
+<metadata name="siteAdmin">admin@example.com</metadata>
+<metadata lang="en" name="siteName">My Greenstone Library</metadata>
+<metadata lang="fr" name="siteName">Mon site de dÃ©velopment</metadata>
+<metadata lang="en" name="siteDescription">This is just a random site for testing stuff...</metadata>
+<metadata lang="fr" name="siteDescription">C'est juste un site pour tester des trucs...</metadata>
+<metadata name="siteAdmin">admin@example.com</metadata>
+</metadataList>
+<interfaceOptions>
+<option name="library_name" value="library"/>
+<option name="cssTheme" value="interfaces/default/style/themes/main/jquery-ui-1.8.16.custom.css"/>
+<option name="documentBasket" value="true"/>
+<option name="interface_name" value="default"/>
+<option name="site_name" value="localsite"/>
+<option name="highlightQueryTerms" value="true"/>
+<option name="berryBaskets" value="true"/>
+<option name="allow_client_side_xslt" value="false"/>
+</interfaceOptions>
+</pageResponse>
+</page>

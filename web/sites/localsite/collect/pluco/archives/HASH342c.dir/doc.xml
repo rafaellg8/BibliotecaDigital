@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Práctica 4 SPSI Rafael Lachica Garrido Ejercicio 5)Evaluar cuanto...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514606/Pr%25C3%25A1ctica 4SPSI.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1452514606/Pr%C3%A1ctica 4SPSI.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\SPSI\P4\Pr%E1ctica 4SPSI.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1452514606\Pr%C3%A1ctica 4SPSI.html</Metadata>
+    <Metadata name="OrigSource">Pr%C3%A1ctica 4SPSI.html</Metadata>
+    <Metadata name="Source">Práctica 4SPSI.pdf</Metadata>
+    <Metadata name="SourceFile">Pr%25E1ctica 4SPSI.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">965485</Metadata>
+    <Metadata name="FilenameRoot">Práctica 4SPSI</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">7</Metadata>
+    <Metadata name="Identifier">HASH342c5537c42c345331b7c9</Metadata>
+    <Metadata name="lastmodified">1450179300</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1452514608</Metadata>
+    <Metadata name="oailastmodifieddate">20160111</Metadata>
+    <Metadata name="assocfilepath">HASH342c.dir</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-1_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-2_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-2_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-3_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-3_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-3_3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-3_4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-3_5.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-3_6.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-4_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-5_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-5_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-6_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-6_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-7_1.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Pr%C3%A1ctica 4SPSI-7_2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-1_1.jpg&quot;&gt;&lt;br&gt;
+Práctica 4 SPSI  &lt;br&gt;
+ Rafael Lachica Garrido  &lt;br&gt;
+ &lt;br&gt;&lt;b&gt;Ejercicio 5)Evaluar cuanto tiempo emplean estos programas en factorizar números en &lt;br&gt;la forma p*q, donde p y q son números primos en las condiciones RSA, generados &lt;br&gt;previamente con los programas antes examinados. Hacer dos grupos de programas &lt;br&gt;para poder realizar mediciones coherentes sobre la longitud de los dígitos: por un &lt;br&gt;lado factor, msieve y yafu, y por otro DisMat, Fortaleza, GenRSA y ExpoCrip. Msieve y &lt;br&gt;yafu dan directamente el tiempo empleado. Para factor utilizar alguna rutina de crono &lt;br&gt;(ptime, … ) &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;/b&gt;Para ejecutar yafu usamos la opción ­v: &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;&lt;b&gt;Factor Msieve y Yafu: &lt;br&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Ndigitos &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;9 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;11 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;14 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;18 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;28 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;32 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;41 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;46 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;57 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;74 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Factor &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.001 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.003 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.04 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.052 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.087 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.8  0.226  1.068  12.847 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;278 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Yafu &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;1 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;3 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;2 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Msieve &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0.0312  0.0156  0.0468  0.0475  0.0937  0.1094  0.125  0.234 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;3.578  29.92 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Tiempo medido en segundos. &lt;br&gt;&lt;/b&gt;Yafu es el que se mantiene más estable y el que presenta el menor tiempo de ejecución &lt;br&gt;para dígitos muy grandes. &lt;br&gt; &lt;br&gt;&lt;b&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-2_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-2_2.jpg&quot;&gt;&lt;br&gt;
+&lt;b&gt;Fortaleza y DistMat: &lt;br&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Ndigitos &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;9 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;11 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;14 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;18 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;28 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;32 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;41 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;46 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;57 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;74 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Fortaleza &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;1 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;2 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;7 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;30   &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;DistMat &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;1 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;2 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;1 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;1 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;ExpoCript &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;0 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;603 &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;1502   &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Tiempo medido en segundos. &lt;br&gt;&lt;/b&gt;ExpoCript no es capaz de encontrar factores mayores mayores de 32 dígitos, (por lo menos &lt;br&gt;en mi PC) al igual que Fortaleza. &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;b&gt;Ejercicio 6) Representar los datos anteriores en una gráfica, aproximándolos por &lt;br&gt;funciones con variable x = número de dígitos (base 10) del número a factorizar. &lt;br&gt;Realizarlo con las rutinas de factorización que sean coherentes para su comparación &lt;br&gt;en función del número de dígitos factorizado. Para la aproximación usar software de &lt;br&gt;aproximación matemática (MatLab, Xmgrace, FreeMat, GmatH, SAGE, …). &lt;br&gt; &lt;br&gt;Datos asociados: &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-3_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-3_2.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-3_3.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-3_4.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-3_5.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-3_6.jpg&quot;&gt;&lt;br&gt;
+&lt;b&gt;En freemat: &lt;br&gt;&lt;/b&gt;Fortaleza&lt;br&gt;
+ExpoCript &lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+Dismat&lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;br&gt; &lt;br&gt;&lt;/b&gt;Yafu&lt;br&gt;
+Factor &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+&lt;b&gt; &lt;br&gt;&lt;/b&gt;Msieve &lt;br&gt;
+ &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-4_1.jpg&quot;&gt;&lt;br&gt;
+&lt;b&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;Ejercicio 7) Hacer una estimación, en base a las funciones de aproximación &lt;br&gt;anteriores de cuánto tiempo tardaría en factorizarse números de longitud 512 bits, &lt;br&gt;1024 bits y 2048 bits. Obtener las conclusiones pertinentes. &lt;br&gt; &lt;br&gt;&lt;/b&gt;Obteniendo una función exponencial aproximada a través de la gráfica anterior, con yafu y &lt;br&gt;factor, y msieve, obtenemos una media de los resultados y la siguiente función exponencial: &lt;br&gt;exp = ​&lt;br&gt;
+1.5​&lt;br&gt;
+^(​&lt;br&gt;
+ndigitos​&lt;br&gt;
+*​&lt;br&gt;
+0.188​&lt;br&gt;
+) &lt;br&gt;
+ &lt;br&gt;Obtenemos los siguientes resultados: &lt;br&gt; &lt;br&gt;
+74 &lt;br&gt;
+90 &lt;br&gt;
+115 &lt;br&gt;
+130 &lt;br&gt;
+145 &lt;br&gt;
+512 &lt;br&gt;
+1024 &lt;br&gt;
+2048 &lt;br&gt;
+281.69659 953.814901 6413.46930 20121.9641 63131.7345 8.90923E+1 7.93744E+3&lt;br&gt;
+4 &lt;br&gt;
+6 &lt;br&gt;
+9 &lt;br&gt;
+7 &lt;br&gt;
+6 &lt;br&gt;
+6 &lt;br&gt;
+3 &lt;br&gt;
+6.3003E+67 &lt;br&gt;
+Tiempo en segundos &lt;br&gt; &lt;br&gt;Para 512 = 8.9*10^16 segundos &lt;br&gt;1024 = 7.93 * 10^33 &lt;br&gt;2048 = 6.30 * 10^67 &lt;br&gt; &lt;br&gt;Gráfica sería así: &lt;br&gt;
+ &lt;br&gt;
+&lt;b&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;Ejercicio 8)Selecciona un protocolo criptográfico de entre los explicados en clase y &lt;br&gt;utiliza el software suministrado para construir un ejemplo de utilización del mismo &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-5_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-5_2.jpg&quot;&gt;&lt;br&gt;
+&lt;b&gt;con datos que no permitan su rotura por ataque sobre las características algorítmicas &lt;br&gt;del protocolo: Factorización o Logaritmo Discreto. &lt;br&gt; &lt;br&gt;&lt;/b&gt;Usaremos el cifrado de firma digital con GenRSA. &lt;br&gt;Para el cifrado usamos dos números de la lista de primos fuertes:&lt;b&gt; &lt;br&gt;p &lt;/b&gt;​&lt;br&gt;
+= 3602879648209307 &lt;br&gt;
+&lt;b&gt; q &lt;/b&gt;​&lt;br&gt;
+= 253696938462299 &lt;br&gt;
+&lt;b&gt; valor e&lt;/b&gt;​&lt;br&gt;
+ = 555 &lt;br&gt;
+Pulsamos comprobar firma y ciframos. &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;&lt;b&gt;Firmado texto en hexadecimal&lt;/b&gt;​&lt;br&gt;
+ = 30BC4AAB680032AA808669CBB &lt;br&gt;
+ &lt;br&gt;Valor n = 914039536398826027489480416793 &lt;br&gt; &lt;br&gt;Procedemos ahora al ataque, suponemos que tenemos la firma en hexadecimal, para &lt;br&gt;atacarla tenemos que pasarla a decimal: &lt;br&gt;Usamos el software de los sitemas unix bc para pasar a formato decimal un texto &lt;br&gt;hexadecimal. &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;Tenemos en decimal el número:  ​&lt;br&gt;
+&lt;b&gt;241326578280306048472640298171 &lt;/b&gt;&lt;br&gt;
+Ahora procederemos a atacar obteniendo los factores con ​&lt;br&gt;
+&lt;b&gt;yafu: &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-6_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-6_2.jpg&quot;&gt;&lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;n = 274546732969631454462616949  &lt;br&gt;(253696938462299 * 3602879648209307) = N &lt;br&gt; &lt;br&gt;Vemos que nos da exactamente los mismos factores que usamos para la firma, lo &lt;br&gt;cual quiere decir que está expuesta a ataques de fuerza bruta, debido a que se &lt;br&gt;factoriza fácilmente los números primos elegidos. &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;b&gt;Ejercicio 9) Se ha podido acceder a un dispositivo de cifrado con el &lt;br&gt;algoritmo RSA. Se sabe que la clave pública consiste en:  &lt;br&gt; &lt;br&gt;N=A72F076B4F3603AF02DAE60BCD3DEF9918141E77C1F29E54E84C8D794&lt;br&gt;B6A3FA 59B2F119713D13B  &lt;br&gt;e = 4773 &lt;br&gt; Y se han podido interceptar los dos bloques cifrados siguientes:  &lt;br&gt; &lt;br&gt;C1=0151380B3AED56D9E3311809C0FD2323FBE6D8370E1D17AE19E55AAA&lt;br&gt;B312F28 D954DB391E93800CD  &lt;br&gt; &lt;br&gt;C2=02E41517800E59C337AE015886E4FEE4CDB33DACBBE9AD4B45EC78D1&lt;br&gt;953E983 37BB57B9DCEA10048  &lt;br&gt; &lt;br&gt;¿Cuál es el mensaje transmitido? Describir el ataque empleado y el tiempo &lt;br&gt;de ejecución del mismo. Explicar la elección de las herramientas software &lt;br&gt;en función de las características del sistema. &lt;br&gt; &lt;br&gt;1 ) Pasamos de hexadecimal a decimal con bc -q ibase=16 &lt;br&gt;&lt;/b&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;En decimal: &lt;br&gt;
+ &lt;br&gt;5448947611675552326885167045146271832020970317915785046050870427770&lt;br&gt;
+345665931943675044448948539 &lt;br&gt;
+ &lt;br&gt; &lt;br&gt;&lt;b&gt; &lt;br&gt;2 ) Buscamos los factores con factor: &lt;br&gt; &lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-7_1.jpg&quot;&gt;&lt;br&gt;
+&lt;IMG src=&quot;_httpdocimg_/Pr%25C3%25A1ctica 4SPSI-7_2.jpg&quot;&gt;&lt;br&gt;
+&lt;b&gt; &lt;/b&gt;&lt;br&gt;
+ &lt;br&gt;q1 = 464356072364433950917119706710886096444141 &lt;br&gt; &lt;br&gt;q2 = 1683424411354117246058787334367 &lt;br&gt; &lt;br&gt;e decimal = ​&lt;br&gt;
+18291 &lt;br&gt;
+ &lt;br&gt;Probamos ahora la clave con expocript &lt;br&gt; &lt;br&gt;
+ &lt;br&gt;
+&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

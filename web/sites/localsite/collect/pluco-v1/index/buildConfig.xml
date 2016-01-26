@@ -1,0 +1,57 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">11</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">pluco</metadata>
+<metadata name="infodbType">gdbm</metadata>
+<metadata name="earliestDatestamp">1450188189</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2MGPPSearch">
+<indexStem name="pluco" />
+<databaseType name="gdbm" />
+<indexList>
+<index name="text,PLUCO.Title" shortname="TE" />
+<index name="PLUCO.autor" shortname="AU" />
+<index name="PLUCO.description,PLUCO.tags" shortname="DE" />
+<index name="PLUCO.theme" shortname="TH" />
+<index name="PLUCO.signature" shortname="SI" />
+</indexList>
+<defaultIndex shortname="TE" />
+<indexOptionList>
+<indexOption name="stemIndexes" value="3" />
+<indexOption name="maxnumeric" value="4" />
+</indexOptionList>
+<levelList>
+<level name="document" shortname="Doc" />
+<level name="section" shortname="Sec" />
+</levelList>
+<defaultLevel shortname="Doc" />
+<defaultDBLevel shortname="Sec" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+<indexLanguageList>
+<indexLanguage name="es" shortname="es" />
+<indexLanguage name="en" shortname="en" />
+</indexLanguageList>
+<defaultIndexLanguage name="es" shortname="es" />
+</serviceRack>
+<serviceRack name="GS2MGPPRetrieve">
+<defaultIndexLanguage shortname="es" />
+<indexStem name="pluco" />
+<defaultLevel shortname="Sec" />
+<databaseType name="gdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="pluco" />
+<databaseType name="gdbm" />
+<classifierList>
+<classifier name="CL1" content="Título" />
+<classifier name="CL2" content="Temas" />
+<classifier name="CL3" content="Autores" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

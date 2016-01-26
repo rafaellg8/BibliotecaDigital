@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Profiles [<!ELEMENT Profiles (Action*)>
+<!ELEMENT Action (#PCDATA)>
+<!ATTLIST Action source CDATA #REQUIRED>
+<!ATTLIST Action target CDATA ''>
+]>
+<Profiles>
+	<Action source="pluco_metadata.Title" target="PLUCO.Title"/>
+	<Action source="pluco_metadata.Creator" target="PLUCO.Creator"/>
+	<Action source="pluco_metadata.Description" target="PLUCO.Description"/>
+</Profiles>

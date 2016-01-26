@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MetadataSet SYSTEM "http://www.greenstone.org/dtd/MetadataSet/1.0/MetadataSet.dtd">
+<MetadataSet contact="" creator="Rafael Lachica Garrido" family="" lastchanged="" namespace="PLUCO">
+	<SetLanguage code="es">
+		<Name>PLUCO</Name>
+		<Description/>
+	</SetLanguage>
+	<SetLanguage code="eu">
+		<Name/>
+		<Description/>
+	</SetLanguage>
+	<Element name="title">
+		<Language code="es">
+			<Attribute name="label">title</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="autor">
+		<Language code="es">
+			<Attribute name="label">autor</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="theme">
+		<Language code="es">
+			<Attribute name="label">theme</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="curse">
+		<Language code="es">
+			<Attribute name="label">curse</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="description">
+		<Language code="es">
+			<Attribute name="label">description</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="date">
+		<Language code="es">
+			<Attribute name="label">date</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="signature">
+		<Language code="es">
+			<Attribute name="label">signature</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+	<Element name="tags">
+		<Language code="es">
+			<Attribute name="label">tags</Attribute>
+			<Attribute name="definition"/>
+			<Attribute name="comment"/>
+		</Language>
+	</Element>
+</MetadataSet>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Author">牲慡晦慡敥汬汬杧㠸†</Metadata>
+    <Metadata name="Title">Rafael Lachica Garrido Tema1 Gestión de Recursos Digitales TEMA 1: ...</Metadata>
+    <Metadata name="URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188189/GRD_Tema1_RafaelLachicaGarrido.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/rafaellg8/Greenstone3/web/sites/localsite/collect/pluco/tmp/1450188189/GRD_Tema1_RafaelLachicaGarrido.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\GRD\GRD_Tema1_RafaelLachicaGarrido.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1450188189\GRD_Tema1_RafaelLachicaGarrido.html</Metadata>
+    <Metadata name="OrigSource">GRD_Tema1_RafaelLachicaGarrido.html</Metadata>
+    <Metadata name="Source">GRD_Tema1_RafaelLachicaGarrido.pdf</Metadata>
+    <Metadata name="SourceFile">GRD_Tema1_RafaelLachicaGarrido.pdf</Metadata>
+    <Metadata name="Plugin">PDFPlugin</Metadata>
+    <Metadata name="FileSize">102787</Metadata>
+    <Metadata name="FilenameRoot">GRD_Tema1_RafaelLachicaGarrido</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="NumPages">9</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.curse">4</Metadata>
+    <Metadata name="PLUCO.date">14-10-15</Metadata>
+    <Metadata name="PLUCO.description">Ejercicios resueltos del tema 1 de GRD</Metadata>
+    <Metadata name="PLUCO.signature">GRD|EJ1</Metadata>
+    <Metadata name="PLUCO.tags">Ejercicios</Metadata>
+    <Metadata name="PLUCO.tags">GRD</Metadata>
+    <Metadata name="PLUCO.tags">Tema 1</Metadata>
+    <Metadata name="PLUCO.theme">GRD</Metadata>
+    <Metadata name="PLUCO.title">Ejercicios Tema 1 - GRD</Metadata>
+    <Metadata name="Identifier">HASH82c46de3ffbb603a599414</Metadata>
+    <Metadata name="lastmodified">1450179456</Metadata>
+    <Metadata name="lastmodifieddate">20151215</Metadata>
+    <Metadata name="oailastmodified">1450188191</Metadata>
+    <Metadata name="oailastmodifieddate">20151215</Metadata>
+    <Metadata name="assocfilepath">HASH82c4.dir</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+&lt;A name=1&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+&lt;b&gt;TEMA 1:&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;BIBLIOTECA DIGITAL&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Introducción y definición formal&lt;br&gt;&lt;/b&gt;Una &lt;b&gt;biblioteca digital&lt;/b&gt; es una colección de objetos digitales más o menos organizada, que sirve a &lt;br&gt;una comunidad de usuarios definida, que tiene los derechos de autor presentes y gestionados y que &lt;br&gt;dispone de mecanismos de preservación y conservación. Una definición más exhaustiva propuesta &lt;br&gt;en la bibliografía especializada establece que &amp;quot;biblioteca digital es un sistema de tratamiento &lt;br&gt;técnico, acceso y transferencia de información digital, se estructura mediante una colección de &lt;br&gt;documentos digitales, sobre los cuales se ofrecen servicios interactivos de valor añadido para el &lt;br&gt;usuario final&amp;quot;.&lt;br&gt;
+Se refiere a los recursos informáticos documentales, a quienes se accede mediante diferentes &lt;br&gt;dispositivos de comunicación que usan los servicios de Internet. En el concepto de biblioteca digital&lt;br&gt;está implícita la integración de la tecnología informática y las comunicaciones. La información &lt;br&gt;ofrecida suele estar disponible en formatos pdf, doc, jpg, bmp o mp3, entre otros.&lt;br&gt;
+&lt;b&gt;Ejercicio 1) Realizar mapa conceptual Tema 1.&lt;br&gt;- Biblioteca: &lt;/b&gt;encargadas de &lt;b&gt;recolectar,organizar,preservar y diseminar&lt;/b&gt; el uso de &lt;b&gt;objetos&lt;/b&gt; que &lt;br&gt;contienen &lt;b&gt;conocimiento humano&lt;/b&gt;. Perduran en el tiempo.&lt;br&gt;
+&lt;b&gt;1. Biblioteca Digital&lt;br&gt;&lt;/b&gt;Es un sistema de tratamiento técnico, acceso y transferencia de información digital, se estructura &lt;br&gt;mediante una colección de documentos digitales, sobre los cuales se ofrecen servicios interactivos &lt;br&gt;de valor añadido para el usuario final. Es una especie de &lt;b&gt;colecciones de datos&lt;/b&gt; en un mundo web.&lt;br&gt;
+&lt;b&gt;2. Principios Biblioteca Digital&lt;/b&gt;&lt;br&gt;
+- &lt;b&gt;Biblioteca digital:&lt;/b&gt; conjunto de servicios para capturar,catalogar,almacenar , buscar, proteger y &lt;br&gt;recuperar información. Estos servicios ofrecen &lt;b&gt;organización y gestión de información&lt;/b&gt; inclusive.&lt;br&gt;
+&lt;b&gt;Características&lt;/b&gt;:&lt;br&gt;
+- No existen límites físicos.&lt;br&gt;
+- Servicio continuo.&lt;br&gt;
+- Backups, y múltiples copias. Conservación material.&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=2&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+- Organización y servicios de búsqueda.&lt;br&gt;
+- Ahorro costes/espacio.&lt;br&gt;
+- Servicios añadidos.&lt;br&gt;
+Además permiten acceder al conocimiento de forma ágil, refuerzan la comunicación y favorecen &lt;br&gt;cooperación nacional e iternacional.&lt;br&gt;
+&lt;b&gt;Principios Biblioteca Digital&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;A ) Tecnología&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;- &lt;/b&gt;Infraestructura: redes alta velocidad, acceso remoto u ubicuo.&lt;br&gt;
+- Acceso indexado. Recuperación y transferencia de archivos a través de interfaz.&lt;br&gt;
+- Interfaces: multiples modos, móvil.&lt;br&gt;
+- Ingeniería Software: prototipado, diseños iterativos.&lt;br&gt;
+&lt;b&gt;B) Comunidad&lt;/b&gt;&lt;br&gt;
+- Cambiar prácticas del trabajo y el aprendizaje.&lt;br&gt;
+-  Asignar derechos copyrights.&lt;br&gt;
+- Estándares y operaciones con datos y metadatos.&lt;br&gt;
+- Seguridad, encriptación y calidad de control. Marcas de agua.&lt;br&gt;
+&lt;b&gt;C) Servicios&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;- &lt;/b&gt;Gestión de colas.&lt;br&gt;
+- Sistema de ayuda y aprendijaze. Poner instrucciones.&lt;br&gt;
+&lt;b&gt;D) Contenido&lt;/b&gt;&lt;br&gt;
+- Derechos de adquisición.&lt;br&gt;
+- Gestión multimedia, calidad del servicio, estándares.&lt;br&gt;
+- Indexación del contenido y datos.&lt;br&gt;
+- Mantenimiento, copias seguridad, links, archivos.&lt;br&gt;
+&lt;b&gt;Recursos digitales: &lt;/b&gt;colección de contenido de tipo texto,audio o vídeo.&lt;br&gt;
+&lt;b&gt;Metadatos: &lt;/b&gt;complementan el objeto digital. Pueden ser &lt;b&gt;descriptivos  (&lt;/b&gt;contenido intelectual del &lt;br&gt;objeto), o &lt;b&gt;administrativos&lt;/b&gt; (datos técnicos,gestión de derechos u origen del objeto digital).&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=3&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+&lt;b&gt;Interoperabilidad: &lt;/b&gt;acceso a los datos digitales de forma independiente al sistema que los &lt;br&gt;almacena. Para ello se definen una serie de estánders que adoptan todas las bibliotecas digitales.&lt;br&gt;
+Uso de &lt;b&gt;modelos.&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;3. Tipos Bibliotecas Digitales&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;A) Autónomas: &lt;/b&gt;localizada en un servidor, material auto-contenido. Posee una o varias colecciones &lt;br&gt;digitales.&lt;br&gt;
+&lt;b&gt;B) Federadas: &lt;/b&gt; contiene varias autónomas, heterogéneas. Están conectadas a través de Internet y &lt;br&gt;forman una biblioteca virtual mayor. Poseen una interfaz de usuario transparente y unificado. Su &lt;br&gt;principal problema es la &lt;b&gt;interopertividad &lt;/b&gt;al ser varias bibliotecas diferentes en una misma virtual.&lt;br&gt;
+&lt;b&gt;C) Recolectadas: &lt;/b&gt;material recopilado, no son bibliotecas completas. Los objetos se completan con &lt;br&gt;metadatos.&lt;br&gt;
+&lt;b&gt;EJERCICIO 2) EVOLUCIÓN HISTÓRICA&lt;/b&gt;&lt;br&gt;
+Primero estaban propiamente dicho las bibliotecas.&lt;br&gt;
+Las primeras bibliotecas propiemente dichas eran colecciones de tablillas de arcilla, las primeras en &lt;br&gt;la antigua Mesopotamia, en las cuales se recogían registros ligados a la actividad religiosa,política, &lt;br&gt;económica y administratva, ligada a los escribas y sacerdotes. De esa época destacan las bibliotecas &lt;br&gt;de Mari,Lagash y Ebla.&lt;br&gt;
+Más tarde en el Antiguo Egipto comenzaron invención y uso papiros, se crearon 2 instituciones: &lt;br&gt;Casas de los Libros (archivos administrativos), y las Casas de la Vida (centro de estudios apra los &lt;br&gt;escribas y donde se poseían copias de varias colecciones).&lt;br&gt;
+Evolucionó a la antiguo Grecia, donde se generaliza en cierta medido el acceso a la lectura de &lt;br&gt;libros, en bibliotecas desvinculadas de tempolos. Destacan 2 grandes bibliotecas, la de &lt;b&gt;Alejandría&lt;/b&gt; y&lt;br&gt;la de &lt;b&gt;Pérgamo.&lt;/b&gt;&lt;br&gt;
+Por primera vez, en Roma se fundó la primera biblioteca pública, por medio de &lt;b&gt;Asinio Polión&lt;/b&gt; y se &lt;br&gt;crearon otras como la &lt;b&gt;Octaviana y Palatina&lt;/b&gt;, creadas por &lt;b&gt;Augusto, &lt;/b&gt;y la &lt;b&gt;Biblioteca Ulpia&lt;/b&gt; fundada &lt;br&gt;por el emperador &lt;b&gt;Trajano&lt;/b&gt;.&lt;br&gt;
+Con la caída del Imperio Romano y el auge del cristianismo, aparecen los primeros códices de &lt;br&gt;pergamino, mientras que la cultura retrocede y las bibliotecas quedan solo en monasterios &lt;br&gt;cristianos. Destacan las de &lt;b&gt;Saint Gall (&lt;/b&gt;Alemania), &lt;b&gt;Monte Casino&lt;/b&gt; (Italia), &lt;b&gt;Reichenau&lt;/b&gt; (Francia), &lt;br&gt;&lt;b&gt;San Millán de la Cogolla&lt;/b&gt; (España). Los libros eran escritos o copiados por monjes en los propios &lt;br&gt;monasterios hasta entonces.&lt;br&gt;
+No es hasta el siglo XV que se inventó la imprenta, donde se produce un importante giro.&lt;br&gt;
+A raíz de la invención de la imprenta en el siglo XV,alrededor de 1450 por Gutenber. Desde &lt;br&gt;
+&lt;hr&gt;
+&lt;A name=4&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+entonces aumentó el volumen de libros creados y se crean las primeras bibliotecas públicas &lt;br&gt;universitarias, y el libro llega a más sectores de la población.&lt;br&gt;
+Durante la época del &lt;b&gt;Renacimiento &lt;/b&gt;aparecen nuevas bibliotecas creadas por monarcas y nobles de &lt;br&gt;la época, como la de Fointaneblau o la Computense y la del Escorial, creadas por Felipe II.&lt;br&gt;
+En el siglo XVII apracen otras aún mayores, con grandes instituciones como la &lt;b&gt;Bodleiana de &lt;br&gt;Oxford, &lt;/b&gt;la &lt;b&gt;Ambrosiana de Milán, o la Mazarina de París.&lt;/b&gt;&lt;br&gt;
+Más tarde, en la Edad Contemporánea, se extiende la idea de una &lt;b&gt;biblioteca pública &lt;/b&gt;para todo el &lt;br&gt;mundo, donde cualquiera tiene derecho a acceder a la información.&lt;br&gt;
+En el siglo XX, con el aumento de las nuevas tecnologías, comienza a extendersa la práctica de &lt;br&gt;almacenar datos y contenidos multimedia en las bibliotecas (vídeos, audios). El gran salto final se &lt;br&gt;produce con la llegada de Internet donde comienzan a almacenarse datos e información en la web, y&lt;br&gt;aparecen las primeras bibliotecas digitales tales y como las conocemos.&lt;br&gt;
+Las primeras muestras de digitalización fueron propuestas por Bush con su máquina (teórica) &lt;br&gt;Memex. Se trataba de una máquina que funcionaba con una serie de códigos de barras en una &lt;br&gt;micropelícula, donde se representaban datos, con una serie de columnas y filas, por ejemplo: &lt;br&gt;primera columna blanco y las demás en negro representaba la A. Proponía ordenar los archivos &lt;br&gt;como estaban ordenados los pensamientos en nuestro cerebro.&lt;br&gt;
+Tras la II Guerra Mundial en 1960, comienza a trabajarse con textos y tablas calculando datos &lt;br&gt;dedicados a balísticas, computados en el Harvard Mark I por Howard Aiken.&lt;br&gt;
+En 1970, se establece el uso de los ordenadores, y comienzan a reporducirse y visionarse en lo &lt;br&gt;mismo documentos, y evolucionó hasta 1980 done cambió la producción total de documentos a &lt;br&gt;formato digital.&lt;br&gt;
+Más tarde, con la llegada del Internet en 1995, aparecen nuevas formas de organizar la información &lt;br&gt;a través de la red, y aparecen los primeros sistemas de transferencia de archvos. Uno de los más &lt;br&gt;importantes es el sismtema de compartición de ficheros &lt;b&gt;ftp&lt;/b&gt; creado en 2004. Con la llegada más &lt;br&gt;tarde de las páginas webs, se comienzan a indexar las palabras de forma automática, y aparecen &lt;br&gt;buscadores de información web, destacando Google. Todo esto hace de Internet una biblioteca &lt;br&gt;enorme de información digital. Se mejoran los algoritmos de indexación y búsqueda más rápidos, &lt;br&gt;agilizando las búsquedas en páginas web.&lt;br&gt;
+En los últimos 10 años, han aparecido numerosas entidades que han propuesto contener la &lt;br&gt;información en webs dedicadas, componiendo las bibliotecas digitales tal y como las conocemos. &lt;br&gt;Disponen de gran material digitalizado, y no sólo documentos, sino vídeos, música, mapas, &lt;br&gt;imágenes, etc. En los últimos 2/3 años con la llegada de los llamados “libros eléctronicos” y los &lt;br&gt;formatos &lt;b&gt;epub&lt;/b&gt; se han creado varias bibiotecas de libros digitales gratuitas.&lt;br&gt;
+En la actualidad destacan las bibiotecas siguientes:&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.bdh.bne.es&quot;&gt;&lt;i&gt;- www.bdh.bne.es&lt;/i&gt; Bi&lt;/a&gt;blioteca Digital Hispánica&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=5&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.cervantesvirtual.com&quot;&gt;&lt;i&gt;- http://www.cervantesvirtual.com/  B&lt;/a&gt;ibioteca virtual Miguel de Cervantes&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.oei.es%2fbibliotecadigital.php&quot;&gt;&lt;i&gt;- http://www.oei.es/bibliotecadigital.php B&lt;/a&gt;iblioteca Estados IberoAmericanos&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.wdl.org%2fes&quot;&gt;&lt;i&gt;- http://www.wdl.org/es/  B&lt;/a&gt;iblioteca Digital Mundial&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fdigibug.ugr.es&quot;&gt;&lt;i&gt;- http://digibug.ugr.es/ P&lt;/a&gt;royecto Digibug de la Universidad de Granada&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fbiblioteca.ugr.es&quot;&gt;&lt;i&gt;- http://biblioteca.ugr.es/ B&lt;/a&gt;iblioteca Electrónica de la Universidad de Granada&lt;/i&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2febiblioteca.org%2f%3f%2fbuscar%2f%7eTolkien%2520J%2520R%2520R&quot;&gt;&lt;i&gt;- http://ebiblioteca.org/?/buscar/~Tolkien%20J%20R%20R B&lt;/a&gt;ibliotecas de aficcionados a la lectura&lt;br&gt;que comparten todo tipo de libros.&lt;/i&gt;&lt;br&gt;
+&lt;b&gt;Fuentes:&lt;/b&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fBiblioteca%5fdigital#Historia&quot;&gt;https://es.wikipedia.org/wiki/Biblioteca_digital#Historia&lt;/a&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fBiblioteca#Historia&quot;&gt;https://es.wikipedia.org/wiki/Biblioteca#Historia&lt;/a&gt;&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.inqnable.es%2frecursos%2fespecifico%2fhistoria-libro-bibliotecas&quot;&gt;http://www.inqnable.es/recursos/especifico/historia-libro-bibliotecas&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;Ejercicio 3) ¿Qué más objetos se podrían almacenar en&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;una biblioteca digital? &lt;/b&gt;&lt;br&gt;
+- Vídeo: archivos de vídeo, películas, documentales y recursos asociados de información de este &lt;br&gt;tipo.&lt;br&gt;
+- Audio: grabaciones de audio, en formatos digitales como mp3&lt;br&gt;
+- Libros: lo más básico de una biblioteca. Estarían claro esta en formatos digitales como &lt;br&gt;pdf,epub,mobi,etc.&lt;br&gt;
+- Imágenes: fotos, pinturas, mapas, etc. Todo ello escaneado en alta resolución y presentado en los &lt;br&gt;formatos adecuados de imagen.&lt;br&gt;
+- Mapas: cartas cartográficas antiguas.&lt;br&gt;
+- Carteles: carteles de varias épocas, como por ejemplo de la II Guerra Mundial el típico ”Keep &lt;br&gt;Calm”, o anuncios típicos de varias marcas.&lt;br&gt;
+- Piezas de Artesanía: fotos de piezas de artesanía antiguas de otras épocas.&lt;br&gt;
+Fuente:&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.bne.es%2fes%2fCatalogos%2fBibliotecaDigitalHispanica%2fColecciones&quot;&gt; http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Colecciones/&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=6&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+&lt;b&gt;Ejercicio 4) Busca al menos cinco bibliotecas digitales y haz &lt;/b&gt;&lt;br&gt;
+&lt;b&gt;un breve análisis de ellas.&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Biblioteca Digital Hispánica&lt;/b&gt;&lt;br&gt;
+La Biblioteca Digital Hispánica es la &lt;b&gt;biblioteca digital &lt;/b&gt;de la Biblioteca Nacional de España. &lt;br&gt;Proporciona acceso libre y gratuito a miles de documentos digitalizados, entre los que se cuentan &lt;br&gt;libros impresos entre los siglos XV y XIX, manuscritos, dibujos, grabados, folletos, carteles, &lt;br&gt;fotografías, mapas, atlas, partituras, prensa histórica y grabaciones sonoras.&lt;br&gt;
+Creada en 2008 y sus princiales objetivos son: &lt;b&gt;difundir el patrimino cultural español, &lt;/b&gt;contribuir &lt;br&gt;en la creción de la &lt;b&gt;Biblioteca Digital Europea, &lt;/b&gt;fomentar la &lt;b&gt;investigación cultural, &lt;/b&gt;y &lt;br&gt;&lt;b&gt;cooperancion entre bilbiotecas hispanas (&lt;/b&gt;incluyendo latinoamericanas).&lt;br&gt;
+La oferta es para cualquier público hispano hablante.&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.bne.es%2fes%2fCatalogos%2fBibliotecaDigitalHispanica%2fInicio%2findex.html&quot;&gt;&lt;i&gt;- http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html&lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;Biblioteca Virtual Miguel de Cervantes&lt;/b&gt;&lt;br&gt;
+Biblioteca en castellano, donde su principal objetivo es la difusión de la cultura hispánica.  Creada &lt;br&gt;en 1999 por la Universidad de Alicante y pratocinada por el Banco Santander y la Fundación Emilio&lt;br&gt;Botín. Actualmente la preside la fundación que preside &lt;b&gt;Mario Vargas Llosa&lt;/b&gt;. Tiene un registro de &lt;br&gt;135.000 documentos, de los cuales unos 60.000 son libros. . A diferencia de la anterior, esta &lt;br&gt;biblioteca solo posee material literario y documentos escritos. Posee los archivos en los nuevos &lt;br&gt;formatos epub inclusive.&lt;br&gt;
+Está destinada a cualquier lector que hable o comprenda castellano.&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.cervantesvirtual.com&quot;&gt;&lt;i&gt;- http://www.cervantesvirtual.com/  B&lt;/a&gt;ibioteca virtual Miguel de Cervantes&lt;/i&gt;&lt;br&gt;
+&lt;b&gt;Biblioteca Estados IberoAmericanos&lt;/b&gt;&lt;br&gt;
+Es una bibioteca creada por la &lt;b&gt;Organización de los Estados Iberoamericanos&lt;/b&gt;. Está ligada a la &lt;br&gt;biblioteca digital española y propone la difusión del castellano en el resto del mundo.&lt;br&gt;
+Posee un amplio catálogo, contribuido por las demás bibliotecas hispanas asociadas.&lt;br&gt;
+Sus principales usuarios son al igual que antes, los hispanohablantes.&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.oei.es%2fbibliotecadigital.php&quot;&gt;&lt;i&gt;- http://www.oei.es/bibliotecadigital.php B&lt;/a&gt;iblioteca Estados IberoAmericanos&lt;/i&gt;&lt;br&gt;
+&lt;b&gt;Biblioteca Digital Mundial&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=7&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+La Biblioteca Digital Mundial pone a disposición en Internet, de manera gratuita y en formato &lt;br&gt;multilingüe, importantes materiales fundamentales de culturas de todo el mundo.&lt;br&gt;
+Los objetivos de la Biblioteca Digital Mundial son:&lt;br&gt;
+• Promover el entendimiento internacional e intercultural;&lt;br&gt;• Ampliar la cantidad y la variedad de contenidos culturales en Internet; &lt;br&gt;• Facilitar recursos a los educadores, estudiosos y el público en general; &lt;br&gt;• Permitir a las instituciones asociadas reducir la distancia digital dentro de y entre los países.&lt;br&gt;
+Fases de su creación:&lt;br&gt;
+Fue fundada en 2006 por la UNESCO y la Biblioteca del Congreso (mediane el bibliotecario James &lt;br&gt;H.Billington). No se lanza al público hasta Abril de 2009, con contenido acerca de cada estado &lt;br&gt;miembro de la UNESCO.&lt;br&gt;
+Está ligada estrechamente al proyecto &lt;b&gt;Memoria del Mundo&lt;/b&gt;, y propone recoger los mejores &lt;br&gt;catálogos de los miembros de la UNESCO.&lt;br&gt;
+Al ser multilenguaje, es accesible para cualquier persona en el mundo.&lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.wdl.org%2fes&quot;&gt;&lt;i&gt;- http://www.wdl.org/es/  B&lt;/a&gt;iblioteca Digital Mundial&lt;/i&gt;&lt;br&gt;
+&lt;b&gt;Ciberoteca &lt;/b&gt;&lt;br&gt;
+Es un proyecto de la Obra Social Bancaja, que persigue la catalogación de los mejores recursos &lt;br&gt;culturales disponibles a través de Internet.&lt;br&gt;
+Tiene&lt;b&gt; 3 objetivos básicos&lt;/b&gt;: &lt;br&gt;
+- &lt;b&gt;Facilitar la localización de contenidos&lt;/b&gt;, tanto de carácter literario,técnico,ciéntifico existentes en &lt;br&gt;la Red.&lt;br&gt;
+- &lt;b&gt;Contribuir a aumentar los contenidos de la misma.&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;- Fomentar la participación de los usuarios, difundiendo la cultura a través de Internet.&lt;/b&gt;&lt;br&gt;
+Posee un amplio catálogo y cabe decir que ninguna obra se aloja directamente en su web, sino que &lt;br&gt;es enlazada al origen de la misma. &lt;b&gt;Todas las referencias enlazan con los textos en sus webs de &lt;br&gt;origen&lt;/b&gt;. Todos los enlaces se abren en ventanas emergentes que no poseen ningún frame u otro tipo &lt;br&gt;de elemento identificativo de la Ciberoteca. Se ha procurado que en todos los enlaces directos al &lt;br&gt;texto de una obra quede perfectamente reflejada la web de destino. &lt;br&gt;
+&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.ciberoteca.com&quot;&gt;- http://www.ciberoteca.com&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=8&gt;&lt;/a&gt;Rafael Lachica Garrido&lt;br&gt;
+Tema1 Gestión de Recursos Digitales&lt;br&gt;
+&lt;b&gt;REFERENCIAS&lt;/b&gt;&lt;br&gt;
+1. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.bdh.bne.es&quot;&gt;www.bdh.bne.es&lt;/i&gt; Bi&lt;/a&gt;blioteca Digital Hispánica&lt;br&gt;2. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.cervantesvirtual.com&quot;&gt;http://www.cervantesvirtual.com/  B&lt;/a&gt;ibioteca virtual Miguel de Cervantes&lt;/i&gt;&lt;br&gt;
+3. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.oei.es%2fbibliotecadigital.php&quot;&gt;http://www.oei.es/bibliotecadigital.php B&lt;/a&gt;iblioteca Estados IberoAmericanos&lt;/i&gt;&lt;br&gt;
+4. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.wdl.org%2fes&quot;&gt;http://www.wdl.org/es/  B&lt;/a&gt;iblioteca Digital Mundial&lt;/i&gt;&lt;br&gt;
+5. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fdigibug.ugr.es&quot;&gt;http://digibug.ugr.es/ P&lt;/a&gt;royecto Digibug de la Universidad de Granada&lt;/i&gt;&lt;br&gt;
+6. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fbiblioteca.ugr.es&quot;&gt;http://biblioteca.ugr.es/ B&lt;/a&gt;iblioteca Electrónica de la Universidad de Granada&lt;/i&gt;&lt;br&gt;
+7. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2febiblioteca.org%2f%3f%2fbuscar%2f%7eTolkien%2520J%2520R%2520R&quot;&gt;http://ebiblioteca.org/?/buscar/~Tolkien%20J%20R%20R B&lt;/a&gt;ibliotecas de aficcionados a la &lt;/i&gt;&lt;br&gt;
+&lt;i&gt;lectura que comparten todo tipo de libros.&lt;/i&gt;&lt;br&gt;
+8. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fBiblioteca%5fdigital#Historia&quot;&gt;https://es.wikipedia.org/wiki/Biblioteca_digital#Historia&lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+9. &lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fes.wikipedia.org%2fwiki%2fBiblioteca#Historia&quot;&gt;https://es.wikipedia.org/wiki/Biblioteca#Historia&lt;/a&gt;&lt;br&gt;
+10. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.inqnable.es%2frecursos%2fespecifico%2fhistoria-libro-bibliotecas&quot;&gt;http://www.inqnable.es/recursos/especifico/historia-libro-bibliotecas &lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+11. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.bne.es%2fes%2fCatalogos%2fBibliotecaDigitalHispanica%2fColecciones&quot;&gt;http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Colecciones/ &lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+12. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.bne.es%2fes%2fCatalogos%2fBibliotecaDigitalHispanica%2fInicio%2findex.html&quot;&gt;http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html &lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+13. &lt;i&gt;&lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.cervantesvirtual.com&quot;&gt;http://www.cervantesvirtual.com/  B&lt;/a&gt;ibioteca virtual Miguel de Cervantes&lt;/i&gt;&lt;br&gt;
+14. &lt;A href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.ciberoteca.com&quot;&gt;http://www.ciberoteca.com Ci&lt;/a&gt;beroteca&lt;br&gt;
+&lt;hr&gt;
+&lt;A name=&quot;outline&quot;&gt;&lt;/a&gt;&lt;h1&gt;Document Outline&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;A href=&quot;_httpsamepagelink_#1&quot;&gt;��&lt;/A&gt;
+&lt;ul&gt;&lt;li&gt;&lt;A href=&quot;_httpsamepagelink_#1&quot;&gt;��&lt;/A&gt;
+&lt;li&gt;&lt;A href=&quot;_httpsamepagelink_#3&quot;&gt;��&lt;/A&gt;
+&lt;/ul&gt;&lt;li&gt;&lt;A href=&quot;_httpsamepagelink_#5&quot;&gt;��&lt;/A&gt;
+&lt;ul&gt;&lt;li&gt;&lt;A href=&quot;_httpsamepagelink_#6&quot;&gt;��&lt;/A&gt;
+&lt;li&gt;&lt;A href=&quot;_httpsamepagelink_#8&quot;&gt;��&lt;/A&gt;
+&lt;/ul&gt;&lt;/ul&gt;&lt;hr&gt;
+
+
+</Content>
+</Section>
+</Archive>

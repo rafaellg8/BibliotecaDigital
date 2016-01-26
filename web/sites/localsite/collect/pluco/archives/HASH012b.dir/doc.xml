@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\archivo.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">1806</Metadata>
+    <Metadata name="Source">archivo.html</Metadata>
+    <Metadata name="SourceFile">archivo.html</Metadata>
+    <Metadata name="Language">es</Metadata>
+    <Metadata name="Encoding">iso_8859_1</Metadata>
+    <Metadata name="Title">PLATAFORMA UNIVERSITARIA DE COMPARTICIÓN DE CONOCIMIENTOS: PLUCO Introducción ...</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://archivo.html</Metadata>
+    <Metadata name="UTF8URL">http://archivo.html</Metadata>
+    <Metadata name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+    <Metadata name="PLUCO.theme">HTML</Metadata>
+    <Metadata name="PLUCO.title">Archivo html</Metadata>
+    <Metadata name="Identifier">HASH012bed0c82fbfaeea2ac2a2f</Metadata>
+    <Metadata name="lastmodified">1452629420</Metadata>
+    <Metadata name="lastmodifieddate">20160112</Metadata>
+    <Metadata name="oailastmodified">1452629738</Metadata>
+    <Metadata name="oailastmodifieddate">20160112</Metadata>
+    <Metadata name="assocfilepath">HASH012b.dir</Metadata>
+  </Description>
+  <Content>&lt;h1&gt;&lt;a id=&quot;user-content-plataforma-universitaria-de-comparticiÓn-de-conocimientos-pluco&quot; class=&quot;anchor&quot; href=&quot;_httpsamepagelink_#plataforma-universitaria-de-comparticiÓn-de-conocimientos-pluco&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;octicon octicon-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;PLATAFORMA UNIVERSITARIA DE COMPARTICIÓN DE CONOCIMIENTOS: PLUCO&lt;/h1&gt;
+
+&lt;h3&gt;&lt;a id=&quot;user-content-introducción&quot; class=&quot;anchor&quot; href=&quot;_httpsamepagelink_#introducción&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;octicon octicon-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;Introducción&lt;/h3&gt;
+
+&lt;p&gt;Plataforma académica de compartición de archivos de la Universidad de Granada, y que permita la colaboración en grupo entre los usuarios del sistema. Añade servicios de mensajería y foros,potenciando la interacción de los usuarios, y agrupando a los mismos por varios grupos de o bien asignaturas o cursos.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;user-content-seguridad&quot; class=&quot;anchor&quot; href=&quot;_httpsamepagelink_#seguridad&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;octicon octicon-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;Seguridad&lt;/h3&gt;
+
+&lt;p&gt;En cuanto a la seguridad de nuestra plataforma los objetivos son: Permitir tener un sistema seguro en el que se separen datos sensibles y credenciales de los usuarios, y por otra parte archivos de los mismos. Por otra parte tendremos una web con foros que si es atacada no compremete la privacidad de los usuarios ni sus archivos.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;user-content-infraestuctura&quot; class=&quot;anchor&quot; href=&quot;_httpsamepagelink_#infraestuctura&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;octicon octicon-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;Infraestuctura&lt;/h3&gt;
+
+&lt;h4&gt;&lt;a id=&quot;user-content-red-social-pluco&quot; class=&quot;anchor&quot; href=&quot;_httpsamepagelink_#red-social-pluco&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;octicon octicon-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;Red Social PLUCO&lt;/h4&gt;
+
+
+&lt;div&gt;
+&lt;h1&gt;Autores&lt;/h1&gt;
+&lt;p&gt;Rafael Lachica Garrido&lt;/p&gt;
+&lt;p&gt;Miguel Ferández Fernández&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fgithub.com%2frafaellg8%2fIV-PLUCO-RLG&quot;&gt;Acerca de&lt;/a&gt;&lt;/h2&gt;</Content>
+</Section>
+</Archive>

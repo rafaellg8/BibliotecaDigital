@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata><!-- 
+	 Two examples of the syntax to use to attach metadata to files in a
+         given directory within the 'import' area.
+
+         Copy this file to the folder where the files or interest are, and
+	 then uncomment (or copy and paste) the <FileSet> block and
+	 edit to suit the file name(s) and metadata values required
+    --><!-- 
+	 Example 1:
+	   Attached dc.Title and dc.Subject (x 2) to a single, named file
+    --><!--
+    <FileSet>
+        <FileName>sample-file1\.txt</FileName>
+        <Description>
+            <Metadata name="dc.Title">Sample Title</Metadata>
+            <Metadata name="dc.Subject">Subject A</Metadata>
+            <Metadata mode="accumulate" name="dc.Subject">Subject B</Metadata>
+        </Description>
+    </FileSet>
+--><!-- 
+	 Example 2:
+	   Attached dc.Subject to all files in this folder that match the given
+	   regular expression 
+    --><!--
+    <FileSet>
+        <FileName>.*</FileName>
+        <Description>
+            <Metadata mode="accumulate" name="dc.Subject">Subject X</Metadata>
+        </Description>
+    </FileSet>
+-->
+	<FileSet>
+		<FileName>SPSI-HILL\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="PLUCO.title">Cifrado de Hill</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Rafael Lachica Garrido</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.autor">Rubén Martín Hidalgo</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.theme">SPSI|Cifrados|Hill</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.curse">4</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.description">Trabajo realizado sobre un ataque por fuerza bruta a un cifrado de Hill</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.date">1-12-15</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.signature">SPSI|CIF|HIL</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Hill</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">Cifrados</Metadata>
+			<Metadata mode="accumulate" name="PLUCO.tags">SPSI</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
