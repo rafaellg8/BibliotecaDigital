@@ -10,6 +10,6 @@ Para que funcione simplemente debemos copiar el directorio **web** a nuestro dir
 
 [Descargar Greenstone](http://www.greenstone.org/download_es)
 
-<h2>[Documentación](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/documentacion.md)</h2>
+[Documentación](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/documentacion.md)
 
-<h2>[Implementación y documentación completa  pdf](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/pdf.pdf]
+[Implementación y documentación completa  pdf](https://github.com/rafaellg8/BibliotecaDigital/blob/master/docu/pdf.pdf]
